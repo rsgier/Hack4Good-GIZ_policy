@@ -9,7 +9,7 @@
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/analytics-club/hack4good/hack4good-fall-2021/rega/rega.git
+git remote add origin https://gitlab.com/analytics-club/hack4good/hack4good-fall-2021/giz-policy/giz-policy.git
 git branch -M main
 git push -uf origin main
 ```
