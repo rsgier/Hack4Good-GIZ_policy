@@ -1,7 +1,6 @@
 # GIZ
 
 
-
 ## Add your files
 
 - [ ] [Create](https://gitlab.com/-/experiment/new_project_readme_content:c8025276be15008bbf49a9722415d683?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://gitlab.com/-/experiment/new_project_readme_content:c8025276be15008bbf49a9722415d683?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
@@ -41,4 +40,7 @@ git push -uf origin main
 - Raphael Sgier
 - Jonathan Doorn
 - Paul Türtscher
+
+**meetings:**
+- 04.10.2021 project outline meeting 
 
