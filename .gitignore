@@ -1,1 +1,7 @@
 venv/
+.ipynb_checkpoints/
+
+*.pyc
+texts/
+.vscode/settings.json
+.pylintrc
