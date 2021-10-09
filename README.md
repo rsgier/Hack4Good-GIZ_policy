@@ -50,3 +50,6 @@ git push -uf origin main
 - Jonathan Doorn
 - Paul Türtscher
 
+**meetings:**
+- 04.10.2021 project outline meeting 
+
