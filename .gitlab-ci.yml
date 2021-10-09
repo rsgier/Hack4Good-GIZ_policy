@@ -1,0 +1,20 @@
+stages:
+  - lint
+
+lint-code-job:
+  stage: lint
+  script:
+    - pip install pylint
+    - current_branch="$CI_BUILD_REF_NAME"
+    - echo $current_branch
+    - all_changed_files=$(git diff --name-only origin/master origin/$current_branch)
+    - echo "checking changes"
+    - for each_file in $all_changed_files
+    - do
+    - pylint $each_file --count
+    - if [ $? -ne 0 ]; then
+    - exit 1
+    - fi
+    - exit 0
+    - done
+    - echo "completed checking"

@@ -4,4 +4,3 @@ venv/
 *.pyc
 texts/
 .vscode/
-.pylintrc
