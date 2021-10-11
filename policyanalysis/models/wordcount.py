@@ -4,6 +4,7 @@ within a document
 """
 
 import nltk
+from typing import List
 
 
 class WordCount:
@@ -13,10 +14,10 @@ class WordCount:
         tokens (list[str]): a list of tokens from a preprocessing step
     """
 
-    def __init__(self, tokens: list[str]) -> None:
+    def __init__(self, tokens: List[str]):
         self.tokens = tokens
 
-    def get_total_token_count(self):
+    def get_total_token_count(self) -> int:
         """Returns the total token count"""
         return len(self.tokens)
 
