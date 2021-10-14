@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
 
-def calculate_word_freq_ndc(word_freq, ndc_dict, key):
+def calculate_word_freq_ndc(word_freq: dict[str, int],
+                            ndc_dict: dict[str, list[str]], key: str):
     """
     Input: The word frequencies calculated by the Counter for the whole document (word_freq), 
     the dictionary of ndc key words organized by topic (ndc_dict), and the ndc topic (key).
