@@ -13,7 +13,7 @@ from collections import OrderedDict
 nlp = spacy.load(
     'en_core_web_sm')
 
-def fix_contractions(document: str):
+def fix_contractions(document: str) -> str:
     """Expands text, such that potentially important words
      are not removed with punctuation removal (e.g. can't is expanded to cannot).
 
@@ -37,7 +37,7 @@ def fix_contractions(document: str):
     expanded_text = ' '.join(expanded_words)
     return expanded_text
 
-def is_token_allowed(token: object):
+def is_token_allowed(token: object) -> bool:
     """ Checks whether token in not a stop word or punctuation symbol.
 
     Args:
@@ -52,7 +52,7 @@ def is_token_allowed(token: object):
     return True
 
 
-def preprocess_token(token: object):
+def preprocess_token(token: object) -> str:
     """ Computes the lowercase lemma form of the input token.
 
     Args:
@@ -64,7 +64,7 @@ def preprocess_token(token: object):
     return token.lemma_.strip().lower()
 
 
-def preprocess_doc(doc_path: str):
+def preprocess_doc(doc_path: str) -> object, list[object], list[object]:
     """Applies NLP framework to a document.
 
     Args:
@@ -87,7 +87,7 @@ def preprocess_doc(doc_path: str):
     return tokens, token_list, sentences
 
 
-def filter_modify_tokens(tokens: list[object]):
+def filter_modify_tokens(tokens: list[object]) -> list[object]:
     """ This function takes a collection of tokens from the nlp() function applied to text
     and generates a list of filtered tokens that we then convert into a filtered text and
     collection of filtered tokens.
@@ -112,7 +112,7 @@ def filter_modify_tokens(tokens: list[object]):
     return filtered_tokens
 
 
-def make_filtered_tokens_from_ndc(ndc_dict: dict):
+def make_filtered_tokens_from_ndc(ndc_dict: dict) -> dict:
     """Takes an NDC dictionary and processes the topics and keywords for searching within the documents,
     assuming we are searching for individual words and to process the words in the same way are processing
     the document text to have the best chance of finding keywords in the documents.
