@@ -7,6 +7,7 @@ import codecs
 import contractions
 import spacy
 from collections import OrderedDict
+from typing import List
 
 
 # for multi-language: spacy.load('xx_ent_wiki_sm')
@@ -64,7 +65,7 @@ def preprocess_token(token: object) -> str:
     return token.lemma_.strip().lower()
 
 
-def preprocess_doc(doc_path: str) -> object, list[object], list[object]:
+def preprocess_doc(doc_path: str) -> object, List[object], List[object]:
     """Applies NLP framework to a document.
 
     Args:
@@ -72,8 +73,8 @@ def preprocess_doc(doc_path: str) -> object, list[object], list[object]:
 
     Returns:
         tokens (object): word tokens
-        token_list (list[object]): list of the word tokens
-        sentences (list[object]): sentence tokens
+        token_list (List[object]): list of the word tokens
+        sentences (List[object]): sentence tokens
     """
 
     # TODO: check functionality and output of spacy (nlp) and potentially condense functions
@@ -87,15 +88,15 @@ def preprocess_doc(doc_path: str) -> object, list[object], list[object]:
     return tokens, token_list, sentences
 
 
-def filter_modify_tokens(tokens: list[object]) -> list[object]:
+def filter_modify_tokens(tokens: List[object]) -> List[object]:
     """ This function takes a collection of tokens from the nlp() function applied to text
     and generates a list of filtered tokens that we then convert into a filtered text and
     collection of filtered tokens.
 
     Args:
-        tokens (list[object]): list of input tokens
+        tokens (List[object]): list of input tokens
 
-    Returns (list[object]):
+    Returns (List[object]):
         list of filtered tokens
     """
 
@@ -112,7 +113,7 @@ def filter_modify_tokens(tokens: list[object]) -> list[object]:
     return filtered_tokens
 
 
-def make_filtered_tokens_from_ndc(ndc_dict: dict) -> dict:
+def make_filtered_tokens_from_ndc(ndc_dict: Dict) -> Dict:
     """Takes an NDC dictionary and processes the topics and keywords for searching within the documents,
     assuming we are searching for individual words and to process the words in the same way are processing
     the document text to have the best chance of finding keywords in the documents.
