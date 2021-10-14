@@ -4,12 +4,10 @@ import matplotlib.pyplot as plt
 plt.style.use('ggplot')
 
 
-def topic_frequency_subset(document_frequency: dict[str, int],
-                           topic_to_keywords: dict[str, list[str]],
-                           topic: str) -> dict[str, int]:
-    """Returns a frequency table of keywords from a topic area
-
-    Formerly calculate_word_freq_ndc(dict, dict, str) -> list, list
+def topic_frequency_subset(document_frequency: Dict[str, int],
+                           topic_to_keywords: Dict[str, list[str]],
+                           topic: str) -> Dict[str, int]:
+    """Returns a frequency table of keywords from a topic area.
 
     Args:
         document_frequency: a mapping of all words in a document to their frequency
@@ -27,7 +25,7 @@ def topic_frequency_subset(document_frequency: dict[str, int],
     return word_frequencies
 
 
-def graph_word_freq_ndc(topic_term_frequencies: dict[str, int],
+def graph_word_freq_ndc(topic_term_frequencies: Dict[str, int],
                         topic: str,
                         doc_name: str,
                         output_folder: str,
