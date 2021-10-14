@@ -27,35 +27,33 @@ def topic_frequency_subset(document_frequency: dict[str, int],
     return word_frequencies
 
 
-def graph_word_freq_ndc(frequencies: dict[str, int],
+def graph_word_freq_ndc(topic_term_frequencies: dict[str, int],
                         topic: str,
                         doc_name: str,
                         output_folder: str,
                         save=False):
     """Graphs keyword frequencies found in an individual document
-    Input: The word frequencies (word_scores) for the NDC words associated 
-    with a topic (words) for graphing, including the associated NDC topic (ndc_name) and 
-    document name (doc_name) to include in graph and file name for output to the output_folder. 
-    Output: Bar graph in the output folder of word frequencies for the NDC words associated 
-    with a topic/theme.
 
     Args:
         frequencies: a keyword to frequency mapping
-        topic: the 
+        topic: topic containing keyword subset to plot 
+        doc_name: document on which frequency analysis has been made
+        output_folder: folder path to output a pdf of the plot
+        save: boolean to enable saving of a plot pdf (default False)
     """
     #input data
-    x = words
-    y = word_scores
-    x_pos = [i for i, _ in enumerate(x)]
+    keywords = topic_term_frequencies.keys()
+    frequencies = topic_term_frequencies.values()
+    kwd_pos = list(range(len(keywords)))
 
     #set plot parameters
-    plt.rcParams["figure.figsize"] = ((len(words) / 3), 4)
-    plt.bar(x, y, color='mediumseagreen')
-    plt.xlabel(f"NDC words: {ndc_name}")
+    plt.rcParams["figure.figsize"] = ((len(keywords) / 3), 4)
+    plt.bar(keywords, frequencies, color='mediumseagreen')
+    plt.xlabel(f"NDC words: {topic}")
     plt.ylabel("Frequency")
-    title = (f"{ndc_name} NDC words in: {doc_name}")
+    title = (f"{topic} NDC words in: {doc_name}")
     plt.title(title)
-    plt.xticks(x_pos, x, rotation=90)
+    plt.xticks(kwd_pos, keywords, rotation=90)
     if save:
         plt.savefig((output_folder + 'bar_chart_%s.pdf' % (title)),
                     bbox_inches='tight')
