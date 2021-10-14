@@ -1,14 +1,46 @@
 import pandas as pd
 import os
+from typing import List
 
+def list_docs(folder: str,
+              blacklist: List[str] = ['Source.txt', 'Source Link.txt', 'Source Links.txt'] ) -> List[str], List[str]:
+    """Generates a list of document names for reference and tracking.
+    This command currently extracts the .txt documents from all the subfolders of a parent folder,
+    and filters out the ones containing source information, which we might not want to use in our analysis.
 
-def get_docs_df_from_folder(policy_doc_folder):
+    Args:
+        folder (type): .
+
+    Returns:
+        type: .
+
     """
-    Takes in a folder (can also be with different subfolders) with policy-related text documents 
+
+    doc_names = []
+    doc_paths = []
+    for root, dirs, files in os.walk(folder):
+        for file in files:
+            if file.endswith('.txt') and (file not in blacklist):
+                doc_names.append(file)
+                doc_paths.append(os.path.join(root, file))
+    return doc_names, doc_paths
+
+def get_docs_df_from_folder(policy_doc_folder: str) -> pd.df:
+    """Takes in a folder (can also be with different subfolders) with policy-related text documents
     and gathers txt docs to analyze from those folders and makes a dataframe of their names and paths.
-    
-    NOTE: If want to preserve names and paths of the documents and make them easily searchable, it might be useful 
-    to export the dictionary/keep that as well to add more summary information about the document for instance. 
+
+    NOTE: If want to preserve names and paths of the documents and make them easily searchable, it might be useful
+    to export the dictionary/keep that as well to add more summary information about the document for instance.
+
+    Args:
+        policy_doc_folder (type): .
+
+    Returns:
+        type: .
+
+    """
+    """
+
     """
     #get the paths and file names
     policy_doc_names, policy_doc_paths = list_docs(policy_doc_folder)
@@ -28,24 +60,6 @@ def get_docs_df_from_folder(policy_doc_folder):
     policy_doc_df.index = policy_doc_df['policy_doc_names']
     del policy_doc_df['policy_doc_names']  #remove duplicate column
     return policy_doc_df
-
-
-def list_docs(folder):
-    """
-    Generates a list of document names for reference and tracking. 
-    This command currently extracts the .txt documents from all the subfolders of a parent folder, 
-    and filters out the ones containing source information, which we might not want to use in our analysis.
-    """
-    doc_names = []
-    doc_paths = []
-    for root, dirs, files in os.walk(folder):
-        for file in files:
-            if file.endswith('.txt') and (file not in [
-                    'Source.txt', 'Source Link.txt', 'Source Links.txt'
-            ]):
-                doc_names.append(file)
-                doc_paths.append(os.path.join(root, file))
-    return doc_names, doc_paths
 
 
 if __name__ == "__main__":
