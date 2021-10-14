@@ -4,9 +4,8 @@ import matplotlib.pyplot as plt
 
 plt.style.use('ggplot')
 
-
 def calculate_topic_frequency_subset(document_frequency: Dict[str, int],
-                                     topic_to_keywords: Dict[str, list[str]],
+                                     topic_to_keywords: Dict[str, List[str]],
                                      topic: str) -> Dict[str, int]:
     """Returns a frequency table of keywords from a topic area.
 
