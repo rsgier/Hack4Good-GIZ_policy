@@ -4,3 +4,4 @@ venv/
 *.pyc
 texts/
 .vscode/
+giz-policy_tracking_docs/
