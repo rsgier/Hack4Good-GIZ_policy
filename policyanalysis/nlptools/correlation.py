@@ -1,8 +1,9 @@
 from typing import List, Tuple
 import numpy as np
+from spacy.tokens import Doc, Token
 
 
-class KeywordCorrelate:
+class KeywordCorrelateSpacy:
     """A class to assist in finding related terms to a set of keywords
 
     Args:
@@ -14,8 +15,11 @@ class KeywordCorrelate:
         self.keywords = keywords
         self.embed = tf_model
         self.keyword_embeddings = self.embed(self.keywords)
+        Token.set_extension("kwd_correlate", default=None)
 
-    def __call__(self, tokens, to_sort=False) -> List[Tuple[float, str]]:
+    def correlate_tokens(self,
+                         tokens,
+                         to_sort=False) -> List[Tuple[float, str]]:
         """Initiates the correlation process on a new document
 
         Args:
@@ -36,3 +40,12 @@ class KeywordCorrelate:
             return sorted(zipped_correlations, key=lambda x: x[0], reverse=True)
         else:
             return zipped_correlations
+
+    def __call__(self, doc: Doc):
+        tokens = [str(t) for t in doc]
+        correlated = self.correlate_tokens(tokens)
+
+        for i, t in enumerate(doc):
+            t._.kwd_correlate = correlated[i][0]
+
+        return doc
