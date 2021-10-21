@@ -17,9 +17,7 @@ class KeywordCorrelateSpacy:
         self.keyword_embeddings = self.embed(self.keywords)
         Token.set_extension("kwd_correlate", default=None)
 
-    def correlate_tokens(self,
-                         tokens,
-                         to_sort=False) -> List[Tuple[float, str]]:
+    def correlate_tokens(self, tokens) -> List[Tuple[float, str]]:
         """Initiates the correlation process on a new document
 
         Args:
@@ -34,18 +32,19 @@ class KeywordCorrelateSpacy:
         input_embeddings = self.embed(list_to_correlate)
         correlation_2d = np.inner(self.keyword_embeddings, input_embeddings)
         correlation_1d = np.max(correlation_2d, axis=0)
-        zipped_correlations = zip(correlation_1d, list_to_correlate)
 
-        if to_sort:
-            return sorted(zipped_correlations, key=lambda x: x[0], reverse=True)
-        else:
-            return zipped_correlations
+        return correlation_1d, list_to_correlate
+
+    def sorted_correlate(self, tokens):
+        correlation, list_out = self.correlate_tokens(tokens)
+        zipped_correlations = zip(correlation, list_out)
+        return sorted(zipped_correlations, key=lambda x: x[0], reverse=True)
 
     def __call__(self, doc: Doc):
         tokens = [str(t) for t in doc]
-        correlated = self.correlate_tokens(tokens)
+        correlated, _ = self.correlate_tokens(tokens)
 
         for i, t in enumerate(doc):
-            t._.kwd_correlate = correlated[i][0]
+            t._.kwd_correlate = correlated[i]
 
         return doc
