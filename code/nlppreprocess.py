@@ -7,7 +7,7 @@ import codecs
 import contractions
 import spacy
 from collections import OrderedDict
-from typing import List
+from typing import List, Dict, Tuple
 
 
 # for multi-language: spacy.load('xx_ent_wiki_sm')
@@ -65,7 +65,7 @@ def preprocess_token(token: object) -> str:
     return token.lemma_.strip().lower()
 
 
-def preprocess_doc(doc_path: str) -> object, List[object], List[object]:
+def preprocess_doc(doc_path: str) -> Tuple[object, List[object], List[object]]:
     """Applies NLP framework to a document.
 
     Args:
@@ -113,7 +113,7 @@ def filter_modify_tokens(tokens: List[object]) -> List[object]:
     return filtered_tokens
 
 
-def make_filtered_tokens_from_ndc(ndc_dict: Dict) -> Dict:
+def make_filtered_tokens_from_ndc(ndc_dict: Dict) -> Dict[str, List[str]]:
     """Takes an NDC dictionary and processes the topics and keywords for searching within the documents,
     assuming we are searching for individual words and to process the words in the same way are processing
     the document text to have the best chance of finding keywords in the documents.
