@@ -1,5 +1,5 @@
 #graphing/visualization packages:
-from typing import Dict
+from typing import Dict, List
 import matplotlib.pyplot as plt
 
 plt.style.use('ggplot')
