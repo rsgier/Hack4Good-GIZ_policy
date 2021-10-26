@@ -1,5 +1,14 @@
 # GIZ
 
+We will be using a virtual python environment for this project. 
+
+To set up your virtual environment for the first time, run: `python -m venv venv`
+
+Then, run `venv/Scripts/Activate.ps1` (powershell) or `venv/Scripts/activate` (bash)
+
+When the environment name appears in your command line, it is active. Run `pip install -r requirements.txt` to install all reqired dependencies for development
+
+If you add any new dependencies, run `pip freeze > requirements.txt` and ensure that you commit the updated requirements file with your code
 
 ## Add your files
 

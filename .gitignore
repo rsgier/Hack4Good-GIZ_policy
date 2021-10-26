@@ -1,0 +1,7 @@
+venv/
+.ipynb_checkpoints/
+
+*.pyc
+texts/
+.vscode/
+giz-policy_tracking_docs/
