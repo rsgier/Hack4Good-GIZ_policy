@@ -1,0 +1,3386 @@
+NATIONAL CLIMATE CHANGE RESPONSE 
+WHITE PAPER
+environmental affairs 
+Environmental Affairs 
+Department: 
+REPUBLIC OF SOUTH AFRICA environmental affairs 
+Environmental Affairs 
+Department: 
+REPUBLIC OF SOUTH AFRICA 
+NATIONAL CLIMATE CHANGE RESPONSE 
+WHITE PAPER2
+TABLE OF CONTENTS
+LIST OF ABBREVIATIONS .................................................................................................................................................................. 4
+EXECUTIVE SUMMARY ...................................................................................................................................................................... 5
+1. INTRODUCTION ............................................................................................................................................................................ 8
+2. NATIONAL CLIMATE CHANGE RESPONSE OBJECTIVE ................................................................................................... 11
+3. PRINCIPLES ...................................................................................................................................................................................... 12
+4. THE SOUTH AFRICAN CLIMATE CHANGE RESPONSE STRATEGY ............................................................................ 13
+4.1 Overall Approach ...................................................................................................................................................................... 13
+4.2 Strategic Priorities .................................................................................................................................................................... 14
+5. ADAPTATION .................................................................................................................................................................................. 16
+5.1 Overall Approach ...................................................................................................................................................................... 16
+5.2 Water ........................................................................................................................................................................................... 17
+5.3 Agriculture and Commercial Forestry ................................................................................................................................. 18
+5.4 Health ........................................................................................................................................................................................... 19
+5.5 Biodiversity And Ecosystems .................................................................................................................................................. 20
+5.6 Human Settlements – Urban Settlements .......................................................................................................................... 21
+5.7 Human Settlements – Rural Settlements ............................................................................................................................ 22
+5.8 Human Settlements – Coastal Settlements ........................................................................................................................ 23
+5.9 Disaster Risk Reduction and Management ......................................................................................................................... 24
+6. MITIGATION ................................................................................................................................................................................... 25
+6.1 Overall Approach to Mitigation ............................................................................................................................................. 25
+6.2 South Africa’s Emissions .......................................................................................................................................................... 26
+6.3 Mitigation Potential .................................................................................................................................................................. 26
+6.4 The Benchmark National GHG Emissions Trajectory Range .......................................................................................... 27
+6.5 The Carbon Budget Approach ............................................................................................................................................... 28
+6.6 Sectoral Mitigation and Lower-Carbon Development Strategies .................................................................................. 28
+6.7 Ghg Emissions Inventory ........................................................................................................................................................ 29
+7. MANAGING RESPONSE MEASURES ...................................................................................................................................... 303
+8. NEAR-TERM PRIORITY FLAGSHIP PROGRAMMES ............................................................................................................. 31
+8.1 The Climate Change Response Public Works Flagship Programme ............................................................................... 31
+8.2 The Water Conservation and Demand Management Flagship Programme .................................................................. 31
+8.3 The Renewable Energy Flagship Programme ...................................................................................................................... 31
+8.4 The Energy Efficiency and Energy Demand Management Flagship Programme ........................................................... 32
+8.5 The Transport Flagship Programme ....................................................................................................................................... 32
+8.6 The Waste Management Flagship Programme .................................................................................................................... 32
+8.7 The Carbon Capture and Sequestration Flagship Programme ....................................................................................... 32
+8.8 The Adaptation Research Flagship Programme ................................................................................................................... 33
+9. JOB CREATION ............................................................................................................................................................................... 34
+9.1 Policy Outcomes ....................................................................................................................................................................... 34
+9.2 Policy Instruments .................................................................................................................................................................... 34
+9.3 Timing of Interventions ............................................................................................................................................................ 35
+10. MAINSTREAMING CLIMATE-RESILIENT DEVELOPMENT .............................................................................................. 36
+10.1 Policy and Planning Review and Regulatory Audits ......................................................................................................... 36
+10.2 Roles and Institutional Arrangements ................................................................................................................................. 36
+10.3 Partnering with Stakeholders ............................................................................................................................................... 38
+10.4 Coordination Mechanisms ................................................................................................................................................... 39
+10.5 Communication and Behaviour Change ............................................................................................................................ 39
+10.6 Regulatory Measures ............................................................................................................................................................. 40
+10.7 Market-Based Instruments ................................................................................................................................................... 40
+11. RESOURCE MOBILISATION ..................................................................................................................................................... 43
+11.1 Finance ...................................................................................................................................................................................... 43
+11.2 Education .................................................................................................................................................................................. 45
+11.3 Science and Technology Development ............................................................................................................................... 45
+12. MONITORING AND EVALUATION ........................................................................................................................................ 47
+12.1 Monitoring Climate Change ................................................................................................................................................. 47
+12.2 Medium- and Long-Term Modelling ................................................................................................................................... 47
+12.3 Monitoring Responses ........................................................................................................................................................... 48
+13. CONCLUSION ............................................................................................................................................................................. 494
+LIST OF ABREVIATIONS
+CDM Clean Development Mechanism
+DBSA Development Bank of Southern Africa
+DoE Department of Energy
+DEA Department of Environmental Affairs
+DST Department of Science and Technology
+DTI Department of Trade and Industry
+GDP Gross Domestic Product
+GHG Greenhouse gas
+GHGs Greenhouse gases
+IGCCC Intergovernmental Committee on Climate Change
+IMCCC Inter-Ministerial Committee on Climate Change
+IPCC Intergovernmental Panel on Climate Change
+IRP 2010 Integrated Resource Plan for Electricity Generation 2010
+MDGs Millennium Development Goals
+MRV Measure, report and verify
+NCCC National Committee on Climate Change
+NEDLAC National Economic Development and Labour Council
+NEMA National Environmental Management Act
+NEVA National Employment Vulnerability Assessments
+NEVB National Employment Vulnerability Baseline
+NGO Non-Governmental Organisation
+NGP New Growth Path
+NRF National Research Foundation
+SAAQIS South African Air Quality Information System
+SARVA South African Risk and Vulnerability Atlas
+SETA Sector Education and Training Authority
+SJRPs Sector Jobs Resilience Plans
+UNFCCC United Nations Framework Convention on Climate Change5
+Executive Summary
+Climate change is already a measurable reality and along 
+with other developing countries, South Africa is especially 
+vulnerable to its impacts. This White Paper presents the 
+South African Government’s vision for an effective climate 
+change response and the long-term, just transition to a 
+climate-resilient and lower-carbon economy and society. 
+South Africa’s response to climate change has two objectives:
+• Effectively manage inevitable climate change impacts 
+through interventions that build and sustain South 
+Africa’s social, economic and environmental resilience 
+and emergency response capacity.
+• Make a fair contribution to the global effort to 
+stabilise greenhouse gas (GHG) concentrations 
+in the atmosphere at a level that avoids dangerous 
+anthropogenic interference with the climate system 
+within a timeframe that enables economic, social 
+and environmental development to proceed in a 
+sustainable manner.
+This response is guided by principles set out in the 
+Constitution, the Bill of Rights, the National Environmental 
+Management Act, the Millennium Declaration and the 
+United Nations Framework Convention on Climate 
+Change. These principles are detailed in section 3.
+The overall strategic approach for South Africa’s climate 
+change response is needs driven and customised; 
+developmental; transformational, empowering and 
+participatory; dynamic and evidence-based; balanced and 
+cost effective; and integrated and aligned.
+In terms of strategic priorities, the White Paper sets out 
+South Africa’s climate change response strategy to achieve 
+the National Climate Change Response Objective in a 
+manner consistent with the outlined principles and approach 
+and which is structured around the following strategic 
+priorities: risk reduction and management; mitigation 
+actions with significant outcomes; sectoral responses; 
+policy and regulatory alignment; informed decision making 
+and planning; integrated planning; technology research, 
+development and innovation; facilitated behaviour change; 
+behaviour change through choice; and resource mobilisation.
+See section 4 for details of the elements of the response 
+policy.
+In terms of adaptation, the National Climate Change 
+Response includes a risk-based process to identify and 
+prioritise short- and medium-term adaptation interventions 
+to be addressed in sector plans. The process will also 
+identify the adaptation responses that require coordination 
+between sectors and departments and it will be reviewed 
+every five years. For the immediate future, sectors that 
+need particular attention are water, agriculture and forestry, 
+health, biodiversity and human settlements. Resilience 
+to climate variability and climate change-related extreme 
+weather events will be the basis for South Africa’s future 
+approach to disaster management and we will use regionwide approaches where appropriate.
+Section 5 expands on the adaptation part of the response 
+policy.
+South Africa’s approach to mitigation, which is addressed 
+by section 6 of the response policy, balances the country’s 
+contribution as a responsible global citizen to the 
+international effort to curb global emissions with the 
+economic and social opportunities presented by the 
+transition to a lower-carbon economy as well as with 
+the requirement that the country successfully tackles the 
+development challenges facing it.
+The key elements in the overall approach to mitigation 
+will be:
+• Using a National GHG Emissions Trajectory Range, 
+against which the collective outcome of all mitigation 
+actions will be measured;
+• Defining desired emission reduction outcomes 
+for each significant sector and sub-sector of the 
+economy based on an in-depth assessment of the 
+mitigation potential, best available mitigation options, 
+science, evidence and a full assessment of the costs 
+and benefits;
+• Adopting a carbon budget approach to provide for 
+flexibility and least-cost mechanisms for companies 
+in relevant sectors and/or sub-sectors and, where 
+appropriate, translating carbon budgets into company 
+level desired emission reduction outcomes.
+• Requiring companies and economic sectors or 
+sub-sectors for which desired emission reduction 
+outcomes have been established to prepare and 
+submit mitigation plans that set out how they intend 
+to achieve the desired emission reduction outcomes.
+• Developing and implementing a wide range and 
+mix of different types of mitigation approaches, 
+policies, measures and actions that optimise the 
+EXECUTIVE SUMMARY6
+Executive Summary
+mitigation outcomes as well as job creation and other 
+sustainable developmental benefits. This optimal mix 
+of mitigation actions will be developed to achieve 
+the defined desired emission reduction outcomes 
+for each sector and sub-sector of the economy by 
+ensuring that actions are specifically tailored to the 
+potential, best available solutions and other relevant 
+conditions related to the specific sector, sub-sector 
+or organisation concerned;
+• The deployment of a range of economic instruments 
+to support the system of desired emissions reduction 
+outcomes, including the appropriate pricing of carbon 
+and economic incentives, as well as the possible use 
+of emissions offset or emission reduction trading 
+mechanisms for those relevant sectors, sub-sectors, 
+companies or entities where a carbon budget 
+approach has been selected.
+• A national system of data collection to provide 
+detailed, complete, accurate and up-to-date emissions 
+data in the form of a Greenhouse Gas Inventory and 
+a Monitoring and Evaluation System to support the 
+analysis of the impact of mitigation measures.
+In addition to the direct physical impacts of climate 
+change, there are also secondary economic impacts 
+where South Africa may be economically vulnerable to 
+response measures - measures taken both internationally 
+and nationally, to reduce GHG emissions. As discussed in 
+section 7, Government will take a multi-pronged approach 
+to addressing and managing response measures, especially in 
+respect of those that may have negative economic impacts.
+A suite of Near-term Priority Flagship Programmes consisting 
+of both new initiatives and the scaling up of existing initiatives 
+will be implemented while the first sectoral desired 
+emission reduction outcomes and carbon budgets are being 
+developed and initial adaptation interventions prioritised. 
+This component is addressed in section 8.
+For job creation, as described in section 9, the National 
+Climate Change Response aims to limit jobs contraction 
+to those areas of the economy where excessive carbon 
+intensity is unsustainable, whilst promoting and expanding 
+the green economy sectors. The National Climate Change 
+Response also aims to promote investment in human and 
+productive resources that will grow the green economy. 
+To do this, Government will assess the vulnerability of the 
+different economic sectors to climate change and develop 
+Sector Job Resilience Plans.
+To mainstream climate-resilient development, section 10 
+notes that all Government departments and state-owned 
+enterprises will need to review the policies, strategies, 
+legislation, regulations and plans falling within their 
+jurisdictions to ensure full alignment with the National 
+Climate Change Response within two years of the publication 
+of this policy. On the basis of the outcome of these reviews, 
+government will determine what adjustments need to be 
+made to achieve alignment with the goals and objectives 
+of the National Climate Change Response, and will identify 
+any additional legislative or regulatory measures that are 
+needed. The National Climate Change Response itself will be 
+reviewed every five years from the publication of this policy.
+All sectors of the South African society will take part in 
+the effort to mainstream climate-resilient development. 
+Existing institutional arrangements, such as the Cabinet 
+Clusters, the National Planning Commission, the Forum 
+of South African Directors-General, the Parliamentary 
+Portfolio Committee on Water and Environment Affairs, 
+the Inter-Ministerial Committee on Climate Change, the 
+Intergovernmental Committee on Climate Change and the 
+multi-stakeholder National Committee on Climate Change 
+will be used to drive this new policy direction.
+Government departments will start communicating with 
+citizens about climate change to inform and educate them 
+and to influence their behavioural choices. This includes 
+setting up and maintaining early warning systems so 
+that people can take specific actions to reduce risks to 
+themselves, their households and property.
+South Africa needs to mobilise financial, human and 
+knowledge resources to effectively address climate 
+change. To this end, Government will use existing financial 
+institutions and instruments and it will help to develop 
+new ones. This includes international financial assistance 
+specifically for climate change response actions. During the 
+initial period of transition to a climate-resilient and lowercarbon economy and society, Government will establish an 
+interim climate finance coordination mechanism to secure 
+the necessary resources for priority programmes.
+See section 11 for further details on resource mobilisation.
+To formulate effective responses to climate change, South 
+Africa needs a country-wide monitoring system to measure 
+climate variables at scales appropriate to the institutions 
+that must implement climate change responses.7
+Executive Summary
+To monitor the success of responses to climate change, 
+and to replicate the ones that have worked well, we need 
+to measure their cost, outcome and impact. To this end, 
+South Africa will, within two years of the publication of this 
+policy, design and publish a draft Climate Change Response 
+Monitoring and Evaluation System. Although the Climate 
+Change Response Monitoring and Evaluation System will be 
+based on South African scientific measurement standards 
+and will be undertaken through the Presidency’s OutcomesBased System, it is expected that the system will evolve 
+with international Measuring, Reporting and Verification 
+requirements.
+Section 12 details the systems needed to monitor and 
+evaluate climate change and our responses to it.8
+1. Introduction
+1. INTRODUCTION
+The phenomenon known as “climate change”, the focus of 
+this policy, refers to an ongoing trend of changes in the earth’s 
+general weather conditions as a result of an average rise in 
+the temperature of the earth’s surface often referred to as 
+global warming. This rise in the average global temperature 
+is due, primarily, to the increased concentration of gases 
+known as greenhouse gases (GHGs) in the atmosphere 
+that are emitted by human activities. These gases intensify 
+a natural phenomenon called the “greenhouse effect” by 
+forming an insulating layer in the atmosphere that reduces 
+the amount of the sun’s heat that radiates back into space 
+and therefore has the effect of making the earth warmer.
+While weather changes on a daily basis, climate represents 
+the statistical distribution of weather patterns over time, 
+and on a global scale has changed only very slowly in the 
+past – usually over periods of tens of thousands of years 
+or even millions of years which allows time for the earth’s 
+bio-physical systems to adapt naturally to the changing 
+climatic conditions. Currently, the global climate is changing 
+much more rapidly as a result of global warming, leading 
+to, among others, the melting of polar and glacier ice, sealevel rise, ocean acidification, changes in rainfall and snowfall 
+patterns, more frequent floods and droughts and increased 
+frequency and intensity of extreme weather events, such 
+as tornadoes, hurricanes and cyclones. The rapid rate of 
+this climate change does not allow the earth’s bio-physical 
+systems to adapt to these changes naturally.
+Evidence of rapid climate change, including more frequent 
+and intense weather systems and greater climate variability, 
+has already been observed and includes:
+• increases in the average global temperature; with the 
+past decade being the hottest on record;
+• rises in the average global sea level;
+• changes in average rainfall patterns, with some regions 
+experiencing higher rainfall (e.g. Northern Europe) 
+and other areas experiencing drying (e.g. the Sahel 
+and southern Africa);
+• increased frequency of heavy rainfall and extreme 
+weather events over most land areas; and
+• more intense and longer droughts, particularly in the 
+tropics and subtropics.
+GHGs are emitted from, and are reabsorbed by, a variety of 
+natural sources, but the rate at which human economies and 
+societies are emitting these gases far exceeds the capacity of 
+natural ecosystems to reabsorb them. Increased industrial 
+activity since the mid-18th century has led to a rapid increase 
+in the atmospheric concentration of GHGs such as carbon 
+dioxide, methane and nitrous oxide, in large part due to 
+the burning of fossil fuels derived from oil, coal and natural 
+gas. We also know that land-based human activities, such as 
+forest clearing and unsustainable agricultural practices, are 
+not only increasing GHG emissions from these sources, but 
+are also reducing the earth’s natural ability to absorb GHGs. 
+The evidence that current global warming is due to human 
+activities associated with industrialisation and modern 
+agriculture is overwhelming.
+The rate of change to the earth’s climate exceeds the ability 
+of all types of ecosystems (marine, coastal, freshwater, and 
+terrestrial) to adapt as well as compromising their ability to 
+function effectively. Ecosystems provide important services 
+to society, such as the formation of soil; the provision of 
+food, fresh water, wood, fibre and fuel; the regulation of 
+climate, floods and the spread of disease; protection from 
+storm surges and floods; and a range of cultural, spiritual, 
+educational and recreational services. The protection of 
+biodiversity, habitats and ecosystems is essential to the 
+maintenance of these services, which is a key pillar for 
+sustainable development.
+It is acknowledged that Africa, as a whole, has contributed 
+least to GHG concentrations in the atmosphere, but also 
+faces some of the worst consequences and generally has 
+the least capacity to cope with climate change impacts. 
+However, it is also recognised that South Africa is a 
+relatively significant contributor to global climate change 
+with significant GHG emission levels from its energyintensive, fossil-fuel powered economy. On the other hand, 
+South Africa is extremely vulnerable and exposed to the 
+impacts of climate change due to our socio-economic and 
+environmental context. Climate variability, including the 
+increased frequency and intensity of extreme weather 
+events, will disproportionately affect the poor. South Africa 
+is already a water-stressed country and we face future 
+drying trends and weather variability with cycles of droughts 
+and sudden excessive rains. We have to urgently strengthen 
+the resilience of our society and economy to such climate 
+change impacts and to develop and implement policies, 
+measures, mechanisms and infrastructure that protect the 
+most vulnerable.
+The science is clear that action to address the causes and 
+impacts of climate change by a single country or small 
+group of countries will not be successful. This is a global 9
+1. Introduction
+problem requiring a global solution through the concerted 
+and cooperative efforts of all countries. Should multi-lateral 
+international action not effectively limit the average global 
+temperature increase to below 2°C above pre-industrial 
+levels, the potential impacts on South Africa in the mediumto long-term are significant and potentially catastrophic. 
+Even under emission scenarios that are more conservative 
+than current international emission trends, it has been 
+predicted that by mid-century the South African coast 
+will warm by around 1 to 2°C and the interior by around 
+2 to 3°C. By 2100, warming is projected to reach around 
+3 to 4°C along the coast, and 6 to 7°C in the interior. 
+With such temperature increases, life as we know it will 
+change completely: parts of the country will be much drier 
+and increased evaporation will ensure an overall decrease in 
+water availability. This will significantly affect human health, 
+agriculture, other water-intensive economic sectors such as 
+the mining and electricity-generation sectors as well as the 
+environment in general. Increased occurrence and severity 
+of veld and forest fires; extreme weather events; and floods 
+and droughts will also have significant impacts. Sea-level rise 
+will negatively impact the coast and coastal infrastructure. 
+Mass extinctions of endemic plant and animal species will 
+greatly reduce South Africa’s biodiversity with consequent 
+impacts on eco-system services.
+Against this national context, the South African Government:
+• Accepts the conclusions of the Intergovernmental 
+Panel on Climate Change (IPCC) in its Fourth 
+Assessment Report, that warming of the climate 
+system is unequivocal and that the increase in 
+GHG concentrations as a result of human activity is 
+primarily responsible for this warming trend.
+• Regards climate change as one of the greatest threats 
+to sustainable development and believes that climate 
+change, if unmitigated, has the potential to undo or 
+undermine many of the positive advances made in 
+meeting South Africa’s own development goals and 
+the Millennium Development Goals (MDGs).
+• Having ratified both the United Nations Framework 
+Convention on Climate Change (UNFCCC) and its 
+Kyoto Protocol, will continue to meaningfully engage 
+in the current multilateral negotiations to further 
+strengthen and enhance the international response to 
+the climate change crisis. The Government specifically 
+aims to continue its efforts to strengthen and ensure 
+the full implementation of the UNFCCC and its 
+Kyoto Protocol through additional multi-lateral rulesbased and legally-binding international agreements 
+that will come into force after 2012. These should 
+effectively limit the average global temperature 
+increase to below a maximum of 2°C above preindustrial levels. In so doing, South Africa will strive 
+to ensure that such agreements are inclusive, fair and 
+effective; reflect a balance between adaptation and 
+mitigation responses; and recognise that solving the 
+climate problem will only be possible if developing 
+countries’ priorities of eradicating poverty and 
+promoting sustainable development are taken into 
+consideration.
+• Notwithstanding these ongoing international 
+negotiations, reaffirms that, in terms of the provisions 
+of Articles 4, 5, 6 and 12 of the UNFCCC as well as 
+Article 10 of the Kyoto Protocol, South Africa already 
+has existing international legally binding obligations to:
+- Formulate, implement, publish and regularly 
+update policies, measures and programmes to 
+mitigate its emission of GHGs and adapt to the 
+adverse effects of inevitable climate change;
+- Monitor and periodically report to the 
+international community the country’s GHG 
+inventory; steps taken and envisaged to implement 
+the UNFCCC; and any other information relevant 
+to the achievement of the objective of the 
+UNFCCC, including information relevant for the 
+calculation of global emission trends;
+- Sustainably manage, conserve and enhance GHG 
+sinks and reservoirs, including terrestrial, coastal 
+and marine ecosystems, biomass, forests and 
+oceans;
+- Develop climate change response plans to 
+address integrated coastal zone, water resources, 
+agriculture, and land protection and rehabilitation;
+- Mainstream climate change considerations into 
+social, economic and environmental policy;
+- Promote and cooperate in the development, 
+application, diffusion and transfer of GHG emission 
+mitigation technologies, practices and processes;
+- Further develop and support research and 
+systematic observation organisations, networks 
+and programmes as well as efforts to strengthen 
+systematic observation, research and technical 10
+1. Introduction
+capacities, including promoting research and 
+systematic observation in areas beyond national 
+jurisdiction; and
+- Develop and implement education, training and 
+public awareness programmes on climate change 
+and its effects to promote and facilitate scientific, 
+technical and managerial skills as well as public 
+access to information, public awareness of and 
+participation in addressing climate change.
+Government also acknowledges that:
+• Notwithstanding the effectiveness of any strengthened 
+international response to the climate change crisis, a 
+certain amount of climate change is already observed 
+and further climate change will be inevitable due to 
+the slow response (or inertia) of the climate system 
+to changes in the concentration of GHGs in the 
+atmosphere. Therefore South Africa will have to 
+adapt to these impacts by managing its climate and 
+weather-related risks, reducing its vulnerability and 
+increasing the resilience of our society and economy 
+to the adverse effects of climate change and variability;
+• The stabilisation of GHG concentrations in the 
+atmosphere at a level that prevents dangerous 
+interference with the climate system requires the 
+implementation of a sufficiently ambitious and effective 
+global agreement on GHG emission reductions. In this 
+context, as a responsible global citizen, and in keeping 
+with its developing country status, its capability and its 
+share of responsibility for the problem, South Africa is 
+committed to making a fair contribution to the global 
+effort to reduce GHG emissions. At the same time, 
+the country must ensure that the necessary climate 
+change-related investments contribute to building 
+South Africa’s future economic competitiveness and 
+economic growth and contribute to its over-riding 
+national priorities for sustainable development, job 
+creation, improving public and environmental health 
+and poverty eradication; and
+• That although there will be costs associated with 
+South Africa’s adaptation and GHG emission 
+reduction efforts, there will also be significant short 
+and long-term social and economic benefits, including 
+improved international competitiveness, that will 
+result from a transition to a lower-carbon economy 
+and society. Furthermore, various economic studies 
+have shown that the costs of early action will be far 
+less than the costs of delay and inaction.
+Given the cross-cutting nature of climate change impacts 
+and responses, Government further recognises that an 
+effective response to climate change requires national policy 
+to ensure a coordinated, coherent, efficient and effective 
+response to the global challenge of climate change.
+The policy outlined in this White Paper embodies South 
+Africa’s commitment to a fair contribution to stabilising 
+global GHG concentrations in the atmosphere and to 
+protecting the country and its people from the impacts 
+of inevitable climate change. It presents the vision for 
+an effective climate change response and the long-term 
+transition to a climate-resilient, equitable and internationally 
+competitive lower-carbon economy and society – a vision 
+premised on Government’s commitment to sustainable 
+development and a better life for all.11
+2. National Climate Change Response Objective
+2. NATIONAL CLIMATE CHANGE RESPONSE OBJECTIVE
+South Africa will build the climate resilience of the country, 
+its economy and its people and manage the transition to a 
+climate-resilient, equitable and internationally competitive 
+lower-carbon economy and society in a manner that 
+simultaneously addresses South Africa’s over-riding national 
+priorities for sustainable development, job creation, improved 
+public and environmental health, poverty eradication, and 
+social equality. In this regard, South Africa will:
+• Effectively manage inevitable climate change impacts 
+through interventions that build and sustain South 
+Africa’s social, economic and environmental resilience 
+and emergency response capacity.
+• Make a fair contribution to the global effort to stabilise 
+GHG concentrations in the atmosphere at a level that 
+avoids dangerous anthropogenic interference with 
+the climate system within a timeframe that enables 
+economic, social and environmental development to 
+proceed in a sustainable manner.12
+3. Principles
+3. PRINCIPLES
+The achievement of South Africa’s climate change response 
+objective is guided by the principles set out in the 
+Constitution, the Bill of Rights, the National Environmental 
+Management Act (NEMA), the MDGs and the UNFCCC. 
+The principles include, amongst others:
+•	 Common but differentiated responsibilities and
+respective capabilities – aligning our domestic 
+measures to reduce the country’s GHG emissions 
+and adapt to the adverse effects of climate change 
+with our unique national circumstances, stage of 
+development and capacity to act.
+•	 Equity – ensuring a fair allocation of effort, cost 
+and benefits in the context of the need to address 
+disproportionate vulnerabilities, responsibilities, 
+capabilities, disparities and inequalities.
+•	 Special needs and circumstances – considering 
+the special needs and circumstances of localities 
+and people that are particularly vulnerable to the 
+adverse effects of climate change, including vulnerable 
+groups such as women, and especially poor and/or 
+rural women; children, especially infants and childheaded families; the aged; the sick; and the physically 
+challenged.
+•	 Uplifting the poor and vulnerable – climate change 
+policies and measures should address the needs of 
+the poor and vulnerable and ensure human dignity, 
+whilst endeavouring to attain environmental, social 
+and economic sustainability.
+•	 Intra- and Inter-generational sustainability
+– managing our ecological, social and economic 
+resources and capital responsibly for current and 
+future generations.
+•	 The Precautionary Principle – applying a risk-averse 
+and cautious approach, which takes into account the 
+limits of current knowledge about the consequences 
+of decisions and actions.
+•	 The Polluter Pays Principle – those responsible 
+for harming the environment paying the costs of 
+remedying pollution and environmental degradation 
+and supporting any consequent adaptive response 
+that may be required.
+•	 Informed participation – enhancing public 
+awareness and understanding of climate change 
+causes and impacts to promote participation and 
+action at all levels.
+•	 Economic, social and ecological pillars of
+sustainable development – recognising that a 
+robust and sustainable economy and a healthy 
+society depends on the services that well-functioning 
+ecosystems provide, and that enhancing the 
+sustainability of the economic, social and ecological 
+services is an integral component of an effective and 
+efficient climate change response.13
+4. The South African Climate Change Response Strategy
+Responses to climate change have been commonly 
+categorised as either aimed at reducing the rate at 
+which climate is changing to levels that occur naturally 
+(and especially reducing the atmospheric concentrations 
+of GHGs, so-called “mitigation”) or responding to the 
+adverse effects of climate change (“adaptation”). In addition, 
+there is also the issue of managing any unintended 
+negative consequences of climate change policies and 
+measures, widely referred to as “response measures”, 
+on other countries. However, an effective South African 
+climate change response requires economic, social and 
+environmental interventions that integrate mitigation and 
+adaptation elements within a developmental framework. 
+Furthermore, an effective South African climate change 
+response also requires the management of any response 
+measures generated by our action as well as being able to 
+respond to the response measures of other countries that 
+have negative consequences for our country. Categorising 
+responses as either mitigation or adaptation responses can 
+obscure the real and potential positive combined impact of 
+these responses. Thus, although this policy still retains the 
+mitigation and adaptation categories for the sake of clarity, 
+the policy also reflects a strategic approach referred to as 
+“climate change resilient development”.
+For further clarity, the climate change response makes use 
+of the following time-bound planning horizons:
+•	 Short-term – five years from date of publication of 
+the policy.
+•	 Medium-term – twenty years from date of 
+publication of the policy.
+•	 Long-term – a planning horizon that extends to 2050.
+4.1 Overall Approach
+Climate change resilient development refers to all 
+interventions – mitigation, adaptation or both – that 
+contribute to a fair and effective global solution to the 
+climate change challenge while simultaneously building and 
+maintaining South Africa’s international competitiveness, 
+its social, environmental and economic resilience to the 
+adverse effects of global climate change, and any unintended 
+consequences of global climate change response measures. 
+In this regard, the policy develops a “win-win” strategic 
+approach that is:
+•	 Needs-driven and customised – Employing a wide 
+range of different types of adaptation and mitigation 
+approaches, policies, measures, programmes, 
+interventions and actions consistent with the 
+principles outlined above, but in particular, that meet 
+the special needs and circumstances of those most 
+vulnerable as well as being specifically tailored to the 
+potential, best available solutions and other relevant 
+conditions related to the specific actor, organisation, 
+sector or sub-sector concerned;
+•	 Developmental – Prioritising climate change 
+responses that have both significant mitigation and 
+adaptation benefits and that also have significant 
+economic growth, job creation, public health, risk 
+management and poverty alleviation benefits;
+•	 Transformational, empowering and participatory
+– Implementing policies and measures to address 
+climate change at a “scale of economy” that enables 
+and supports the required level of innovation, sector 
+and skills development, finance and investment flows 
+needed to reap the full benefit of a transition to a 
+lower-carbon, efficient, job-creating, equitable and 
+competitive economy. The transition will necessarily 
+be supported and enabled by policies and measures to 
+empower and promote the participation of all citizens 
+through changing their behaviour to more sustainable 
+lifestyles and livelihoods. This policy is therefore part 
+of the broader social and economic transformation 
+as envisaged by the New Growth Path (NGP) and is 
+fundamentally underpinned by a major shift towards 
+sustainable consumption and production patterns, 
+which decouples growth and development from any 
+negative impacts on the environment and society;
+•	 Dynamic and evidence-based – Recognising that 
+this policy has not been developed in a vacuum 
+and many sectors have already researched and have 
+experience in implementing policies and measures to 
+address the challenges of climate change. Therefore, 
+this policy takes an approach of:
+- Immediate implementation of Near-term Priority 
+Flagship Programmes comprising of –
+о Continued implementation of existing 
+successful policies and measures with only 
+policy alignment and integration intervention 
+as required;
+4. THE SOUTH AFRICAN CLIMATE CHANGE RESPONSE STRATEGY14
+4. The South African Climate Change Response Strategy
+о Scaled-up roll-out of those existing successful 
+policies and measures, which have successfully 
+completed a demonstration phase, where 
+feasible;
+о Implementation of proven “no-regret policies 
+and measures” in the immediate and nearterm (e.g. best available technologies and 
+best practices), particularly those that are 
+well researched or understood, have socioeconomic developmental and job creation 
+benefits, and have negative-cost, zero-cost or 
+low-cost implications for the economy and 
+society;
+- Simultaneously, further researching, consulting 
+on, developing and demonstrating the detail of 
+additional policies and measures consistent with 
+the provisions of this policy, for implementation in 
+the short-, medium- and longer-term, as and when 
+ready; and
+- Rigorously monitoring and evaluating the 
+effectiveness of implemented policies and 
+measures with a view to improving efficiency 
+through adjustments or discarding those that are 
+ineffective;
+•	 Balanced and cost effective – Implementing a 
+balanced approach to both climate change mitigation 
+and adaptation responses in terms of cost-benefit, 
+prioritisation, focus, action and resource allocation; 
+and
+•	 Integrated and aligned – Providing for the 
+integration of sector-related climate change 
+responses into the relevant sector planning processes 
+and their developmental policies and measures. 
+Where cross-cutting climate change responses are 
+called for, this policy provides for their inclusion in, 
+and consideration by, the relevant National, Provincial 
+and/or Local planning regime as well as coherent 
+alignment with the relevant policies and legislation.
+4.2 Strategic Priorities
+This White Paper sets out South Africa’s climate change 
+response strategy to achieve the National Climate 
+Change Response Objective in a manner consistent with 
+the principles and approach outlined above and which is 
+structured around the following strategic priorities:
+•	 Risk reduction and management – prioritise nearterm adaptation interventions that address immediate 
+and observed threats to the economy, ecosystem 
+services and the health and well-being of South 
+Africans while researching and developing short-, 
+medium- and longer-term climate resilience, risk and 
+vulnerability management policies and measures.
+•	 Mitigation actions with significant outcomes – 
+prioritise cost effective and beneficial mitigation 
+policies, measures and interventions that significantly 
+contribute to the country’s deviation from the 
+GHG emission “business as usual trajectory” as 
+measured against a benchmark “peak, plateau and 
+decline” GHG emission trajectory where GHG 
+emissions peak between 2020 and 2025, plateau 
+for approximately a decade and begin declining in 
+absolute terms thereafter.
+•	 Sectoral responses – prioritise, in accordance with 
+the provisions of this policy, the requirement for all key 
+actors, organisations or participants in relevant sectors 
+or sub-sectors to prepare, submit, implement, monitor 
+and report the implementation of detailed climate 
+change response strategies and action plans that 
+clearly articulate their roles, responsibilities, policies, 
+measures, and interventions or actions to contribute 
+to the achievement of the National Climate Change 
+Response Objective in a measurable way.
+•	 Policy and regulatory alignment – firstly, prioritise 
+interventions already envisaged by national policies, 
+legislation or strategies that have climate change 
+co-benefits, particularly those that also contribute 15
+4. The South African Climate Change Response Strategy
+towards the national priorities of job creation, 
+poverty alleviation or have other positive socioeconomic benefits. Secondly, review existing national 
+policies, legislation or strategies, with a view to 
+optimising and maximising the climate change cobenefits of their interventions. Thirdly, integrate 
+into the relevant existing or new policies, legislation 
+or strategies those climate change response 
+interventions that stimulate new economic activities 
+as well as those that improve the efficiency and 
+competitive advantage of existing activities.
+•	 Integrated planning – prioritise the mainstreaming 
+of climate change considerations and responses 
+into all relevant sector, national, provincial and 
+local planning regimes such as, but not limited 
+to, the Industrial Policy Action Plan, Integrated 
+Resource Plan for Electricity Generation, Provincial 
+Growth and Development Plans, and Integrated 
+Development Plans.
+•	 Informed decision-making and planning – 
+prioritise research, systemic observation, knowledge 
+generation, information management and early 
+warning systems that increase our ability to measure 
+and predict climate change and the implications of 
+its adverse effects on the economy, society and the 
+environment.
+•	 Technology research, development and innovation
+– prioritise cooperation and the promotion of 
+research, investment in and/or acquisition of adaptation, 
+lower-carbon and energy-efficient technologies, 
+practices and processes for employment by existing or 
+new sectors or sub-sectors.
+•	 Facilitated behaviour change – prioritise the use 
+of incentives and disincentives, including regulatory, 
+economic and fiscal measures, to promote behaviour 
+change towards a lower-carbon society and economy.
+•	 Behaviour change through choice – prioritise 
+education, training and public awareness programmes 
+to build the general public’s awareness of climate 
+change so as to empower all South Africans to make 
+informed choices that contribute to an economy and 
+society that is resilient to climate change.
+•	 Resource mobilisation – prioritise the development 
+of comprehensive resource and investment 
+mobilisation strategies, capacities, mechanisms or 
+instruments that support and enable implementation 
+of climate change responses at the scale required, 
+including, but not limited to, public and private financial 
+resources, incentives, non-market and market-based 
+instruments, technical cooperation and partnership 
+agreements, and technology transfers at domestic, 
+sub-regional, regional, and international levels.16
+5. Adaptation
+5. ADAPTATION
+5.1 Overall approach
+All states in the Southern African sub-region face the 
+challenges of rural and urban poverty, limited water or 
+access to water resources, food insecurity, and other 
+development challenges. Thus, although countries of the 
+sub-region may have differing developmental priorities, they 
+often face similar risks due to climate change and may also 
+have similar adaptation needs. South Africa will therefore 
+strive to develop climate change adaptation strategies based 
+on risk and vulnerability reduction, in collaboration with its 
+neighbours where appropriate, and seek to share resources, 
+technology and learning to coordinate a regional response. 
+A regional approach that achieves climate resilience will 
+have significant socio-economic benefits for South Africa, 
+including a smaller risk of unmanaged regional migration.
+A leading international assessment of the effects of climate 
+change on the global economy, the Stern Review, estimates 
+that damages from unmitigated climate change could range 
+between 5% and 20% of global Gross Domestic Product 
+(GDP) annually by 2100. In the absence of effective 
+adaptation responses, such levels of damages would certainly 
+threaten and even reverse many development gains made in 
+South Africa.
+Future climate trends are uncertain and the uncertainty 
+rises steeply over the longer-term. Objectives for adaptation 
+must therefore be able to adjust to changing circumstances 
+and time-frames. For this reason, South Africa needs to plan 
+flexibly for a wide range of possible responses over the 
+medium- to long-term. We also need focused monitoring 
+and evaluation systems to update our knowledge of how 
+rapidly the change is occurring and the effectiveness of 
+adaptation responses. Section 12 contains more information 
+about these monitoring and evaluation systems.
+A key feature of adaptation responses is that they have 
+a much stronger local context than do mitigation 
+responses and their benefits may appear much faster and 
+are often more tangible, such as an improvement in local 
+environmental quality, for instance. Effective adaptation 
+responses can also potentially create many jobs, 
+particularly “green jobs”, and could contribute significantly 
+to sustainable development goals. Well planned adaptation 
+responses can thus be effectively integrated with 
+sustainable development policies.
+Effective planning and coordination of an integrated 
+adaptation response will require:
+• Early warning and forecasting for disaster risk 
+reduction.
+• Medium-term (decade-scale) climate forecasting to 
+identify potential resource challenges well in advance.
+• Long-term climate projections that define the range 
+of future climate conditions.
+These need to be reinforced by research, capacity 
+development, and technology development, and to respond 
+to the needs of disaster risk reduction in the short-term, 
+and integrated resource and development planning in the 
+medium- and long-term.
+Government departments have begun working on sectoral 
+adaptation responses, and these include job creation and 
+growth strategies, especially in the green economy, as well 
+as the protection and support of vulnerable groups. As a 
+first step in ensuring that appropriate adaptation responses 
+are mainstreamed into sectoral plans, a sub-committee 
+of the Intergovernmental Committee on Climate Change 
+(IGCCC) will be established to perform climate risk 
+analyses on all sectoral plans, informed by the various 
+sectoral adaptation responses, within two years of the 
+publication of this Policy, this process will result in –
+• The identification and prioritisation of key short- and 
+medium-term adaptation interventions that must be 
+addressed in sector plans; and
+• The identification of adaptation responses that 
+require coordination between specific sectors and/
+or departments.
+Using the results of this analysis, adaptation strategies will 
+be integrated into sectoral plans, including:
+• The National Water Resource Strategy, as well as 
+reconciliation strategies for particular catchments 
+and water supply systems.
+• The Strategic Plan for South African Agriculture.
+• The National Biodiversity Strategy and Action Plan, as 
+well as provincial biodiversity sector plans and local 
+bioregional plans.
+• The Department of Health Strategic Plan.
+• The Comprehensive Plan for the Development of 
+Sustainable Human Settlements.
+• National Framework for Disaster Risk Management17
+5. Adaptation
+In addition to a refinement of top-down approaches, 
+developing more detailed bottom-up approaches informed 
+by the responses of local communities and local government 
+will deliver results with a higher degree of confidence than 
+is currently possible.
+5.2 Water
+South Africa is a water scarce country with a highly variable 
+climate and has one of the lowest run-offs in the world – a 
+situation that is likely to be significantly exacerbated by the 
+effects of climate change. Uniquely, South Africa shares four 
+of its major river systems with six neighbouring countries. 
+These four shared catchments amount to approximately 
+60% of South Africa’s surface area and approximately 40% 
+of the average total river flow.
+Based on current projections South Africa will exceed the 
+limits of economically viable land-based water resources 
+by 2050. The adequate supply of water for many areas can 
+be sustained only if immediate actions are taken to stave 
+off imminent shortages. The water sector must balance 
+the allocation of limited water resources amongst major 
+users (agriculture, domestic urban use and industry), whilst 
+addressing the need to ensure fair access to water for 
+all South Africa’s people as well as a sufficient ecological 
+allocation to maintain the integrity of ecosystems and 
+thereby the services they provide.
+Although Government has provided basic water services 
+to an estimated additional nine million people since 1994, 
+they are mostly in urban areas. In many rural areas, lack of 
+reticulated water and sanitation means that people rely on 
+generally poorly managed local resources such as ground 
+water, springs and rivers that are vulnerable to pollution and 
+drought. Poor communities who are dependent on natural 
+water resources cannot control the quality of their water 
+or store the water supply in bulk.
+While there is a degree of uncertainty as to the net effects 
+of climate change on water availability, rainfall is expected 
+to become more variable, with an increase of extreme 
+events such as flooding and droughts resulting in a much 
+more variable runoff regime. Downscaled climate modelling 
+suggests that the western and interior parts of the country 
+are likely to become drier, and the eastern parts of the 
+country wetter. Increased rainfall intensity will exacerbate 
+scouring in rivers and sedimentation in dams, potentially 
+impacting on water supply and treatment infrastructure. 
+Higher temperatures, combined with higher carbon dioxide 
+levels, will contribute to increased growth of algae as well as 
+faster evaporation rates negatively impacting water resources.
+Water availability is a key climate change-related 
+vulnerability and negative impacts on the availability of 
+water will be felt by people, ecosystems and the economy. 
+As a result, climate change poses significant additional risks 
+for water security, which in turn has knock-on effects on 
+those sectors highly reliant on water such as agriculture, 
+electricity generation as well as some mining and industrial 
+activities. Thus, this set of vulnerabilities must be considered 
+and integrated into both short- and medium-term water 
+sector planning approaches.
+In the short term, the development of a climate change 
+response for the water sector through the National 
+Water Resource Strategy plays a key role in government’s 
+Integrated Water Resource Planning process and will 
+inform the ongoing maintenance of the water balance 
+reconciliation strategies for water management areas that 
+have recently been developed for water supply systems for 
+up to 75% of the country’s population, and the areas which 
+together generate well over 80% of the national GDP.
+In the medium to long term, the Water for Growth and 
+Development Framework, which has a 2030 planning 
+horizon, aims to balance the critical role of water in terms 
+of both poverty alleviation (ensuring the constitutional 
+right to a reliable and safe water supply) and economic 
+development (be it for domestic, industry, mining, agricultural 
+or forestry use). Water vulnerability and response must also 
+be adequately factored into this framework document.
+A two-pronged approach will be followed in which, firstly, 
+in the short-term, climate change is used as the catalyst 
+for addressing urgent short comings in the water sector 
+and implementing effective, efficient and sustainable water 
+resources and services management measures. Secondly, 
+a long-term strategic focus on planning, adaptation and 
+the smart implementation of new concepts and proactive 
+approaches to managing water resources. To this end, the 
+key elements of the National Climate Change Response 
+Policy for the water sector include:
+5.2.1 Integrating climate change considerations in the 
+short-, medium- and long-term water planning 
+processes across relevant sectors such as agriculture, 
+industry, economic development, health, science and 
+technology.18
+5.2.2 Sustaining state-of-the-art, water-related research 
+and capacity development in all aspects of climate 
+change in order to ensure the availability of relevant 
+high quality, complete and current data, and tools 
+with which to analyse the data.
+5.2.3 Ensuring that water adaptation measures are 
+managed from a regional perspective given the 
+trans-boundary nature of our major rivers.
+5.2.4 Implementing best catchment and water management 
+practices to ensure the greatest degree of water 
+security and resource protection under changing 
+climatic conditions and, in particular, investment in 
+water conservation and water demand management.
+5.2.5 Exploring new and unused resources, particularly 
+groundwater, re-use of effluent, and desalination.
+5.2.6 Reducing the vulnerability and enhancement of the 
+resilience to water-related impacts of climate change 
+in communities and sectors at greatest risk
+5.2.7 Providing human, legal, regulatory, institutional, 
+governance and financial resources and capacity to 
+deal with the long-term effects of climate change
+5.2.8 Undertaking focused monitoring and research in 
+order to ensure the efficacy of water adaptation 
+approaches over the long-term.
+5.3 Agriculture and commercial forestry
+Climate change significantly impacts agriculture and 
+commercial forestry and they have significant potential 
+for adaptation. Globally, agriculture is a key contributor to 
+climate change, being responsible for about 14% of all GHG 
+emissions. In both the agriculture and commercial forestry 
+sectors synergy and overlap exists between adaptation 
+and mitigation measures, and climate-resilient sectoral 
+plans have the potential to directly address the plight of 
+those most impacted by climate change – the rural poor. 
+Furthermore, in these sectors climate resilience addresses 
+issues of strategic national importance: food security, water, 
+health, and land reform. Agriculture is the largest consumer 
+of water (through irrigation) and is vulnerable to changes in 
+water availability, increased water pollution (particularly from 
+toxic algal or bacterial blooms) and soil erosion from more 
+intense rainfall events and increased evapotranspiration. 
+Under-resourced, small-scale and subsistence farmers are 
+particularly vulnerable to the impacts of climate change.
+At the same time, conventional, commercial input-intensive 
+agriculture has a range of negative environmental, social 
+and economic externalities, which increasingly render it 
+an unsustainable model. However, commercial agriculture 
+remains a significant contributor to GDP and employment. 
+Its full contribution, with multipliers, comprises up to 12% 
+of GDP and 30% of national employment. Crop failures can 
+therefore have a significant economic impact. A climateresilient agricultural response depends on the recognition 
+that agriculture should provide not only food, but also a 
+range of other environmental and socio-economic benefits. 
+The appropriate use of small-scale labour-intensive 
+agriculture techniques and models could reverse the present 
+decrease in agricultural jobs; contribute to empowerment 
+goals; promote food security; conserve soil quality and 
+structure; and contribute to biodiversity.
+Modelling of climate change scenarios is vital to informing 
+land-use planning decisions in agriculture that determine 
+the mix of livestock and crop cultivation, as well as the types 
+of crops that are likely to be commercially viable.
+Commercial forestry in the form of alien plantations 
+reduces streamflow and so impacts scarce water resources. 
+It also reduces biodiversity. However, plantations function 
+as carbon sinks that reduce the amount of GHGs in the 
+atmosphere.
+To build resilience to climate change, the priorities for 
+agriculture and commercial forestry are to:
+5.3.1 Integrate agriculture and forestry into climateresilient rural development planning to address 
+job creation, food security and livelihoods with a 
+particular emphasis on building climate resilience 
+through leveraging synergies between adaptation and 
+mitigation.
+5.3.2 Using the results of available risk and vulnerability 
+studies, develop and update short-, medium- and 
+long-term adaptation scenarios to identify climateresilient land-uses. This will support the agricultural 
+industry’s proactive efforts to exploit new 
+agricultural opportunities, new areas and new crops 
+and it will reduce the impacts of climate change on 
+existing agricultural potential.
+5.3.3 Invest in and improve research into water, 
+nutrient and soil conservation technologies and 
+techniques, climate-resistant crops and livestock, 
+5. Adaptation19
+as well as agricultural production, ownership, and 
+financing models to promote the development of 
+“climate-smart agriculture” that lowers agricultural 
+emissions, is more resilient to climate changes, and 
+boosts agricultural yields.
+5.3.4 Use early warning systems to give timely warnings 
+of adverse weather and possibly related pests and 
+disease occurrence. This will also provide up-todate information and decision support tools to 
+assess the vulnerability of farmers and inform farm 
+management decisions.
+5.3.5 Invest in education and awareness programmes in 
+rural areas and link these to agricultural extension 
+activities to enable both subsistence and commercial 
+producers to understand, respond and adapt to the 
+challenges of climate change.
+5.4 Health
+The South African health sector is one of the five key 
+priorities of government. A significant proportion of South 
+Africans, and in particular the poor, already have serious 
+and complex health challenges compounded by poor living 
+conditions. These include amongst the world’s highest rates 
+of tuberculosis and HIV infection. In particular parts of the 
+country, the coverage of vector-borne diseases like malaria, 
+rift valley fever and schistosomiasis may spread due to 
+climate change, requiring a concomitant expansion of public 
+health initiatives to combat these diseases. The links between 
+the environment, food security and the infectious profiles of 
+communities and regions have been well established.
+Within this context, the extreme weather events and 
+increased climate variability associated with climate change 
+provides a number of significant compounding factors that 
+negatively affect the health and resilience of vulnerable 
+communities:
+• The negative impacts of climate change on the 
+socio-economic standing of the most vulnerable 
+communities, and the consequences in terms of food 
+security and the nutritional status of individuals within 
+these communities threatens to further undermine 
+their resistance to diseases such as HIV/AIDS and 
+tuberculosis.
+• The links between weather and disease are well 
+established – for instance, studies have shown a 
+strong association between extreme weather events 
+such as droughts and flooding and the incidence of 
+water borne diseases such as cholera.
+• Furthermore, direct physical temperature stresses 
+pose particular risks for children, the elderly and 
+socio-economically vulnerable communities. South 
+African data from the past four decades indicates an 
+increase in the number of hotter days and nights and 
+therefore an increased risk of casualties from heat 
+stress.
+• Women, as primary care-givers, are put under 
+additional strain looking after sick and elderly 
+household members whilst maintaining a household. 
+This leaves them less time to earn a livelihood putting 
+cyclical pressure on them as they often neglect their 
+own health in prioritising the health of others.
+• In densely populated urban areas, air pollution 
+resulting primarily from the burning of fossil fuels 
+may have serious health effects. Whilst South Africa’s 
+air quality is generally good, stagnant air episodes in 
+cities can create extremely poor air quality conditions 
+and there are indications that climate change may 
+increase the number and intensity of such events.
+In response to these challenges, South Africa will integrate 
+climate change considerations into health sector plans to:
+5.4.1 Reduce the incidence of respiratory diseases and 
+improve air quality through reducing ambient 
+particulate matter, ozone, and sulphur dioxide 
+concentrations by legislative and other measures 
+to ensure full compliance with National Ambient 
+Air Quality Standards by 2020. In this regard, the 
+use of legislative and other measures that also have 
+the co-benefit of reducing GHG emissions will be 
+prioritised. Progress in this regard will be published 
+on the South African Air Quality Information System 
+(SAAQIS).
+5.4.2 Recognising that the nutritional status of individuals 
+is key to building resilience to environmental 
+health threats, ensure that food security and sound 
+nutritional policies form part of an integrated 
+approach to health adaptation strategies.
+5.4.3 Develop and roll-out public awareness campaigns on 
+the health risks of high temperatures and appropriate 
+responses including improved ventilation and 
+5. Adaptation20
+promotion of behaviours that minimise exposure to 
+high temperatures, namely “avoidance behaviour”.
+5.4.4 Design and implement “Heat-Health” action plans 
+including plans in respect of emergency medical 
+services, improved climate-sensitive disease 
+surveillance and control, safe water and improved 
+sanitation.
+5.4.5 Strengthen information and knowledge of linkages 
+between disease and climate change through research.
+5.4.6 Develop a health data-capturing system that records 
+data both at spatial and temporal scales and that 
+ensures that information collected can be imported 
+into multiple-risk systems such as the South African 
+Risk and Vulnerability Atlas (SARVA).
+5.4.7 Improve the bio-safety of the current malaria 
+control strategy. Although the current strategy, 
+which includes the use of the persistent organic 
+pollutant, DDT, has proven effective in reducing the 
+incidence of malaria, there are significant concerns 
+about its long-term impacts on environmental and 
+human health.
+5.4.8 Strengthen the awareness programme on malaria 
+and cholera outbreaks.
+5.5 Biodiversity and ecosystems
+Climate change will compound the pressures on 
+already stressed ecosystems that have resulted from the 
+unsustainable use and inadequate management of many 
+of South Africa’s ecosystems and so potentially reduce 
+the quantity and quality of the services that ecosystems 
+currently provide. These critical services underpin South 
+Africa’s socio-economic activities. Stressed ecosystems 
+will compromise one of the key responses available to 
+the country to adapt to climate change: using ecosystem 
+services to help society adapt to climate change, known as 
+„ecosystem-based adaptation’.
+Although South Africa has a conceptual understanding 
+of the possible impacts of climate change on many of its 
+key biodiversity assets, a comprehensive and quantitative 
+evaluation of various climate change, and climate change 
+impact, scenarios has yet to be undertaken for all significant 
+ecosystems, especially with respect to the services they 
+provide.
+Notwithstanding the uncertainty alluded to above, projected 
+climate change impacts on biodiversity assets are likely to 
+include although are not limited to:
+• Roughly 30% of endemic terrestrial species in South 
+Africa may be at an increasingly high risk of extinction 
+by the latter half of this century if climate change is 
+not mitigated.
+• Marine ecosystems and species are at risk from 
+changes in water temperature, ocean acidification and 
+from changes in ocean currents such as West Coast 
+upwelling and Agulhas current strengthening. Change 
+in South Africa’s marine and coastal environment is 
+already being observed and this change has already 
+had significant impacts on the fisheries sector and 
+on the local economy of small-scale and subsistence 
+fishing communities along the West Coast.
+• Changes in rainfall patterns and temperatures, and 
+rising atmospheric carbon dioxide levels could shift 
+the distribution of South African terrestrial biomes 
+with many implications for species diversity, ecosystem 
+processes such as wildfires, and critical ecosystem 
+services such as water yield and grazing biomass.
+• Increasing frequency of extreme rainfall events will 
+influence runoff quality and quantity in complex 
+ways, significantly affecting the marine and estuarine 
+environment. Reduced water flow will increase the 
+salinity of estuaries, affecting the breeding grounds 
+and nursery areas of many marine species. Coastal 
+estuaries will also be vulnerable to long-term sealevel rise.
+• Rising atmospheric carbon dioxide has poorly known 
+direct effects on ecosystems. It may be increasing the 
+cover of shrubs and trees in Grassland and Savannah 
+Biomes, with mixed effects on biodiversity and possible 
+positive implications for carbon sequestration.
+• Additional stresses to biodiversity resulting from 
+climate change include wildfire frequency (which 
+appears to already show climate change-related 
+increases in the Fynbos Biome), and the prevalence of 
+invasive alien species. These stresses combined with 
+reduced and fragmented habitats will further increase 
+the vulnerability of biodiversity to climate change.
+In response to these challenges, South Africa will integrate 
+climate change into the management of biodiversity and 
+ecosystem services as follows:
+5. Adaptation21
+5.5.1 Strengthen biodiversity management and research 
+institutions so that they can monitor, assess and 
+respond effectively to existing anthropogenic 
+pressures together with the additional pressures that 
+climate change presents.
+5.5.2 Conserve, rehabilitate and restore natural systems 
+that improve resilience to climate change impacts or 
+that reduce impacts. For example, mangrove forests 
+reduce storm surge impacts and riparian vegetation 
+and wetland ecosystems reduce the potential impact 
+of floods. Opportunities to conserve biodiversity 
+and extend the conservation estate through the 
+development of carbon off-set programmes will be 
+actively developed, such as those presented by the 
+preservation of Spekboom as part of the Eastern 
+Cape Thicket Biome.
+5.5.3 Prioritise impact assessments and adaptation planning 
+that takes into account the full range of possible 
+climate outcomes, in conjunction with plausible 
+scenarios of other stresses.
+5.5.4 Prioritise climate change research into marine and 
+terrestrial biodiversity and ecosystem services, 
+and institute effective monitoring to enhance the 
+understanding and forecasting of critical future 
+threats. Monitoring efforts at national and subnational scale, supported by experimental studies 
+that quantify future risks to biodiversity and that 
+improve projections of impacts, will help to design 
+and refine adaptation responses.
+5.5.5 Enhance existing programmes to combat the spread 
+of terrestrial and marine alien and invasive species, 
+especially in cases where such infestations worsen 
+the impacts of climate change.
+5.5.6 Expand the protected area network (in line with the 
+National Protected Area Expansion Strategy) where 
+it improves climate change resilience, and manage 
+threatened biomes, ecosystems, and species in ways 
+that will minimise the risks of species extinction. 
+A regulatory framework to support investment 
+in conservation or land rehabilitation as a way 
+of offsetting the environmental impacts of new 
+property developments will be explored.
+5.5.7 Encourage partnerships for effective management 
+of areas not under formal protection, especially 
+freshwater ecosystem priority areas, critical 
+biodiversity areas, ecological support areas and 
+threatened ecosystems.
+5.5.8 In the medium-term, expand existing gene banks to 
+conserve critically endangered species that show 
+increasing vulnerability to climate change trends.
+5.6 Human Settlements – Urban Settlements
+More than 60% of South Africa’s population live in urban 
+areas, which cover only 1.5% of South Africa’s surface area. 
+The average growth rate for urban areas is consistently 
+higher than the population growth rate. Urban areas are 
+functionally more efficient, with lower per capita costs of 
+services and land requirements for human settlement, but 
+urban areas consume more resources and have an impact 
+far beyond their urban boundaries. Urban sprawl reduces 
+biodiversity and it pollutes land, water and air. Informal 
+settlements are vulnerable to environmental and health 
+risks because dwellings are in areas prone to disasters and 
+that lack basic services.
+Urban human settlements face the following climate change 
+challenges:
+• Climate change may exacerbate the problems caused 
+by poor urban management. For example, poor 
+storm water drainage systems and urban-induced 
+soil erosion result in flash flooding. Increased storm 
+intensity due to climate change would exacerbate 
+such problems.
+• Cities are particularly vulnerable to climate change 
+because they are slow to adapt to changes in the 
+environment and they have entrenched dependencies 
+on specific delivery mechanisms for critical services.
+• The effective management of the interface between 
+urban residents and their surrounding environment 
+producing sustainable social-ecological systems needs 
+to the addressed. Similarly the concept of climate 
+resilience in the context of urban social-ecological 
+systems needs to be further developed.
+• South Africa’s cities still reflect apartheid planning 
+with the poorest communities tending to live far 
+away from services and employment. Our cities are 
+relatively spread out and these two factors contribute 
+to increased transport emissions.
+5. Adaptation22
+• Water demand in urban centres is growing rapidly, 
+placing undue stress on water supply systems. 
+Investment in waste water treatment works has not 
+remained in line with the growth in demand and use.
+• Informal settlements are vulnerable to floods and 
+fires, exacerbated by their location in flood- or 
+ponding-prone areas and on sand dunes; inferior 
+building materials; and inadequate road access for 
+emergency vehicles.
+• Cities and dense urban settlements consume large 
+amounts of energy.
+In response to these challenges, South Africa will:
+5.6.1 Investigate how to leverage opportunities presented 
+by urban densification to build climate-resilient urban 
+infrastructure and promote behavioural change as 
+part of urban planning and growth management.
+5.6.2 In the implementation of low-cost housing, ensure 
+access to affordable lower-carbon public transport 
+systems, incorporate thermal efficiency into designs 
+and use climate-resilient technologies.
+5.6.3 Develop effective information, monitoring and 
+assessment tools to evaluate the resilience of our 
+cities and towns to climate change and assist urban 
+planners in identifying priorities for scaling-up 
+climate change responses. Strengthen and enhance 
+decision support tools and systems such as the 
+Toolkit for Integrated Planning and develop geographic 
+information systems that include, but not limited 
+to, asset management components for public 
+infrastructure.
+5.6.4 Encourage and develop water-sensitive urban design 
+to capture water in the urban landscape and to 
+minimise pollution, erosion and disturbance. Urban 
+infrastructure planning must account for water 
+supply constraints and impacts of extreme weatherrelated events.
+5.6.5 Acknowledging the current modelling limitations, 
+encourage and support the appropriate downscaling of climate models to provincial and, where 
+possible, metropolitan and district levels to provide 
+climate information at a scale that can be integrated 
+into medium- and long-term spatial development 
+plans and information systems.
+5.6.6 Ensure that land-use zoning regulations are enforced 
+and that urban land-use planning considers the 
+impacts of climate change and the need to sustain 
+ecosystem services when considering settlements 
+and infrastructure development proposals.
+5.7 Human Settlements – Rural Settlements
+Over nineteen million, or 39%, of South Africans live in 
+rural areas. Eighty percent of rural areas are commercial 
+farming areas with low population densities, and 20% are 
+former “homelands” where the agricultural sector has been 
+undermined, settlements are often densely populated, and 
+people are poor and largely reliant on urban remittances 
+and social welfare for their livelihoods. Small-scale and 
+homestead food production are practiced in rural areas 
+on both high potential and marginal agricultural land, with 
+roughly 1.3 million small-scale farm units. Seventy percent of 
+the country’s poorest households live on small-scale farms 
+and few of them produce enough food to feed themselves 
+throughout the year.
+Rural human settlements face the following climate change 
+challenges:
+• Small-scale and subsistence food production is 
+particularly vulnerable to climate variability, relying 
+mostly on dryland food production with limited 
+capital to invest in soil fertilisation, seed and weed, 
+pest and disease control.
+• Climate change, in particular changes in production 
+systems and climate change-related damage and crop 
+failures, is likely to negatively affect employment in 
+rural areas.
+• Spatial planning needs to address historical inequalities 
+in land distribution without compromising the ability 
+of the agricultural sector to contribute to food 
+security.
+• Rural communities with the highest dependence 
+on natural water sources are in KwaZulu-Natal, 
+the Eastern Cape and Limpopo. The former two 
+will probably experience more flooding and water 
+contamination. In addition to these, Limpopo will 
+probably experience more droughts. These are areas 
+with some of the poorest communities and underresourced municipalities with limited capacity and 
+skills to adapt to changing conditions.
+5. Adaptation23
+• Rural areas are under-represented in the climate 
+monitoring network despite the fact that they are 
+likely to be the soonest and most greatly negatively 
+affected by climate change.
+In response to these challenges, South Africa will:
+5.7.1 Educate subsistence and small-scale farmers on 
+the potential risks of climate change, and support 
+them to develop adaptation strategies with on-farm 
+demonstration and experimentation. Adaptation 
+strategies will include conservation agriculture 
+practices including water harvesting and crop 
+rotation, and will prioritise indigenous knowledge 
+and local adaptive responses.
+5.7.2 Empower local communities, particularly women 
+who are often primary producers, in the process of 
+designing and implementing adaptation strategies.
+5.7.3 Design and implement economic and livelihood 
+diversification programmes in rural areas.
+5.7.4 Within the country’s research and development 
+system, prioritise technologies for climate change 
+adaptation within rural areas, including low 
+water-use irrigation systems, improved roll-out 
+of rainwater harvesting strategies, and droughtresistant seed varieties.
+5.7.5 Target adaptation programmes to build resilience 
+among the most vulnerable sections of the rural 
+population and ensure that disaster management 
+architecture includes the provision of safety nets 
+for rural communities most vulnerable to the 
+impacts of climate change. This includes enhancing 
+their knowledge of sustainable environmental 
+conditions and optimising the ecosystem services 
+that these provide.
+5.8 Human Settlements – Coastal Settlements
+Coastal human settlements are the most vulnerable to an 
+increase in sea-level rise due to climate change. Coastal areas 
+provide habitation, work, and recreation to approximately 
+40% of the South African people. A significant proportion 
+of South Africa’s metropolitan areas, including numerous 
+towns and smaller settlements, are situated along the 
+coastline. These areas also host high volumes of local and 
+international tourists annually. A network of infrastructural 
+installations and communication links along the coast, built 
+by public and private enterprises, service the needs of the 
+inhabitants, tourists and other entities in the coastal zone. 
+The attraction of lifestyle and development opportunities in 
+coastal area is leading to significant migration to the coast, 
+with additional settlements and services in areas that are 
+not immune to the impacts of climate change.
+The 3,650 km South African coastline is generally exposed 
+to moderate to strong wave action and provides little 
+natural shelter to storms from the sea. With climate change 
+expected to increase both the frequency and intensity of 
+storms, the South African coastline will become increasingly 
+vulnerable to storm surges, coastal erosion, sea-level rise 
+and extreme weather events. A continual assessment of 
+coastal defences, particularly at harbours, estuaries and 
+lagoons, and along low-lying coastal land, will be needed to 
+reduce damage in high risk areas.
+In addition to the climate change impacts listed for urban 
+and rural areas above, further impacts for coastal areas 
+include:
+• Flooding and coastal erosion that result in the loss of 
+coastal infrastructure (including breakwaters, roads 
+and public amenities), habitat and ecosystem goods 
+and services. Predicted rises in sea level may further 
+exacerbate these impacts.
+• Increased frequency and intensity of coastal storms, 
+which includes seasonal cyclone activity on the east 
+coast. Estuaries are particularly vulnerable.
+Increased coastal development and inappropriate land and 
+catchment management will exacerbate these impacts.
+In response to these challenges, South Africa will:
+5.8.1 Ensure that national, provincial and municipal coastal 
+management plans incorporate relevant climate 
+information and geographic information systems 
+and adopt a risk-based approach to planning that 
+anticipates the consequences of the continued 
+migration of communities into high risk coastal 
+areas.
+5.8.2 Take account of the potential impact of sea-level rise 
+and intense weather events, such as storm surges, 
+on infrastructure development and investment in 
+coastal areas, particularly in terms of the location 
+of the high-water mark and coastal set-back lines 
+5. Adaptation24
+that demarcate the areas in which development is 
+prohibited or controlled. Government will review 
+and amend the legislation to deal with adjustments 
+of coastal set-back lines that affect the status of 
+existing public and private infrastructure.
+5.8.3 Protect and rehabilitate natural systems that act 
+as important coastal defences, such as mangrove 
+swamps, offshore reefs and coastal dunes.
+5.8.4 Develop Disaster Risk Management plans that take 
+into account the potential consequences of climate 
+change along the coast, particularly the increased 
+incidence of extreme weather events.
+5.8.5 Support ongoing research to determine the impacts 
+of climate change on artisanal fishing communities 
+and livelihoods in coastal areas that are directly 
+connected to coastal and marine resources and 
+identify appropriate responses.
+5.9 Disaster risk reduction and management
+Disaster risk reduction and management are short-term 
+adaptations to climate change because both address 
+vulnerability to climate change-related impacts. Resilience to 
+climate change-related extreme events, such as heat waves, 
+floods, droughts, wildfires and storm surges, will be the basis 
+for South Africa’s future approach to disaster management. 
+Extreme weather events often cross country borders and 
+impact on the region as a whole. As such a region-wide 
+approach to disaster management is often needed.
+South Africa’s Disaster Management Act sets out a 
+comprehensive approach to disaster management and it 
+identifies the roles and responsibilities of key institutions 
+and disaster management agencies. In addition, the Act 
+establishes a National Disaster Management Centre whose 
+role is to address disaster prevention, coordinate disaster 
+management agencies and capacity across government and 
+to ensure that critical information is disseminated speedily.
+Climate change will require more effective disaster 
+management to deal with the increased number of extreme 
+weather events. The increase in extreme events will strain 
+public resources due to the need to declare and support 
+disaster areas in an immediate crisis as well as during longterm recovery.
+In response to these challenges, South Africa will:
+5.9.1 Continue to develop and improve its early warning 
+systems for weather and climate (especially severe 
+weather events) and pest infestation events and to 
+ensure that these warnings reach potentially affected 
+populations timeously. To this end, we will investigate 
+and implement plans to use the mass media and 
+appropriate information and communication 
+technologies to alert vulnerable populations.
+5.9.2 Seek to collaborate with our neighbouring states 
+to share early warning systems with regional 
+applications and benefits.
+5.9.3 Continue to promote the development of Risk 
+and Vulnerability Service Centres at universities, 
+which will, in turn, support resource-constrained 
+municipalities.
+5.9.4 Facilitate increased use of seasonal climate forecasts 
+among key stakeholders such as those in the water 
+and agricultural sectors.
+5.9.5 Maintain, update and enhance the SARVA as a tool 
+that provinces and municipalities may use to inform 
+their climate change adaptation planning.
+5.9.6 Collaborate with social networks such as community 
+organisations, non-governmental organisations 
+(NGOs), women and farmers’ organisations, and the 
+Adaptation Network to help raise awareness and to 
+transfer technology and build capacity.
+5.9.7 Develop mechanisms for the poor to recover after 
+disasters, including micro-insurance.
+5. Adaptation25
+6.1 Overall approach to mitigation
+South Africa’s approach to mitigation is informed by two 
+contexts: first, its contribution as a responsible global citizen to 
+the international effort to curb global emissions; and second, 
+its successful management of the development and poverty 
+eradication challenges it faces. The National Climate Change 
+Response is intended to promote adaptation and mitigation 
+measures that will make development more sustainable, both 
+in socio-economic and environmental terms.
+South Africa recognises that stabilisation of GHG 
+concentrations in the atmosphere at a level that prevents 
+dangerous anthropogenic interference with the climate 
+system will require effective international co-operation. We 
+therefore regard mitigation as a national priority and are 
+committed to actively engaging in international negotiations 
+under the UNFCCC and its Kyoto Protocol, which South 
+Africa has ratified.
+As a responsible global citizen and as a global citizen with 
+moral as well as legal obligations under the UNFCCC and its 
+Kyoto Protocol, South Africa is committed to contributing 
+its fair share to global GHG mitigation efforts in order 
+to keep the temperature increase well below 2°C. In this 
+regard, on 6 December 2009, the President announced 
+that South Africa will implement mitigation actions that 
+will collectively result in a 34% and a 42% deviation below 
+its „Business As Usual’ emissions growth trajectory by 
+2020 and 2025 respectively. In accordance with Article 4.7 
+of the UNFCCC, the extent to which this outcome can 
+be achieved depends on the extent to which developed 
+countries meet their commitment to provide financial, 
+capacity-building, technology development and technology 
+transfer support to developing countries. With financial, 
+technology and capacity-building support, this level of effort 
+will enable South Africa’s GHG emissions to peak between 
+2020 and 2025, plateau for approximately a decade and 
+decline in absolute terms thereafter.
+To this end, the key elements in the overall approach to 
+mitigation include:
+6.1.1 Setting the performance benchmark – Using the 
+National GHG Emissions Trajectory Range, against 
+which the collective outcome of all mitigation 
+actions will be measured. Section 6.4 contains more 
+information about the emissions trajectory.
+6.1.2 Identifying desired sectoral mitigation contributions – Defining desired emission reduction 
+outcomes for each sector and sub-sector of the 
+economy within two years of the publication of 
+this policy-based on an in-depth assessment of 
+the mitigation potential, best available mitigation 
+options, science, evidence and a full assessment of 
+the costs and benefits. Where appropriate, these 
+desired emission reduction outcomes will be 
+cascaded to individual company or entity level;
+6.1.3 Defining Carbon Budgets for significant GHG
+emitting sectors and/or sub-sectors – Adopting 
+a carbon budget approach to provide for flexibility 
+and least-cost mechanisms for companies in 
+relevant sectors and/or sub-sectors. The initial 
+Carbon Budgets for significant GHG emitting 
+sectors and/or sub-sectors will be drawn up 
+and adopted within two years of the publication 
+of this policy and revised as required based on 
+monitoring and evaluation results, technological 
+advances or new science, evidence and information. 
+A mechanism and process to translate the Carbon 
+Budgets for each relevant sector and/or sub-sector 
+into company level desired emission reduction 
+outcomes will be developed and implemented 
+within three years of the publication of this 
+policy for companies above a minimum emissions 
+threshold. Section 6.5 contains more information 
+about the carbon budget approach.
+6.1.4 Mitigation Plans – Requiring companies and 
+economic sectors or sub-sectors for whom 
+desired emission reduction outcomes have been 
+established to prepare and submit mitigation plans 
+that set out how they intend to achieve the desired 
+emission reduction outcomes.
+6.1.5 The use of different types of mitigation
+approaches, policies, measures and actions – 
+Developing and implementing a wide range and mix 
+of different types of mitigation approaches, policies, 
+measures and actions that optimise the mitigation 
+outcomes as well as job creation and other 
+sustainable developmental benefits. This optimal 
+mix of mitigation actions will be developed to 
+achieve the defined desired emission reduction 
+outcomes for each sector and sub-sector of the 
+economy by ensuring that actions are specifically 
+tailored to the best available solutions and other 
+relevant conditions related to the specific sector, 
+sub-sector or organisation concerned;
+6. MITIGATION
+6. Mitigation26
+6.1.6 Using the market – Deploying a range of 
+economic instruments to support the system of 
+desired emissions reduction outcomes, including 
+the appropriate pricing of carbon and economic 
+incentives, as well as the possible use of emissions 
+offset or emission reduction trading mechanisms 
+for those relevant sectors, sub-sectors, companies 
+or entities where a carbon budget approach has 
+been selected.
+6.1.7 Monitoring and evaluation – Establishing a 
+national system of data collection to provide 
+detailed, complete, accurate and up-to-date 
+emissions data in the form of a Greenhouse Gas 
+Inventory and a Monitoring and Evaluation System 
+to support the analysis of the impact of mitigation 
+measures. Section 6.7 contains more information 
+about emissions data collection and section 12 
+expands on the proposed Climate Change Response 
+Monitoring and Evaluation System.
+6.2 South Africa’s emissions
+South Africa has relatively high emissions for a developing 
+country, measured either per capita or by GHG intensity 
+(emissions per unit of GDP). By any measure, South Africa 
+is a significant emitter of GHGs.
+The energy intensity of the South African economy, largely 
+due to the significance of mining and minerals processing 
+in the economy and our coal-intensive energy system, has 
+resulted in an emissions profile that differs substantially 
+from that of other developing countries at a similar stage 
+of development as measured by the Human Development 
+Index. Since coal is the most emissions-intensive energy 
+carrier, South Africas economy is very emissions-intensive. 
+Furthermore, emissions from land-use change (primarily 
+deforestation) contribute a significantly smaller share to our 
+emission profile than for many other developing countries. 
+In 2000, average energy use emissions for developing 
+countries constituted 49% of total emissions, whereas South 
+Africas energy use emissions constituted just under 80% of 
+total emissions. Even in some fast-developing countries with 
+a similar reliance on coal for energy, energy use emissions 
+are lower than South Africa.
+In terms of South Africas latest Greenhouse Gas Inventory 
+(base year 2000), the majority of South Africas energy 
+emissions arose from electricity generation, which 
+constituted around half of South Africa’s energy emissions 
+and just under 40% of total emissions in 2000. Transportation 
+and energy used in industry contributed just under 10% 
+each of total emissions and industrial process emissions 
+constituted around 14% of total emissions. Emissions from 
+agriculture and land-use change in South Africa constitute 
+only around 5% of emissions, compared to an average of 
+44% in developing countries as a whole.
+6.3 Mitigation potential
+Currently available analyses indicate that, unchecked by 
+climate mitigation action, South Africa’s emissions could 
+grow rapidly by as much as fourfold by 2050. The majority of 
+South Africa’s emissions arise from energy supply (electricity 
+and liquid fuels) and use (mining, industry and transport), 
+and mitigation actions with the largest emission reduction 
+potential focus on these areas. The cost of mitigation actions 
+varies significantly, and published analyses of these costs is 
+likely to require further refinement, especially at sectoral, 
+sub-sectoral and individual organisation levels.
+Unlike in other developing countries, South Africa has limited 
+opportunities to cut emissions by tackling deforestation, a 
+sector in which near-term emission reductions are more 
+easily achieved through regulatory policies and enforcement 
+type measures and are therefore relatively inexpensive. 
+While opportunities for mitigation of emissions from nonenergy sources do exist, large mitigation contributions 
+will have to come from reduced emissions from energy 
+generation and use. The main opportunities for mitigation 
+consist of energy efficiency, demand management and 
+moving to a less emissions-intensive energy mix, with 
+consequent economic benefits of improved efficiency and 
+competitiveness as well as incentivising economic growth in 
+sectors with lower energy intensities.
+Policy decisions on new infrastructure investments must 
+consider climate change impacts to avoid the lock-in of 
+emissions-intensive technologies into the future. However, 
+in the short-term, due to the stock and stage in the 
+economic lifecycle of existing infrastructure and plant, the 
+most promising mitigation options are primarily energy 
+efficiency and demand side management, coupled with 
+increasing investment in a renewable energy programme 
+in the electricity sector. In addition, in the short term, the 
+emergence of bio-fuels and a suite of non-energy mitigation 
+options, such as afforestation, are also important.
+6. Mitigation27
+A mix of economic instruments, including market-based 
+instruments such as carbon taxes and emissions trading 
+schemes, and incentives, complemented by appropriate 
+regulatory policy measures are essential to driving and 
+facilitating mitigation efforts and creating incentives for 
+mitigation actions across a wide range of key economic 
+sectors. Section 10.7 provides further details on the 
+application of market-based policy instruments.
+In the medium-term, the mitigation options with the biggest 
+mitigation potential are:
+• shifting to lower-carbon electricity generation 
+options;
+• significant upscaling of energy efficiency applications, 
+especially industrial energy efficiency and energy 
+efficiency in public, commercial and residential 
+buildings and in transport; and
+• promoting transport-related interventions including 
+transport modal shifts (road to rail, private to public 
+transport) and switches to alternative vehicles (e.g. 
+electric and hybrid vehicles) and lower-carbon fuels.
+• In the short and medium term, several other options 
+are available with a smaller mitigation potential, 
+including:
+• carbon capture and storage in the synthetic fuels 
+industry;
+• options for mitigating non-energy emissions in 
+agriculture and land-use; and
+• transitioning the society and economy to more 
+sustainable consumption and production patterns.
+In our long-term planning, information (nationally and 
+internationally) about the outcome of mitigation options, 
+technology development, and other new information, may 
+suggest additional mitigation actions.
+This policy identifies or sets up processes to identify the 
+optimal combination of actions sufficient to meet the 
+National Climate Change Response Objective. Factors to 
+be considered include not only the mitigation potential, 
+the incremental and direct cost of measures, but also the 
+broader impact on socio-economic development indicators 
+(such as employment and income distribution), our 
+international competitiveness, the cost to poor households 
+and any negative consequences for key economic sectors.
+6.4 The Benchmark National GHG Emissions 
+Trajectory Range
+In 2008, in the context of South Africa’s moral and legal 
+obligation to make a fair contribution to the global 
+mitigation effort under the UNFCCC and its Kyoto 
+Protocol, Cabinet fully considered the Long Term Mitigation 
+Scenario study of the country’s mitigation potential. This led 
+to the announcement that South Africa’s emissions should 
+peak in the period from 2020 to 2025, remain stable for 
+around a decade, and decline thereafter in absolute terms. 
+The President confirmed this strategic policy direction at 
+the 2009 National Climate Summit and further detailed this 
+as a South African undertaking in the context of all legal 
+obligations under the UNFCCC and its Kyoto Protocol prior 
+to the international UNFCCC Climate Change Conference 
+in 2009 (see 6.1 above). This strategic policy direction and 
+international undertaking has informed a National GHG 
+Emissions Trajectory Range, projected to 2050, to be used 
+as the benchmark against which the efficacy of mitigation 
+action will be measured.
+The benchmark National GHG Emissions Trajectory Range:
+6.4.1 Reflects South Africa’s fair contribution to the global 
+effort to limit anthropogenic climate change to well 
+below a maximum of 2oC above pre-industrial 
+levels.
+6.4.2 Details the “peak, plateau and decline trajectory” 
+used as the initial benchmark against which the 
+efficacy of mitigation actions will be measured 
+(see the document published by the Department 
+of Environmental Affairs (DEA) in 2011 entitled 
+“Defining South Africa’s Peak, Plateau and Decline 
+Greenhouse Gas Emission Trajectory”). In summary:
+- South Africa’s GHG emissions peak in the period 
+2020 to 2025 in a range with a lower limit of 398 
+Megatonnes (109 kg) (Mt) CO2
+-eq and upper 
+limits of 583 Mt CO2
+-eq and 614 Mt CO2
+-eq for 
+2020 and 2025 respectively.
+- South Africa’s GHG emissions will plateau for up 
+to ten years after the peak within the range with 
+a lower limit of 398 Mt CO2
+-eq and upper limit of 
+614 Mt CO2
+-eq.
+- From 2036 onwards, emissions will decline in 
+absolute terms to a range with lower limit of 212 Mt 
+CO2
+-eq and upper limit of 428 Mt CO2
+-eq by 2050.
+6. Mitigation28
+6.4.3 Defines an initial National GHG Emissions 
+Trajectory Range, which may be reviewed in the light 
+of monitoring and evaluation results, technological 
+advances or new science, evidence and information.
+6.5 The Carbon Budget Approach
+Recognising that due to the current emissions-intense 
+structure of the economy, many sectors require a flexible 
+mitigation approach, which enables the development and 
+use of lowest-cost options such as offset and other types 
+of market-based mechanisms. For such sectors, a Carbon 
+Budget (CB) approach is adopted that specifies desired 
+emission reduction outcomes consistent with the benchmark 
+national GHG emissions range trajectory. To this end, CBs will 
+be drawn up within two years of the publication of this policy 
+for relevant economic sectors and subsectors, particularly 
+in the major energy supply (electricity and liquid fuels) and 
+use (mining, industry and transport) sectors. These CBs will 
+be updated as required based on monitoring and evaluation 
+results, technological advances or new science, evidence and 
+information. The CBs will be released in conjunction with 
+the National Climate Change Response Monitoring and 
+Evaluation System, which includes an enhanced National 
+Greenhouse Gas Inventory process.
+The CB process will identify an optimal combination 
+of mitigation actions at the least cost to-and with the 
+most sustainable development benefits for-the relevant 
+sector and national economy to enable and support the 
+achievement of the desired emission reduction outcomes 
+consistent with the benchmark National GHG Emissions 
+Trajectory Range. Government will actively consult with 
+industry and other key stakeholders in the development of 
+CBs and approaches, mechanisms and outcomes.
+The process to draw up or to review the CBs will consist 
+of the following steps:
+6.5.1 Review of the contributions making up the national 
+emissions trajectory informed by historical 
+emissions and trends and the most recent and best 
+available scientific evidence and information.
+6.5.2 Identification of a portfolio of enabling mitigation 
+programmes and measures, including economywide measures and instruments, such as a carbon 
+tax and incentives to industry and households, and 
+the financial resources available to support them.
+6.5.3 Analysis of :
+- current and future emissions trends by sector and 
+sub-sector,
+- the timing, scale, cost and risk of different 
+mitigation actions for each economic sector and 
+sub-sector, and
+- the economy-wide implications of mitigation 
+actions, in particular on jobs.
+6.5.4 Development of desired emission reduction 
+outcomes for each sector and sub-sector of the 
+economy. These will include short-, medium- and 
+long-term CBs for sectors and sub-sectors where 
+a CB approach is relevant. In respect of significant 
+point-source emissions, the CBs will be cascaded 
+down to sub-sectors and, ultimately, companies 
+whose emissions are above a specified threshold.
+6.5.5 Consultation with:
+- The National Treasury, the Departments of Trade 
+and Industry and Economic Development on the 
+implementation of fiscal measures, incentives 
+and other support measures, such as the carbon 
+tax, including an assessment of the measures’ 
+effectiveness and benefits, and any other key 
+parameters.
+- Any other relevant entity about other means of 
+implementation that may be required.
+- Stakeholders, in particular organised business and 
+labour.
+6.5.6 The IGCCC will establish a process to provide 
+analytical resources to support the development of 
+the CB approach.
+6.6 Sectoral mitigation and lower-carbon development strategies
+Under the leadership of the relevant national sector 
+government department, each significantly emitting 
+economic sector or sub-sector will be required to 
+formulate mitigation and lower-carbon development 
+strategies. These strategies will specify a suite of mitigation 
+programmes and measures appropriate to that sector or 
+sub-sector. They will also provide measurable and verifiable 
+indicators for each programme and measure to monitor 
+their implementation and outcome. These strategies 
+6. Mitigation29
+will outline how to implement the proposed mitigation 
+programmes via existing implementation mechanisms, such 
+as the IRP 2010, or via modified or new mechanisms (see 
+10.1.2). For example, in respect of industrial emissions, 
+approved mitigation plans will conform to the Air Quality 
+Management Act’s requirements for Pollution Prevention 
+Plans prepared by identified industries and sectors.
+6.7 GHG emissions inventory
+Accurate, complete and up-to-date data is the foundation 
+of an effective response. Two essential elements for the 
+definition of desired emission reduction outcomes and the 
+development of CBs are emissions data and data to monitor 
+the outcome of specific mitigation actions. This section 
+details the GHG Emissions Inventory and section 12 details 
+the climate change monitoring and modelling requirements, 
+as well as the evaluation of mitigation actions.
+The DEA in partnership with the South African Weather 
+Service, the host of the SAAQIS, will prepare a GHG 
+Emissions Inventory annually. The inventory will conform to 
+the IPCC’s 2006 or later guidelines, and will be periodically 
+reviewed by an international team of experts. The inventory 
+will also undertake and report analyses of emissions trends, 
+including detailed reporting on changes in emissions 
+intensity in the economy and a comparison of actual GHG 
+emissions against the benchmark national GHG emission 
+trajectory range described in section 6.4.
+As is currently contemplated by the DEA, reporting 
+of emissions data will be made mandatory for entities 
+(companies and installations) that emit more than 0.1 Mt 
+of GHGs annually, or that consume electricity which results 
+in more than 0.1 Mt of emissions from the electricity 
+sector. Qualifying entities will also be obliged to report 
+energy use by energy carrier and other data as may be 
+prescribed. The emissions inventory will be a web-based 
+GHG Emission Reporting System and will form part of the 
+National Atmospheric Emission Inventory component of 
+the SAAQIS. It will be developed, tested and commissioned 
+within two years of the publication of this policy.
+6. Mitigation30
+7. Managing Response Measures
+7. MANAGING RESPONSE MEASURES
+As mentioned in section 4, in addition to the direct physical 
+impacts of climate change, there are also secondary 
+economic impacts. As a significant global emitter with a 
+heavy reliance on coal-based energy, South Africa may 
+be economically vulnerable to measures taken both 
+internationally and nationally, to reduce GHG emissions. 
+The sectors that are particularly vulnerable are those 
+that are emissions-intensive, and trade-exposed, and may 
+include iron and steel, non-ferrous metals, chemicals and 
+petrochemicals, mining and quarrying, machinery and 
+manufacturing, some agricultural exports, as well as transport 
+services and tourism. Potential economic risks emerge from 
+the impacts of climate change regulation, the application of 
+trade barriers, a shift in consumer preferences, and a shift 
+in investor priorities. There are, however, also economic 
+opportunities that arise from new or expanded markets, 
+enhanced efficiencies and improved competitiveness, 
+development of lower-carbon infrastructure with strong 
+socio-economic benefits, and the development of a national 
+environmental goods and services sector.
+Government will take a multi-pronged approach to 
+addressing and managing response measures, especially 
+in respect of response measures that may have negative 
+economic impacts. At the international level, South Africa 
+will engage vigorously in the multilateral climate change 
+negotiations, to ensure a fair and effective outcome that 
+is in accordance with the principles of equity, common but 
+differentiated responsibility, and respective capabilities, and 
+that provides developing countries with sufficient time and 
+development space for the required economic transition to 
+lower-carbon economies. At the national level, the challenge 
+will be to effectively manage and reduce the economic risks, 
+and build on and optimise the potential opportunities, and 
+to ensure a smooth and just transition to a climate-resilient, 
+equitable and internationally competitive lower-carbon 
+economy and society.31
+8. Near-Term Priority Flagship Programmes
+A set of Near-term Priority Flagship Programmes will be 
+implemented as an integral part of this policy informed by 
+several important factors including the urgency of acting on 
+mitigation and adaptation responses as soon as possible as 
+well as the fact that many sectors have already researched 
+and have experience in implementing policies and measures 
+to address the challenges of climate change. The initial 
+desired emission reduction outcomes, the carbon budgets 
+and the initial adaptation intervention prioritisation process 
+will be completed within two years of the publication of this 
+policy. These programmes will include both the scaling-up 
+of existing climate change initiatives and new initiatives that 
+are ready to come on-stream.
+The Inter-Ministerial Committee (IMCCC) (section 10.2.2) 
+and the IGCCC sub-committee (section 10.2.3) will take 
+responsibility for the development and oversight of the 
+Near-term Priority Flagship Programmes. The appropriate 
+line function Ministry will elaborate on each Near-term 
+Priority Flagship Programme and the responsible Minister 
+will establish teams to create a framework for each 
+programme. Frameworks will consist of the following:
+• A programme for implementation.
+• A detailed analysis of mitigation or adaptation 
+outcomes expected to result from the programme.
+• A proposal for realising local sustainable development 
+benefits, including employment, poverty alleviation, 
+industrial development, reduction in local air pollution 
+and others.
+• A well-defined reporting format, which will include a 
+set of relevant indicators, and a proposal to establish 
+an annual reporting process.
+Based on current analysis, government has identified 
+an initial list of Near-term Priority Flagship Programmes, 
+covering both adaptation and mitigation measures. 
+The mitigation programmes cover the major emitting 
+sectors, have relatively well-known mitigation outcomes 
+and implementation processes, and are either very costeffective and have significant co-benefits or have technology 
+development benefits. The Flagship Programmes also utilise, 
+test and/or demonstrate a suite of policy interventions 
+including regulatory measures, market-based instruments, tax 
+incentives and fiscal subsidies, and information and awareness 
+initiatives. Regulatory measures include renewable energy 
+and energy efficiency targets complemented by appropriate 
+standards; market-based instruments including the electricity 
+generation levy and taxes on motor vehicle emissions and 
+incandescent light bulbs; tax incentives and fiscal subsidies are 
+targeted at various programmes that support climate change 
+mitigation and adaptation objectives; and information and 
+awareness initiatives including the motor vehicle emissions 
+labelling scheme.
+The following Near-term Priority Flagship Programmes will 
+be implemented with immediate effect:
+8.1 The Climate Change Response Public Works 
+Flagship Programme
+The Climate Change Response Public Works Flagship 
+Programme includes the consolidation and expansion of 
+the Expanded Public Works Programme and its sector 
+components such as the Non-State Sector’s Community 
+Works Programme and the suite of Environment and 
+Culture Sector programmes including Working for Water, 
+Working on Fire, and Working for Energy as these have 
+proven effective in building climate resilience and relieving 
+poverty. An example of the biodiversity impacts derived 
+from Expanded Public Works Programme investment is the 
+large-scale planting of the Spekboom on degraded public 
+and private land, thereby re-establishing portions of the 
+Thicket Biome in the Eastern Cape.
+8.2 The Water Conservation and Demand 
+Management Flagship Programme
+The Water Conservation and Demand Management Flagship 
+Programme includes the accelerated implementation of 
+the National Water Conservation and Water Demand 
+Management Strategy in the industry, mining, power 
+generation, agriculture and water services sectors. 
+The accelerated provision of rainwater harvesting tanks in 
+rural and low-income settlements will also form part of this 
+programme.
+8.3 The Renewable Energy Flagship Programme
+The Renewable Energy Flagship Programme is inclusive of 
+a scaled-up renewable energy programme, based on the 
+current programme specified in the IRP 2010 and using, for 
+example, the evolving South African Renewables Initiative 
+led by the Department of Public Enterprise and Department 
+of Trade and Industry (DTI), as a driver for the deployment 
+of renewable energy technologies. The programme will be 
+informed by enhanced domestic manufacturing potential 
+8. NEAR-TERM PRIORITY FLAGSHIP PROGRAMMES32
+and the implementation of energy efficiency and renewable 
+energy plans by local government.
+Furthermore, the Department of Energy’s (DoE) solar 
+water heating programme will be expanded through, 
+amongst others, the promotion of the domestic supply of 
+products for solar heating with support from the DTI to 
+build local manufacturing capacity.
+8.4 The Energy Efficiency and Energy Demand 
+Management Flagship Programme
+As part of the Energy Efficiency and Energy Demand 
+Management Flagship Programme, the DoE will continue 
+to develop and facilitate an aggressive energy efficiency 
+programme in industry, building on the experience of 
+Eskom’s Demand Side Management programme and the 
+DTI’s National Cleaner Production Centre, and covering 
+non-electricity energy efficiency as well. A structured 
+programme will be established with appropriate initiatives, 
+incentives and regulation, and a well-resourced information 
+collection and dissemination process.
+A residential energy efficiency programme will also be 
+included, consisting of two parts:
+• The development of appropriate initiatives, incentives 
+and regulations will be finalised by the DoE and the DTI. 
+Furthermore, the development of energy specifications 
+for low-income housing will be determined through 
+the National Sustainable Settlements Facility under the 
+Department of Human Settlements.
+• Regulation of commercial and residential building 
+standards to enforce green building construction 
+practices. The National Regulator for Compulsory 
+Specifications in conjunction with the National 
+Home Builders Registration Council will ensure 
+that building construction and operation conform 
+to green building requirements, including measures 
+such as controlled ventilation, using recycled material, 
+solar power, etc.
+A government building energy efficiency programme led by 
+the Department of Public Works that initiates energy and 
+emissions audits of all government buildings and facilities 
+will be developed. It will develop comparable indicators 
+and benchmarks, and make appropriate interventions. 
+The programme will include lead programmes for key 
+government buildings, including Parliament and the main 
+government buildings in Pretoria. Ambitious goals for energy 
+efficiency will be set for all new government buildings.
+8.5 The Transport Flagship Programme
+As part of the Transport Flagship Programme, the Department 
+of Transport will facilitate the development of an enhanced 
+public transport programme to promote lower-carbon 
+mobility in five metros and in ten smaller cities and create an 
+Efficient Vehicles Programme with interventions that result 
+in measurable improvements in the average efficiency of the 
+South African vehicle fleet by 2020.
+Furthermore, the planned rail re-capitalisation programme 
+is considered an important component of this Flagship 
+Programme in so far as it will facilitate both passenger 
+modal shifts and the shift of freight from road to rail.
+Initially led by the Department of Transport, the programme 
+will also include a Government Vehicle Efficiency 
+Programme that will measurably improve the efficiency of 
+the government vehicle fleet by 2020. It will encourage new 
+efficient-vehicle technologies, such as electric vehicles, by 
+setting procurement objectives for acquiring such vehicles.
+8.6 The Waste Management Flagship Programme
+Led by the DEA, the Waste Management Flagship 
+Programme will establish the GHG mitigation potential of 
+the waste management sector including, but not limited 
+to, investigating waste-to-energy opportunities available 
+within the solid-, semi-solid- and liquid-waste management 
+sectors, especially the generation, capture, conversion and/
+or use of methane emissions. This information will be used 
+to develop and implement a detailed Waste-Related GHG 
+Emission Mitigation Action Plan aimed at measurable GHG 
+reductions aligned with any sectoral carbon budgets that may 
+be set. This Action Plan will also detail the development and 
+implementation of any policy, legislation and/or regulations 
+required to facilitate the implementation of the plan.
+8.7 The Carbon Capture and Sequestration 
+Flagship Programme
+Led by the DoE in partnership with the South African 
+Energy Research Institute, the programme includes, among 
+other initiatives, the development of a Carbon Capture and 
+Sequestration Demonstration Plant to store the process 
+emissions from an existing high carbon emissions facility.
+8. Near-Term Priority Flagship Programmes33
+8.8 The Adaptation Research Flagship Programme
+Led by the South African National Biodiversity Institute, 
+the design and roll-out of a national and regional research 
+programme to scope sectoral adaptation requirements and 
+costs and identify adaptation strategies with cross-sectoral 
+linkages and benefits, including an assessment of climate 
+change vulnerabilities in the sub-region, with a detailed 
+scenario planning process to define potential sub-regional 
+response strategies.
+8. Near-Term Priority Flagship Programmes34
+9. Job Creation
+9. JOB CREATION
+Unemployment is a key issue for South Africa and is a 
+critical vulnerability that could be severely worsened by 
+climate change. Severe income distortions further limit 
+many people’s ability to build resilience to climate change 
+impacts. Climate change and responses thereto, will affect 
+employment, job creation and living standards and, in many 
+instances, this affect may be negative. Vulnerable low-income 
+households and the marginalised unemployed will face the 
+most severe impacts unless urgent steps are taken to reduce 
+South Africa’s vulnerability to climate and economic shocks.
+At the same time climate change responses that improve 
+resilience could positively impact employment in South 
+Africa. For example, adaptation could create new jobs 
+to which workers can migrate from sectors affected by 
+mitigation strategies. The climate change response will 
+attempt to reduce the impact of job losses and promote job 
+creation during the shift towards the new green economy.
+The NGP is a clear policy signal of the intention to develop 
+South Africa’s economy in a manner that harnesses our 
+natural resources whilst developing and expanding less 
+carbon-intensive sectors towards a „greener’ economy.
+9.1 Policy outcomes
+In terms of job creation, the short- to medium-term 
+objective of the National Climate Change Response Policy 
+is to limit employment contraction to those areas of the 
+economy where excessive carbon intensity is considered 
+unsustainable, whilst promoting and expanding the green 
+economy sectors. Growth in new sectors alone will be 
+no guarantee of net job creation and government will 
+promote conditions that will increase the mobility of labour 
+and capital out of carbon intensive sectors to greener 
+productive sectors.
+The medium- to long-term objective of the National 
+Climate Change Response Policy will be to promote 
+investment in human and productive resources and so 
+enable sustainable growth in green sectors. Investors 
+will be incentivised to reallocate capital to lower-carbon 
+investments. Practical interventions will be informed by 
+accurate assessments of the capacity of various sectors 
+to adapt to a lower-carbon environment. Net job creation 
+will be a key performance indicator, as well as baseline 
+vulnerability measures and sectoral actions to improve 
+resilience against job losses. This will enable the monitoring 
+of and reporting on progress made.
+9.2 Policy Instruments
+The National Employment Vulnerability Assessment (NEVA) 
+and Sector Jobs Resilience Plans (SJRP) will be used to move 
+employment from a carbon intensive economy to a lowercarbon economy.
+9.2.1 National Employment Vulnerability 
+Assessment (NEVA)
+The Ministry for Economic Development will publish the 
+NEVA and so establish a National Employment Vulnerability 
+Baseline (NEVB). The purpose of the NEVB will be to 
+inform the prioritisation of mitigation and adaptation 
+interventions and establish timeframes for addressing 
+potentially vulnerable sectors.
+The NEVA will assess the impact on jobs of climate change 
+and climate change responses by sector and location 
+to understand what job-related interventions may be 
+required and where they may be required. The vulnerability 
+assessments should also incorporate relevant aspects of 
+similar assessments that may have been made in other 
+sectors such as biodiversity, human settlements and disaster 
+management. The NEVA will be reviewed on a regular basis 
+that gives sufficient time for interventions to be effective 
+but is sufficiently often to make proactive changes as and 
+when necessary.
+9.2.2 Sector Jobs Resilience Plans (SJRPs)
+Informed by sectoral work carried out by, for example 
+the Departments of Mineral Resources, Economic 
+Development and Trade and Industry, SJRPs will explore 
+the synergy between mitigation and adaptation strategies 
+and the potential for sustainable net job creation in each 
+sector. The goal will be to understand the risk relationship 
+between technology and investment and so focus 
+investments on sectors where government involvement and 
+skills development will reduce initial barriers to creating 
+jobs. As technologies show commercial viability with time 
+and their risk profiles improve, projects may be auctioned 
+off to investors as a test of the risk appetite of the market. 
+The purpose will be to implement mechanisms that reduce 
+risk, showcase alternative lower-carbon interventions, build 
+capacity and develop skills. Such interventions will focus 
+on public sector programmes to incentivise employment 
+creation for those most vulnerable to climate change and 
+will be a precursor to creating sustainable investments and 
+jobs. These programmes include:35
+9. Job Creation
+• Expanding existing poverty alleviation job creation 
+programmes, such as the Expanded Public Works 
+Programme and the National Youth Service.
+• Promoting job creation incentives in new, green 
+industries, especially targeting the youth.
+• Tapping Sector Education and Training Authorities 
+(SETAs) to aggressively develop and fund mentorship 
+(including learnerships and internships) programmes.
+9.3 Timing of Interventions
+The following high-level timeline for the Climate Change 
+Response Policy with regard to net job creation provides 
+an overview of the strategic activities required:
+9.3.1 Short-Term
+• Establish links with business and industry, research 
+bodies, institutions, NGOs and local communities 
+that can provide relevant data and methodologies for 
+the establishment of the NEVB.
+• Develop a cooperative governance framework for 
+establishing the capability to assess employment 
+vulnerability, including how to determine the cost of 
+reducing vulnerability.
+• Conduct the NEVA to inform interventions required 
+to enable a pro-jobs approach in the climate change 
+response measures contained in the various sector 
+plans.
+9.3.2 Short- to Medium-Term
+• Design a SJRP framework for a pro-jobs approach to 
+implementing climate change response strategies.
+• Develop SJRPs in consultation with stakeholders 
+from all NEDLAC constituencies.
+• Establish links with responsible Ministries to integrate 
+the outcomes of the NEVA and SJRPs into their 
+sector plans.
+• Establish a system to monitor jobs resilience.36
+10. Mainstreaming Climate-Resilient Development
+10. MAINSTREAMING CLIMATE-RESILIENT DEVELOPMENT
+10.1 Policy and planning review and 
+regulatory audits
+Coordination and alignment of policies and actions is 
+central to achieving climate resilience and in this respect, a 
+comprehensive review of all government legislation, policy, 
+strategies, plans and regulatory frameworks will underpin 
+the successful implementation of the National Climate 
+Change Response Policy.
+The review will be undertaken in terms of Outcome 10, 
+which forms the basis of the Minister for Environmental 
+Affairs’ delivery agreement with the President, and the 
+purpose of the review will be to provide an implementation 
+protocol for Output 2:
+“Output 2: reduce greenhouse gas emission, climate change 
+impacts and improved air/atmospheric quality”
+Achieving climate change resilient development requires 
+both horizontal and vertical integration of climate change 
+into government planning, and needs to involve all sectors 
+of society. Adaptation to climate change and mitigation 
+of GHG emissions offer opportunities to foster a new 
+kind of economic development that is sustainable and 
+that will improve the distribution of resultant economic 
+gains. The NGP, released by the Department of Economic 
+Development, provides a significant opportunity in this 
+regard. However this new direction requires that climate 
+policy becomes an integral part of the country’s development 
+strategy and that economic policy tools are developed to 
+assess the costs and benefits of proposed policy measures 
+and to periodically evaluate policy effectiveness in terms of 
+its economic, social and environmental impacts.
+To achieve this, South Africa will:
+10.1.1 Undertake an audit of existing policy and legislation 
+to ensure alignment with the objectives of the 
+National Climate Change Response Policy and 
+promote the integration of climate change resilience 
+into all sectoral planning instruments.
+10.1.2 Ensure that the prioritised adaptation interventions 
+(5.1), the benchmark national GHG emission 
+trajectory range (6.4), sector and sub-sector desired 
+emission reduction outcomes and CBs (6.5) and 
+sectoral mitigation and lower-carbon development 
+strategies are fully integrated into all relevant sector 
+plans as and when these plans are reviewed, revised 
+and/or updated;
+10.1.3 Undertake a review of the National Climate Change 
+Response Policy together with a review of progress 
+in the implementation of the policy every five years. 
+Coordinated by IGCCC, this review will describe 
+progress, gaps and proposed adjustments in terms of, 
+but not limited to, priorities and desired outcomes 
+over the short-, medium- and long-term, roles and 
+responsibilities, and institutional arrangements. 
+The planning horizon for a revised National Climate 
+Change Response Policy should be, at least, 40 years 
+and should include:
+- Sectoral adaptation strategies based on sectoral 
+plans and risk analyses.
+- Sector and sub-sector desired emission reduction 
+outcomes and CBs to be reviewed on a two-year 
+cycle.
+- The identification of economic sectors that may 
+provide increasing job opportunities and, where 
+practical, sector-based strategies for migrating jobs 
+from carbon-intensive sectors of the economy to 
+lower-carbon sectors to offset possible climate 
+change and climate change response-related job 
+losses. See section 9 for details.
+- A description of the resource requirements and 
+how to mobilise them (section 11.1 contains 
+details of options), and the deployment of marketbased instruments (section 10.7 describes some 
+market-based instruments options).
+10.2 Roles and institutional arrangements
+The consistent implementation of the National Climate 
+Change Response Policy requires a long-term framework 
+for institutional coordination to:
+• Coordinate research and development and promote 
+innovation.
+• Coordinate adaptation and mitigation actions.
+• Measure, report and verify climate change responses.
+• Facilitate and promote the use of carbon trading and 
+off-set schemes.
+This section describes the roles and institutional 
+arrangements within the public sector, and section 8.3 
+describes the roles of private sector partners and institutional 
+arrangements for coordination with stakeholders.37
+10. Mainstreaming Climate-Resilient Development
+All three spheres of government play important roles in 
+addressing climate change.
+National government takes the lead in: formulating the 
+climate response policy; amending and promulgating 
+legislation to deal with climate change; establishing and 
+administering the regulatory framework for managing 
+emission reductions; considering and implementing 
+market-based instruments such as carbon taxes in the 
+short-term whilst investigating the appropriateness of 
+emissions trading schemes as a longer-term intervention; 
+allocating resources and incentives through the MediumTerm Expenditure Framework; and participating in 
+international negotiations on climate change. Line function 
+National Departments will integrate climate change into 
+their policies and programmes, and will manage Near-term 
+Priority Flagship Programmes to build climate resilience.
+10.2.1 Parliament
+Parliament will oversee the development and 
+implementation of the National Climate Change Response 
+Policy through the Portfolio Committees, and in particular 
+the Committees on Water and Environmental Affairs; 
+Energy; Agriculture, Forestry and Fisheries; Trade and 
+Industry; Mining; Science and Technology; and Transport.
+The Portfolio Committees will review legislation to 
+determine the legal requirements to support the 
+institutional and regulatory arrangements proposed in this 
+White Paper, and to ensure policy and legislative alignment. 
+The Committees will work with the DEA and the IMCCC 
+to draft any Bills, or an amendment to NEMA, that may be 
+required within three years of the publication of this policy.
+The Portfolio Committees may undertake public hearings 
+on the National Climate Change Response Policy, and any 
+of its components.
+10.2.2 The Inter-Ministerial Committee on 
+Climate Change (IMCCC)
+The strategic, multi-faceted and cross-cutting nature of 
+climate-resilient development requires a coordination 
+committee at executive (Cabinet) level that will coordinate 
+and align climate change response actions with national 
+policies and legislation. To this end, the IMCCC shall oversee 
+all aspects of the implementation of this White Paper.
+In particular, the Minister of the Environment will chair 
+the IMCCC, which will oversee the implementation of the 
+National Climate Change Response Policy, including the 
+sectoral desired emission reduction outcomes and carbon 
+budgets development process and adaptation intervention 
+prioritisation process. The IMCCC will mandate an 
+interdepartmental task team, a sub-committee of the IGCCC, 
+to manage the review of the National Climate Change 
+Response Policy. Technical, analytical and administrative 
+capacity to the IMCCC and interdepartmental task team 
+will be provided by a secretariat based in the DEA. The DEA 
+may co-opt any required skills from other Government 
+departments (including provincial and local government), 
+agencies or from outside government.
+The secretariat will publish input assumptions, data 
+and intermediate technical analyses undertaken during 
+the National Climate Change Response Policy review 
+processes on a dedicated website. The DEA will hold public 
+consultations at key points in the National Climate Change 
+Response Policy review process, including consultations 
+on methodology and assumptions for any key technical 
+analyses.
+10.2.3 Forum of South African DirectorsGeneral clusters
+The national climate change response actions shall be 
+guided by strategic leadership of the relevant Forum of 
+South African Directors-General clusters based on their 
+different mandates: the Economic Sectors and Employment 
+Cluster on issues that have a strong bearing of economic 
+growth and employment creation; the Infrastructure cluster 
+on all infrastructure-related aspects of this policy; and 
+the International Cooperation Cluster on international 
+engagements.
+10.2.4 Intergovernmental Committee on 
+Climate Change (IGCCC)
+Chapter 3 of the Constitution enjoins government agencies 
+to operate in accordance with the principles of cooperative 
+government and intergovernmental relations. These include 
+the exchange of information, consultation, agreement, 
+assistance and support as key features of cooperative 
+government.
+The IGCCC has been established to operationalise 
+cooperative governance in the area of climate change. 
+Accordingly the IGCCC brings together the relevant 
+national and provincial departments and organised local 
+government. The IGCCC therefore has a key role to play in 38
+the review of the National Climate Change Response Policy 
+as well as its implementation.
+10.2.5 National Disaster Management Council
+The National Disaster Management Council will be 
+responsible for ensuring that the National Framework for 
+Disaster Risk Management provides clear guidance across 
+all spheres and sectors of government for managing climate 
+change-related risk and for ensuring that an effective 
+communications strategy is in place for early warnings to 
+vulnerable communities with respect to extreme weather 
+events such as flooding and droughts.
+10.2.6 Provincial and local government
+The environment is a concurrent function between provincial 
+and national government, and provinces will coordinate 
+provincial adaptation and mitigation responses across their 
+own line departments, as well as between municipalities 
+within the province. Each province will develop a climate 
+response strategy, which evaluates provincial climate risks 
+and impacts and seeks to give effect to the National Climate 
+Change Response Policy at provincial level.
+Local government plays a crucial role in building climate 
+resilience through planning human settlements and urban 
+development; the provision of municipal infrastructure 
+and services; water and energy demand management; and 
+local disaster response, amongst others. Climate change 
+considerations and constraints will be integrated into 
+municipal development planning tools such as Integrated 
+Development Plans, and municipal service delivery 
+programmes.
+At the same time the mandate for local government 
+to take on various specific climate change-related 
+issues is not always clear, and it may be useful to assign 
+specific powers for mitigation and adaptation actions 
+such as coastal management, infrastructure management 
+and natural resource stewardship, some of which fall 
+within the jurisdictions of other spheres of government. 
+A critical review of the policy and legislation relating to 
+local government functions and powers with respect to 
+climate change is required. The Department of Cooperative 
+Governance and Traditional Affairs will lead such a process.
+The fiscal mechanisms to support local government capital 
+and operating expenditures currently do not incentivise 
+municipalities to mainstream effective climate change 
+responses into local government activities. National 
+Treasury will lead a process to re-examine the current fiscal 
+measures and the appropriate incentives for adaptation and 
+mitigation measures by local government.
+Programmes to build capacity for local and provincial 
+governments’ climate response strategies will be prioritised, 
+and a climate change toolkit will be prepared for provincial 
+and local government practitioners.
+There is a critical need for best-practice knowledge-sharing 
+across provinces and municipalities to take advantage of 
+innovative models in climate change adaptation and mitigation. 
+This will be coordinated by the DEA and Department of 
+Cooperative Governance and Traditional Affairs.
+In terms of inter-governmental coordination, the Ministerial 
+political forum (MINMEC) and Outcome 10 Delivery Forum 
+(MINTECH) set up through the Intergovernmental Relations 
+Act facilitate a high level of policy and strategy coherence 
+among the three spheres of government, and will be used to 
+guide climate change work across the three spheres.
+The South African Local Government Association, as a 
+body mandated to support, represent and advise local 
+government action, will continue to actively participate in 
+the inter-governmental system, and ensure the integration 
+of climate adaptation and mitigation actions into local 
+government plans and programmes, and lobby for the 
+necessary regulatory measures and resources to support 
+local government in this regard.
+10.3 Partnering with stakeholders
+Climate change is an issue for all South Africans and 
+government realises that the objectives set out in this 
+White Paper can only be fully realised with the active 
+participation of all stakeholders. The government is 
+committed to substantive engagement and, where 
+appropriate, partnerships with stakeholders from industry, 
+business, labour and civil society in a manner that enhances 
+coordination.
+10.3.1 Business and Industry
+As both a significant contributor to GHG emissions and 
+effective climate change response actions, lower-carbon 
+products and services and “green” jobs, business and 
+industry have a fundamental role in South Africa’s climate 
+10. Mainstreaming Climate-Resilient Development39
+change response. Thus, government will continue to forge and 
+maintain effective partnerships with business and industry 
+to ensure that their capacity is harnessed in driving the 
+transition to a climate-resilient, equitable and internationally 
+competitive, lower-carbon economy and society.
+Government also recognises the importance of private 
+sector funding in achieving national climate change response 
+actions and will work with the financial sector to explore 
+the most appropriate mechanisms to achieve efficient 
+funding flows.
+Business and industry have already contributed to the 
+development of the National Greenhouse Gas Inventory 
+by voluntarily submitting GHG data to Government. 
+It is intended to build on these voluntary initiatives 
+to develop the mandatory reporting system for GHG 
+emissions (see 6.7).
+Government will also continue to encourage voluntary 
+reporting initiatives established and maintained by a variety 
+of organised business associations.
+10.3.2 Civil Society
+The role of citizens and organised groupings within civil 
+society are important to the success of a national effort. 
+Civil society needs to critically evaluate, comment on and 
+respond to the initiatives of government and the private 
+sector. They must continue to raise public awareness, 
+and motivate individuals, institutions and authorities to 
+take actions that reduce GHG emissions and that adapt 
+to the adverse impacts of climate change. Civil society 
+organisations that work directly with communities and 
+particularly with the urban and rural poor and with 
+women are an important conduit for ensuring that 
+climate information is timeously communicated and to 
+inform government and research institutions of vulnerable 
+groupings’ climate change-related issues.
+10.3.3 Academia and scientists
+The climate change science and academic community must 
+work together to improve projections of climate change, 
+its impacts, key vulnerabilities in affected sectors and 
+communities. They need to explore appropriate mitigation 
+and adaptation responses; continue to build capacity in 
+climate change science; and inform government and the 
+public of climate change-related socio-economic challenges 
+and opportunities.
+10.4 Coordination Mechanisms
+The following mechanisms will be used to coordinate 
+climate change activities and consult on climate change 
+policies with stakeholders:
+10.4.1 National Committee on Climate Change 
+(NCCC)
+The NCCC has been set up to consult with stakeholders 
+from key sectors that impact on or are impacted by climate 
+change. The Committee advises on matters relating to 
+national responsibilities with respect to climate change, and 
+in particular in relation to the UNFCCC and the Kyoto 
+protocol. It also advises on the implementation of climate 
+change-related activities.
+Government will consider proposals for increasing the 
+functions of the NCCC beyond the current communication 
+function and to formalise its status as an advisory council 
+with statutory powers and responsibilities.
+10.4.2 National Economic Development and 
+Labour Council (NEDLAC)
+NEDLAC serves as the forum where government comes 
+together with organised business, labour and community 
+groupings on a national level, and this platform will ensure 
+that climate change policy implementation is balanced and 
+meets the needs of all sectors of the economy. NEDLAC has 
+indicated that climate change should be a key component 
+of its agenda.
+10.5 Communication and behaviour change
+Developing climate resilience requires all of us to change 
+our behaviour and become conscious of our individual 
+carbon footprints. A nuanced approached to communication 
+will be followed, recognising that a communication strategy 
+aimed at individuals and communities with the largest 
+carbon footprints (the urban wealthy) needs to be very 
+different from a communication strategy aimed at the 
+individuals and communities most vulnerable to climate 
+change impacts (the rural poor). It is also recognised that 
+people will only make climate-friendly decisions if they have 
+convenient, reliable and safe climate-friendly alternatives 
+and if they know about these options.
+One of the important communication challenges is to 
+disseminate information to interested and affected people 
+10. Mainstreaming Climate-Resilient Development40
+as quickly as possible and to ensure that the information is in 
+a format that is accessible and useful to the target audience. 
+This is especially important for early warning systems where 
+people need to take specific actions to reduce risks to 
+themselves, their households and property.
+To meet these challenges, South Africa will:
+10.5.1 Empower all residents with information about the 
+potential impacts of climate change and climate 
+change resilience actions, emphasising the information 
+needs of those most vulnerable to climate change.
+10.5.2 Ensure that all relevant climate change information 
+systems implement effective communication 
+strategies to ensure that information reaches 
+the target audiences efficiently and effectively. 
+This includes exploring and developing new and novel 
+ways of communicating, especially to people who 
+are illiterate and/or have no access to telephonic or 
+other forms of electronic communication.
+10.5.3 Ensure that all government climate change response 
+strategies and actions plans include sections on 
+education, awareness, outreach and human resource 
+development.
+10.5.4 Design, develop and roll-out a climate change 
+awareness campaign that make all South Africans 
+more aware of the challenge of climate change and 
+the need for appropriate responses and choices at 
+individual and community level.
+10.6 Regulatory measures
+Sectoral legislation already provides an extensive regulatory 
+framework for the actions of Government departments, 
+agencies, business and civil society. To ensure that climate 
+change considerations and the climate change responses 
+outlined in this White Paper are fully mainstreamed into the 
+work of all three spheres of government, all Government 
+departments and all state-owned enterprises will review 
+the policies, strategies, regulations and plans falling within 
+their jurisdiction on a regular basis to ensure full alignment 
+with the National Climate Change Response Policy.
+Local government plays a particularly important role in 
+implementing adaptation and mitigation actions, some 
+of which extend beyond the existing Constitutional and 
+legislative mandate of local government. In the review 
+process mentioned above, particular attention will be paid 
+to local government legislation, and the Department of 
+Cooperative Governance and Traditional Affairs will lead a 
+review of local government legislation in this regard.
+South Africa will use Section 29(1) of the Air Quality Act 
+to manage GHG emissions from all significant industrial 
+sources (those responsible for more than 0.1% of total 
+emissions for the sector) in line with approved mitigation 
+plans that conform to the Act’s requirements for pollution 
+prevention plans prepared by identified industries and 
+sectors. The synergy between prevention measures to 
+reduce conventional air pollutants and GHG mitigation will 
+be used in a holistic approach to manage air quality.
+10.7 Market-based instruments
+In 2006, Government published a draft Environmental Fiscal 
+Reform Policy Paper entitled A Framework for Considering 
+Market-Based Instruments to Support Environmental Fiscal 
+Reform in South Africa. This policy paper recognised the role 
+for environmentally-related taxes to complement existing 
+regulatory policy interventions and address environmental 
+problems such as climate change. Government has since 
+introduced the following climate change-related measures: 
+the electricity generation levy; motor vehicle emissions 
+tax; the levy on incandescent light bulbs complemented by 
+a range of tax incentive measures to support renewable 
+energy investments (depreciation allowances for renewable 
+electricity generation and biofuels production); investments 
+in projects under the Clean Development Mechanism 
+(CDM) (that is, income tax exemption for revenues from the 
+sale of certified emission reduction units resulting from CDM 
+projects); biodiversity conservation and management; and the 
+proposed energy efficiency savings tax allowances. As part of 
+the process of exploring more comprehensive reforms for 
+addressing climate change, the National Treasury published 
+the carbon tax discussion paper entitled Reducing Greenhouse 
+Gas Emissions: The Carbon Tax Option for public comments 
+in December 2010. The paper elaborated on the role for 
+carbon taxes as a policy measure to stimulate behaviour 
+changes among producers and consumers in favour of less 
+energy intensive, lower-carbon emitting alternatives.
+10.7.1 Carbon Pricing
+In economic terms, environmental resources can be largely 
+classified as a “public good” which are accessible by all and 
+can be consumed in infinite quantities. Climate change and 
+10. Mainstreaming Climate-Resilient Development41
+its effects are the result of GHG emissions that impose 
+external costs or an “externality” on society. In most cases, 
+these negative external damage costs of an economic 
+activity are not reflected in the prices of goods and services, 
+often resulting in their under-pricing and an over- or misallocation of resources.
+Accordingly, the prices of environmental goods and services 
+that generate excessive levels of GHG emissions should 
+be adjusted to reflect the full costs of production and 
+consumption. Carbon taxes can help to internalise these 
+negative externalities and create the correct incentives 
+to stimulate behavioural changes among producers and 
+consumer in favour of cleaner, lower-carbon technologies, 
+promoting the uptake of energy efficiency measures and 
+research, development and technology innovation.
+In this context, the National Treasury will continue to develop 
+carbon tax policy and the following key considerations will 
+inform this process:
+• The tax rate should, over time, be equivalent to the 
+marginal external damage costs of GHGs to affect 
+appropriate incentives. However, in the absence 
+of an international climate change agreement and 
+therefore a global emissions pricing system, a partial, 
+rather than full, internalisation of the externality will 
+be considered as an interim measure.
+• Technical and administrative feasibility – consideration 
+will be given to whether the tax applies to carbon 
+emissions or a proxy for such emissions (e.g. fuel 
+inputs or outputs). Should a proxy tax base be used, 
+the levy of the tax according to the carbon content 
+of fossil fuels will be considered.
+• Distributional implications – measures will be taken, 
+either in tax design or through complementary 
+expenditure programmes, to offset the burden such a 
+tax will place on poor households.
+• Competitiveness – to address potential negative 
+impacts on industry competitiveness, the introduction 
+of carbon taxes at initial low rates with a commitment 
+to phased-in increasing levels of taxation over a 
+specific period will be considered; which would grant 
+taxpayers an opportunity to adjust to the new tax.
+• A phased implementation of the tax towards 
+comprehensive coverage of all economic sectors is 
+believed to be desirable and will be considered.
+• The minimisation of the potential regressive 
+impacts on the poor and the protection of the 
+competitiveness of key industries will be considered. 
+Furthermore, revenue recycling to minimise the 
+costs of the tax through, for example, some form 
+of tax shifting will be considered. However, although 
+the full earmarking of revenues is not regarded as 
+being in line with sound fiscal policy principles, some 
+form of on-budget funding for specific environmental 
+programmes will be considered.
+• Relief measures, if any, will be considered by these will 
+be regarded as being minimal and temporary.
+Although a carbon tax does not set a fixed quantitative 
+limit on GHG emissions over the short-term, such a tax - 
+at an appropriate level and phased-in over a period to the 
+“correct” level - will provide a strong price signal to both 
+producers and consumers to change their behaviour over 
+the medium- to long-term. The National Treasury’s carbon 
+tax policy will seek to primarily stimulate behaviour change 
+through the price mechanism, and as a secondary benefit, 
+generate a revenue stream that may allow fiscal decisions 
+over time that support climate change policy and broader 
+sustainable development objectives.
+10.7.2 Carbon Markets
+Carbon markets are mechanisms for exchanging emission 
+reductions between entities, thereby optimising efficiency 
+and minimising cost in controlling pollution levels. 
+They include both cap-and-trade mechanisms (in which 
+mandatory limitations on emissions create markets in which 
+polluters trade emissions allowances) and offset schemes 
+where actors voluntarily pay compensation for emissions.
+In respect of carbon markets, the National Treasury will 
+investigate the feasibility of an emissions trading scheme as 
+a medium- to long-term response to climate change.
+10.7.3 Incentives
+Incentives, including regulatory, economic and fiscal 
+measures, encourage and reward efforts to curb GHG 
+emissions. They can apply to a broad range of sectors. Some 
+existing incentives include lower fuel taxes on cleaner fuels 
+and energy efficiency incentives. Further incentive measures 
+will be explored as part of a suite of policy instruments to 
+promote climate resilience, including job creation incentives 
+in new, green industries, especially for the youth.
+10. Mainstreaming Climate-Resilient Development42
+Government recognises the important role for market-based 
+instruments that create fiscal incentives and disincentives to 
+support climate change policy objectives. Thus, South Africa 
+will employ market-based instruments as part of a suite of 
+policy interventions to support the transition to a lowercarbon economy. These instruments will be designed to 
+incentivise behaviour change at the individual, institutional 
+and macro-economic levels for a climate-resilient South 
+Africa contributing to a diversification of our energy mix, 
+drive people to implement far-reaching energy efficiency 
+measures, achieve passenger modal shifts, and generate 
+investments in new and cleaner technologies and industries.
+10. Mainstreaming Climate-Resilient Development43
+11. Resource Mobilisation
+Responding to climate change is expensive and will require a 
+comprehensive resource package. South Africa is therefore 
+committed to mobilising the resources that are necessary 
+for both mitigation and adaptation. This includes financial 
+resources, technical cooperation and technology transfers 
+at domestic, sub-regional, regional, and international levels.
+Estimates for the cost of responding to climate change 
+indicate that between 1% to 2.5% of global GDP will need 
+to be spent on mitigation and 1.5% to 3% of GDP in Africa 
+will need to be spent on adaptation by 2030. Impacts (and 
+benefits) will be unevenly distributed across countries and 
+between sectors. The cost of adaptation is likely to increase 
+in future years.
+South Africa’s resource mobilisation strategy will be 
+informed by the mainstreaming of climate change into the 
+planning and decision-making of government, private sector 
+and civil society. Government aims to:
+• Create an enabling environment whereby government, 
+private sector and civil society collectively respond 
+to the economic and social changes necessary for 
+climate-resilient development and job creation, 
+providing for the economic and social upliftment of 
+the people of South Africa, while minimising negative 
+impacts on future development.
+• Promote the green economy as an effective 
+investment in climate change response and secure 
+resources to support climate change and green 
+economy interventions.
+• Consolidate and extend existing initiatives towards 
+a climate-resilient economy. Thus, the Near-term 
+Priority Flagship Programmes mentioned in section 
+8 will form the foundation for the next phase in the 
+transition to a lower-carbon and climate-resilient 
+economy and society. However, Government will 
+endeavour to continuously evaluate its priorities to 
+adjust to the dynamic nature of the socio-economic 
+transformation envisaged.
+11.1 Finance
+As a developing country, South Africa recognises that 
+international resources (as envisaged under the UNFCCC) 
+need to complement domestic resources to finance the 
+cost of transition to a climate-resilient society. Hence, 
+Government will actively pursue the mobilisation and 
+effective use of these international resources.
+Further, Government recognises that improved finance 
+policy coordination is critical to creating a sustainable 
+climate finance architecture for South Africa. New marketbased instruments as well as environment-related financial 
+reforms in the private and public sectors will seek to 
+fundamentally transform South Africa into a climateresilient economy and society.
+11.1.1 The role of financial institutions
+South Africa recognises that financial institutions are 
+important intermediaries to allocate and transfer capital 
+between different economic activities. Government 
+acknowledges and supports initiatives by the South African 
+banks to integrate environmental considerations into their 
+decision-making frameworks. The different distribution 
+channels in the financial system, such as public finance, banks 
+(including development finance and microfinance institutions), 
+investors and insurers, are important development partners 
+for Government in the following ways:
+• Public finance can support climate change through 
+the procurement of sustainable technologies by 
+Government as well as developing catalytic projects 
+and programmes.
+• The development finance system in South Africa 
+is critical to integrating development with climate 
+change. Development finance institutions, such as 
+the Development Bank of Southern Africa (DBSA), 
+Industrial Development Corporation, Land Bank 
+and Khula Enterprises can incubate climate-resilient 
+development. This is particularly true for climateproofing of infrastructure and industrial processes; 
+designing and testing new financing instruments; 
+localising and rolling out of sustainable technologies; 
+and unlocking new economic opportunities through 
+enterprise development and job creation. Further, 
+these institutions serve an important role in building 
+technical capacity and knowledge platforms to 
+mobilise action at regional, provincial and local level.
+• Private banks and microfinance institutions support a 
+range of corporate and entrepreneurial ventures that 
+could contribute to climate change resilience.
+11. RESOURCE MOBILISATION44
+11. Resource Mobilisation
+• Investors such as asset managers, venture capital and 
+private equity firms are essential for both long-term 
+and early-stage investments.
+• Insurers are essential for risk mitigation and 
+innovative climate change-related products.
+• International and corporate grant-providers are 
+necessary to support the comprehensive financing 
+package necessary for the scale of mitigation and 
+adaptation interventions that South Africa needs.
+Different types of financial institutions should work together 
+in a coordinated manner to blend different forms of capital.
+11.1.2 Mobilising finance
+The emerging climate change response finance options 
+include grants for research and development; project 
+development and technical cooperation; and commercial 
+finance through debt and equity, concessionary finance, 
+risk insurance, specialised environmental funds and new 
+capital market innovations, such as green and climate bonds. 
+These options may be extended by integrating financing 
+for biodiversity and other environmental resources, such 
+as payment for ecosystem goods and services, for example. 
+By necessity, South Africa’s climate finance strategy will 
+comprise a comprehensive suite of measures to create and 
+maintain a long-term funding framework for mitigation and 
+adaptation actions and to trigger swift and urgent action 
+towards climate-resilient development.
+Government will:
+11.1.2.a Continue to proactively contribute to the technical 
+and institutional reform debates of the UNFCCC 
+financing measures to ensure that developing and 
+least-developed countries such as those in the 
+Southern African Development Community region 
+can access the additional and necessary resources 
+in a fair, transparent and timely manner.
+11.1.2.b Make every effort to attract and secure additional 
+international resources through official development 
+assistance and bilateral development agencies. 
+Government will ensure that such climate changerelated contributions are directed to national, 
+provincial and local government development 
+priorities.
+11.1.2.c Create a transitional climate finance system 
+to support the implementation of the priority 
+mitigation and adaptation actions identified in 
+sections 5 and 6. See section 11.1.3 for details.
+11.1.2.d Create a transitional tracking facility for climate 
+finance mechanisms and climate responses that will 
+monitor and coordinate existing climate finance 
+flows.
+11.1.2.e Partner with domestic financial institutions to fasttrack and mainstream climate-resilient development 
+(i.e. mitigation and adaptation).
+11.1.2.f Support donor organisations in their efforts to 
+apply funding towards climate change-related pilot 
+programmes and activities.
+11.1.2.g Promote the development of, and investment in, 
+a climate-resilient region and work with regional 
+partners to create and maintain interdependent 
+economic and social opportunities that reduce the 
+region’s dependency on climate vulnerable sectors.
+11.1.3 The Immediate Transition
+During the immediate transition period between the 
+publication of this Policy and the evolution of appropriate 
+climate financing systems and institutions, Government will 
+establish an interim climate finance coordination mechanism 
+to secure the necessary resources for mitigation and 
+adaptation priority programmes identified in sections 5, 
+6 and 8. The mechanism will match the resources to the 
+priority programmes, including grants, concessionary debt 
+and risk insurance products.
+The mechanism will also contain a climate finance tracking 
+facility to track the use and impact of funds. Government 
+will determine the terms of reference for the mechanism in 
+consultation with the private sector and civil society.
+The National Treasury will identify the initial custodian of 
+the coordination mechanism.
+11.1.4 Financing the National Climate Change 
+Response Policy
+Stable, well governed institutions are critical to funding South 
+Africa’s transition path to climate-resilient development. 
+In pursuit of a long-term funding framework for climate 
+finance, Government will:45
+11. Resource Mobilisation
+11.1.4.a Promote fair, transparent and timely access to 
+international and domestic resources for both 
+mitigation and adaptation actions by the public and 
+private sectors as well as civil society.
+11.1.4.b Mainstream climate change response into the fiscal 
+budgetary process and so integrate the climate 
+change response programmes at national, provincial 
+and local government and at development finance 
+institutions and state-owned entities.
+11.1.4.c Enable the local development finance institutions to 
+create and implement long-term climate-resilient 
+investment programmes. This includes project 
+development, financial and risk insurance products, 
+technical assistance and capacity-building within 
+their mandates.
+11.1.4.d Identify opportunities in the existing financial 
+regulations governing the domestic finance sector 
+to enhance the financial sector’s capacity to 
+mainstream climate change in risk and investment 
+decisions.
+11.1.4.e Establish and/or support public platforms to 
+assimilate and disseminate climate science, finance, 
+technology and other related research and 
+information to enable effective decisions about risk 
+and investment.
+11.1.4.f Develop a climate finance strategy that 
+contextualises and integrates existing and emerging 
+policy and financing instruments, including 
+addressing the role of market-based measures to 
+achieve the desired economic and social changes.
+The Ministers of Finance, Economic Development, and Water 
+and Environmental Affairs will appoint a multi-stakeholder 
+working group to oversee the realisation of these actions 
+within three years of the publication of this policy.
+11.2 Education
+Climate change is a relatively new issue that has crossdisciplinary and cross-sectoral implications in South Africa. 
+Understanding the concept as well as the options to mitigate 
+it and adapt to it is fundamental to future development 
+pathways and the wellbeing of South African society. This 
+will require systematic interventions to empower and 
+capacitate people. We need to mainstream climate change 
+knowledge into education and training curricula. Climate 
+change education should be part of the broader framework 
+of education for sustainable development, and should equip 
+South African citizens to re-orient society towards social, 
+economic and ecological sustainability.
+To meet this challenge, South Africa will:
+11.2.1 Ensure that a holistic understanding of climate change 
+and related issues (specifically the required response 
+to climate change) is included in all relevant aspects 
+of formal education curricula. This will prepare future 
+generations for a rapidly changing planet and the 
+transition to a lower-carbon society and economy.
+11.2.2 Include climate change elements in the review of the 
+National Skills Development Strategy and ensure 
+that all SETAs add climate change to priority skills 
+development programmes in the formal, informal 
+and non-formal sectors of the education and training 
+system. This will be accompanied by requisite 
+resource reallocation.
+11.2.3 Establish incentives for research and training such 
+as bursaries to encourage students and scholars to 
+research and study climate change.
+11.2.4 Ensure that the building of knowledge and expertise 
+in new and emerging economic sectors is considered 
+in all tertiary education curricula and relevant formal 
+and informal training.
+11.2.5 Establish a robust research agenda that, amongst 
+others, focuses on quantitative research on the 
+labour requirements for the green transition as well 
+as on other societal adaptation strategies and needs.
+11.2.6 Encourage tertiary and research institutions 
+to develop national monitoring, reporting and 
+verification guidelines for a climate-resilient South 
+Africa. These guidelines would focus on mitigation 
+and adaptation actions such as land-use practises 
+and change.
+11.3 Science and technology development
+South Africa needs a robust and highly functional climate 
+change science and technology platform to enable the 
+development and implementation of appropriate actions 
+to minimise the negative impacts of climate change on 46
+the economy and the people of South Africa. With such a 
+platform, South Africa can become a significant global player 
+in the green economy. More specifically, South Africa should 
+aim to be a leading supplier of climate change knowledge, 
+technologies and services.
+• The decision at a national level to adopt innovations 
+depends on the benefits users expect from the 
+innovations as well as on the expected costs to 
+research and master them. In addition, a country 
+needs the technological capability to imitate, adapt 
+and absorb foreign technologies into local productive 
+activities. This capability influences the relative costs 
+and benefits of adopting new technologies.
+• For South Africa to enhance its international 
+competitiveness in climate change response science 
+and technology, it needs sound science, a robust 
+technology base and sound human capital in this 
+arena. To achieve this vision, the following measures 
+will be implemented:
+11.3.1 Highly informed decision-making
+A new governance arrangement will be instituted comprising 
+a Chief Scientific Advisor to the Minister of Science and 
+Technology. The Minister of Science and Technology, with 
+the advice of the Chief Scientific Advisor, will establish and 
+constitute a Scientific Advisory Council. The Council will 
+consist of a wide range of expertise to cover the spectrum 
+of South Africa’s climate change response requirements. The 
+Chief Scientific Advisor will chair this Council. The Advisory 
+Council will produce a biennial report to the Cabinet on 
+the state of climate change science and technology in South 
+Africa. It will be developed into an institution with a good 
+international record that can give scientific advice and it will 
+bring the scientific community closer to decision-makers 
+and implementers.
+11.3.2 Medium- and long-term planning
+An analysis of the state of climate change science and 
+technology reveals that the current scientific output, 
+technology development, intellectual property and the pool 
+of high level skills are inadequate to support a robust climate 
+change response. Because the response to climate change 
+is so complex, Government and the scientific community 
+will conduct a climate change foresight exercise. Such an 
+exercise will deliver the following:
+• A human capital development plan for climate science 
+and technology informed by the country’s climate 
+change response requirements and the outcomes of 
+the National Employment Vulnerability Baseline and 
+Assessments as well as the Sector Jobs Resilience Plan.
+• A complementary science and technology plan for 
+climate change in partnership with the Department 
+of Science and Technology (DST).
+• A climate change technology roadmap.
+To address the funding needed to support climate change 
+research and development, the DST will conduct a feasibility 
+study into the development of a specialised funding agency: 
+the Climate Change Science Council. In parallel to this 
+study, the DEA will engage the relevant partners in the 
+DST, National Research Foundation (NRF), the Technology 
+Innovation Agency and the DTI to develop the following 
+R&D funding instruments:
+• Climate Change Research Chairs in the family of the 
+DST/NRF South African Research Chairs Initiative.
+• A Climate Change component within the current 
+NRF-administered Technology and Human Resources 
+and Innovation Programme sponsored by the DTI.
+• Climate Change Centres of Excellence to develop 
+much higher levels of climate change science and 
+produce more PhDs and Post-Doctoral fellows in 
+this area and to develop intellectual property and 
+technologies that will make South Africa a global 
+leader in climate change science.
+• Research and innovation partnerships in the area of 
+climate change resilience.
+11.3.3 Technology transfer
+Technology transfer continues to be very prominent in the 
+multilateral environmental agreements in general, and in 
+climate change-related agreements in particular. A national 
+capacity to optimally engage climate change-related 
+technology for South Africa, both as a recipient as well as 
+donor to other developing countries, will be developed.
+11. Resource Mobilisation47
+12. Monitoring and Evaluation
+Measurement and monitoring of climate change responses 
+is critical to ensure their effective implementation. South 
+Africa’s efforts in this regard will be coordinated through the 
+cooperative governance mechanisms reflected in section 10. 
+The DEA as the responsible coordinating department will 
+define review mechanisms as well as a process to develop 
+this White Paper into a suite of regulatory and legislative 
+instruments where required.
+12.1 Monitoring Climate Change
+Given the nature and implications of climate change and 
+the economic and social implications of effective climate 
+change responses, decisions must be based on accurate, 
+current and complete information in order to reduce risk 
+and ensure that interventions are effective. South Africa will:
+12.1.1 Ensure that nation-wide climate change and 
+atmosphere monitoring systems are maintained 
+and enhanced where necessary, including through 
+monitoring networks at appropriate spatial density 
+and frequency that monitor, among others, rainfall, 
+ambient air temperature, humidity, soil moisture, 
+wind and solar radiation, lightning, extreme 
+weather event characteristics and their impacts, 
+selected atmospheric GHGs, gas fluxes from 
+selected vegetation, soil and marine carbon pools, 
+sea levels, sea surface temperature, ocean current 
+behaviour and acidity. Data analysis, synthesis, 
+archiving, interpretation and dissemination will be 
+a key component of this effort.
+12.1.2 Ensure that climate change impacts are monitored 
+at appropriate spatial density and frequency, where 
+feasible, of changes in spatial distribution and 
+incidence of climate-sensitive diseases; ecosystems 
+and the goods and services they supply; key species 
+responses (including invasive alien species); wildfire 
+hydrology and water resources; and agricultural 
+and forestry production.
+12.1.3 Establish a monitoring system for gathering 
+information (with bottom-up inputs where 
+possible) and reporting progress on the 
+implementation of adaptation actions.
+12.1.4 Identify the key role-players involved in monitoring 
+and measuring these indicators. Describe 
+how these role-players will share and report 
+information on observed climate change.
+12.1.5 In line with internationally agreed reporting 
+requirements, include a summary of climate change 
+impacts and adaptation actions in the National 
+Communication, which highlights new areas of 
+concern and areas in which observations do not 
+align with modelled projections.
+12.2 Medium- and long-term modelling
+Adaptation requires proactive interventions that minimise 
+projected climate change impacts. To achieve this, mediumand long-term climate projections that represent the full 
+range of possible climate outcomes must be available. 
+They include the risk and scale of projected impacts, the 
+costs and benefits of possible responses, and the risks of their 
+failure. Because local authorities will plan and implement 
+many of the climate change responses, predictions need to 
+be at a level that they can use. To this end, South Africa will:
+12.2.1 Within two years of the publication of this policy, 
+finalise, publish and start implementing the 10-year 
+Global Change Research Plan for South Africa, 
+especially those elements of the plan that increases 
+South Africa’s modelling capacity for climate and 
+impacts projections and vulnerability assessments.
+12.2.2 Within two years of the publication of this policy, 
+compile and publish a strategy to continuously 
+update and maintain the SARVA, using the full range 
+of medium- and long-term climate modelling results 
+and the full range of possible risks.
+12.2.3 Within two years of the publication of this policy, 
+develop and pilot a methodology to downscale 
+climate information and comprehensive impact 
+assessments to specific geographical areas, including 
+provinces and municipalities. This methodology 
+will avoid inappropriate treatment of fine-scale 
+information as indicating greater certainty in 
+climate outcomes, allow for plans that can respond 
+to unfolding climate trends, and lower the risk of 
+mal-adaptation.
+12.2.4 Roll out the downscaling work within two years 
+of the publication of this policy onwards, with 
+appropriate monitoring and evaluation safeguards.
+12.2.5 Ensure that all National Communications submitted 
+as part of South Africa’s UNFCCC commitments 
+contain the most up to date medium- and 
+12. MONITORING AND EVALUATION48
+12. Monitoring and Evaluation
+long-term modelling results and appropriately 
+downscaled risk and impact assessments.
+12.3 Monitoring responses
+To monitor the success of responses to climate change 
+and to replicate the ones that have worked well, we need 
+to measure their cost, outcome and impact. To this end, 
+South Africa will, within two years of the publication of this 
+policy, design and publish a draft Climate Change Response 
+Monitoring and Evaluation System. The system will evolve 
+with international measuring, reporting and verification 
+(MRV) requirements.
+12.3.1 An outcomes-based system
+Monitoring and evaluation of the Country’s climate change 
+programme shall be undertaken through the outcomesbased system that the Presidency has established and shall be 
+reported through the delivery forums for these outcomes. 
+As part of its overall responsibility to review progress across 
+government and across the outcomes, the Department of 
+Performance Monitoring and Evaluation in the Presidency 
+will make sure that climate change implementation is 
+properly integrated across Government. Reporting on 
+climate responsibilities and adaptation measures will 
+consequently be integrated into the Programme of Action 
+and the Ministerial delivery agreements, as well as the 
+quarterly reporting requirements of government at all 
+levels. Key outcomes include:
+• Outcome 4: Decent employment through inclusive 
+growth;
+• Outcome 5: A skilled and capable workforce to 
+support an inclusive growth path;
+• Outcome 7: Vibrant, fair and sustainable rural 
+communities and food security for all;
+• Outcome 8: Sustainable human settlements and an 
+improved quality of household life;
+• Outcome 9: Responsive, accountable, effective and 
+efficient local government system;
+• Outcome 10: Environmental assets and natural 
+resources that are well protected and continually 
+enhanced;
+• Outcome 11: Creating A better South Africa and 
+Contributing to a Better (and Safer) Africa and a 
+better World;
+12.3.2 Mitigation
+South Africa’s climate change mitigation interventions will 
+be monitored and measured against the National Emissions 
+Trajectory Range (see section 6.4).
+Furthermore, the implementation of objectives and 
+measures specified in the Carbon Budget and sectoral 
+mitigation strategies will be measured, reported and verified 
+to assess progress in their implementation. The Climate 
+Change Response Monitoring and Evaluation System will 
+assess indicators defined in the Carbon Budget and sectoral 
+mitigation strategies (see section 6.5), which may include 
+indicators of implementation, local sustainable development 
+benefits and the impact of programmes and measures on 
+emissions. The monitoring process will be implemented 
+through sectoral implementation mechanisms, and will be 
+coordinated and overseen by the DEA, which will publish 
+the outcomes of the monitoring process annually.
+An international climate deal is likely to include an 
+international MRV system that will monitor and report on 
+mitigation actions in developing countries. South Africa will 
+use the National Communication reporting requirements 
+of the UNFCCC for this.49
+13. Conclusion
+Amongst a range of environmental constraints that are of 
+necessity playing an increasing role in social development 
+planning, climate change represents the most urgent and 
+far-reaching challenge of our time. While every country will 
+have to develop its own adaptive responses to the effects 
+of climate change, mitigating climate change to ensure the 
+disruption caused to human and natural systems is within 
+manageable parameters can only arise out of a global 
+response. Furthermore, responding to climate change 
+is a cross-generational challenge. The effects of action or 
+inaction will not be felt immediately, but will have significant 
+consequences for future generations.
+It is within this context, and informed by an appropriate 
+sense of urgency, that the South African government has 
+developed this National Climate Change Response Policy. 
+The current plan represents the first iteration of South 
+Africa’s ongoing efforts to adapt to climate change and 
+contribute to the global mitigation effort. In terms of our 
+contribution to the global mitigation effort, the decision to 
+institute sectoral desired emission reduction outcomes and 
+carbon budgets is momentous – it represents a concrete 
+and practical commitment by South Africa.
+Realising this commitment will require sustained effort 
+and cooperation from all spheres of government, the 
+private sector and civil society formations, and ultimately 
+will depend on decisions by individual citizens to embrace 
+climate-friendly lifestyles and habits. Everyone is a 
+stakeholder in this plan, and the level of engagement from 
+the public in the process of drafting the National Climate 
+Change Response suggests that there is no shortage of the 
+requisite will to make the far-reaching changes that are 
+required. Government wishes to thank all stakeholders for 
+their contributions to this process, and more importantly, 
+for their commitment to building a climate-resilient South 
+Africa for the current and future generations.
+13. CONCLUSION50
+Notes51
+Notes52
+Notes315 Pretorius street
+cnr Pretorius & van der Walt Streets
+Fedsure Forum Building
+North Tower
+2nd Floor (Departmental reception) or
+1st Floor (Departmental information center)
+Pretoria, 0001.
+Postal Address
+Private Bag X447
+Pretoria
+0001
+www.environment.gov.z
