@@ -5,3 +5,4 @@ venv/
 texts/
 .vscode/settings.json
 .pylintrc
+giz-policy_tracking_docs
