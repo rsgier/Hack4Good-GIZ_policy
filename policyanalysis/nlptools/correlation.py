@@ -1,21 +1,42 @@
+import spacy
+import tensorflow_hub as hub
 from typing import List, Tuple
 import numpy as np
 from spacy.tokens import Doc, Token
+from spacy.language import Language
 
 
+@Language.factory("kwd_correlate_factory")
 class KeywordCorrelateSpacy:
     """A class to assist in finding related terms to a set of keywords
 
+    This can be added to a spacy pipeline by running:
+    nlp.add_pipe("kwd_correlate_factory",
+                 config={
+                        "tf_model": "https://tfhub.dev/google/universal-sentence-encoder/4",
+                        "keywords": climate_change_keywords,
+                        "correlation_tag": "climate_change_corr"
+                        }
+                )
+
+    After running the pipeline, i.e. doc = nlp("some long ..... text document")
+    for each item in doc, there will be a custom extensio that contains the relevance
+    of the term to the list of keywords provided to this pipeline
+
+    ex: doc[3]._.climate_change_corr will return the correlation of the fourth word
+    in the document to the list of climate change keywords
+
     Args:
-        tf_model: a tensorflow model that embeds sentences
+        tf_model: url to a tensorflow model that embeds sentences
         keywords: a list of keywords to relate to
     """
 
-    def __init__(self, tf_model, keywords):
+    def __init__(self, nlp: Language, name: str, tf_model: str,
+                 keywords: List[str], correlation_tag: str):
         self.keywords = keywords
-        self.embed = tf_model
+        self.embed = hub.load(tf_model)
         self.keyword_embeddings = self.embed(self.keywords)
-        Token.set_extension("kwd_correlate", default=None)
+        Token.set_extension(correlation_tag, default=None)
 
     def correlate_tokens(self, tokens) -> List[Tuple[float, str]]:
         """Initiates the correlation process on a new document
@@ -48,3 +69,8 @@ class KeywordCorrelateSpacy:
             t._.kwd_correlate = correlated[i]
 
         return doc
+
+
+if __name__ == "__main__":
+    nlp = spacy.load("en_core_web_sm")
+    nlp.add_pipe("kwd_correlate_factory")
