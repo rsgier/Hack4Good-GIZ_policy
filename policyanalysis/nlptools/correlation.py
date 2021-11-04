@@ -36,6 +36,7 @@ class KeywordCorrelateSpacy:
         self.keywords = keywords
         self.embed = hub.load(tf_model)
         self.keyword_embeddings = self.embed(self.keywords)
+        self.correlation_tag = correlation_tag
         Token.set_extension(correlation_tag, default=None)
 
     def correlate_tokens(self, tokens) -> List[Tuple[float, str]]:
@@ -66,11 +67,23 @@ class KeywordCorrelateSpacy:
         correlated, _ = self.correlate_tokens(tokens)
 
         for i, t in enumerate(doc):
-            t._.kwd_correlate = correlated[i]
+            t._.set(self.correlation_tag, correlated[i])
 
         return doc
 
 
 if __name__ == "__main__":
     nlp = spacy.load("en_core_web_sm")
-    nlp.add_pipe("kwd_correlate_factory")
+    nlp.add_pipe(
+        "kwd_correlate_factory",
+        config={
+            "tf_model": "https://tfhub.dev/google/universal-sentence-encoder/4",
+            "keywords": [
+                "resilliance", "sustainability", "mother nature",
+                "green thought"
+            ],
+            "correlation_tag": "climate_change_corr"
+        })
+
+    doc = nlp("The earth will die if global warming continues")
+    print(str(doc[1]), doc[1]._.climate_change_corr)
