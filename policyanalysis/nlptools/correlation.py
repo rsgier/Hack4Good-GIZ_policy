@@ -1,9 +1,35 @@
 import spacy
 import tensorflow_hub as hub
-from typing import List, Tuple
+from typing import List, Tuple, T
 import numpy as np
-from spacy.tokens import Doc, Token
+from spacy.tokens import Doc, Token, Span
 from spacy.language import Language
+
+# Could put this URL in a configuration file, or load from environment variables
+MODEL_URL = "https://tfhub.dev/google/universal-sentence-encoder/4"
+
+EMBEDDER = hub.load(MODEL_URL)
+
+
+class KeywordCorrelator:
+
+    def __init__(self, keywords: List[str]) -> None:
+        self.embed = EMBEDDER
+        self.keywords = keywords
+        self.keyword_embeddings = self.embed(self.keywords)
+
+    @classmethod
+    def add_span_subject_correlator(cls, tag_name, keywords):
+        correlator = KeywordCorrelator(keywords)
+        correlator_getter = lambda span: correlator([span.text])[0]
+        Span.set_extension(tag_name, getter=correlator_getter, force=True)
+
+    def __call__(self, span: List[str]) -> List[float]:
+        input_embeddings = self.embed(span)
+        correlation_2d = np.inner(self.keyword_embeddings, input_embeddings)
+        correlation_1d = np.max(correlation_2d, axis=0)
+
+        return correlation_1d
 
 
 @Language.factory("kwd_correlate_factory")
