@@ -86,4 +86,5 @@ if __name__ == "__main__":
         })
 
     doc = nlp("The earth will die if global warming continues")
-    print(str(doc[1]), doc[1]._.climate_change_corr)
+    for i in range(len(doc)):
+        print(f"{doc[i]} {doc[i]._.climate_change_corr}")
