@@ -1,6 +1,6 @@
 import spacy
 import tensorflow_hub as hub
-from typing import List, Tuple, T
+from typing import List, Tuple
 import numpy as np
 from spacy.tokens import Doc, Token, Span
 from spacy.language import Language
@@ -9,6 +9,38 @@ from spacy.language import Language
 MODEL_URL = "https://tfhub.dev/google/universal-sentence-encoder/4"
 
 EMBEDDER = hub.load(MODEL_URL)
+
+
+class TokenArrayCorrelator:
+
+    def __init__(self, keywords, threshold, entity_tag) -> None:
+        self.threshold = threshold
+        self.entity_tag = entity_tag
+        self.correlator = KeywordCorrelator(keywords)
+
+    def __call__(self, doc, tokens: List[Token]):
+        start = tokens[0].i
+        end = tokens[-1].i
+        text = [" ".join([str(t) for t in tokens])]
+
+        if self.correlator(text)[0] > self.threshold:
+            try:
+                doc.ents = list(
+                    doc.ents) + [Span(doc, start, end, self.entity_tag)]
+            except:
+                pass
+
+
+def entity_correlation_tagger(doc, spans: List, threshold, corr_attr_key,
+                              entity_tag):
+    spans = [s for s in spans if s._.get(corr_attr_key) > threshold]
+
+    for s in spans:
+        try:
+            doc.ents = list(
+                doc.ents) + [Span(doc, s.start, s.end, label=entity_tag)]
+        except:  # This case is hit if there are overlapping entities, there can only be one entity attached to each token at a time.
+            pass
 
 
 class KeywordCorrelator:
