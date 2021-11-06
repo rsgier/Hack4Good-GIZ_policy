@@ -31,6 +31,25 @@ class TokenArrayCorrelator:
                 pass
 
 
+class SpanCorrelator:
+
+    def __init__(self, keywords, threshold, entity_tag):
+        self.threshold = threshold
+        self.entity_tag = entity_tag
+        self.correlator = KeywordCorrelator(keywords)
+
+    def __call__(self, doc, span: Span):
+        text = [span.text]
+
+        if self.correlator(text)[0] > self.threshold:
+            try:
+                doc.ents = list(doc.ents) + [
+                    Span(doc, span.start, span.end, self.entity_tag)
+                ]
+            except:
+                pass
+
+
 def entity_correlation_tagger(doc, spans: List, threshold, corr_attr_key,
                               entity_tag):
     spans = [s for s in spans if s._.get(corr_attr_key) > threshold]
