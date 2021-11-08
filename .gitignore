@@ -5,3 +5,6 @@ venv/
 texts/
 .vscode/
 giz-policy_tracking_docs/
+
+# Custom
+.DS_Store
