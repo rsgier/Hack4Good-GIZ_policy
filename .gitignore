@@ -8,3 +8,6 @@ giz-policy_tracking_docs/
 
 # Custom
 .DS_Store
+poetry.lock
+pyproject.toml
+*.bin
