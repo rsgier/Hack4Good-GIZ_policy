@@ -12,13 +12,47 @@ EMBEDDER = hub.load(MODEL_URL)
 
 
 class TokenArrayCorrelator:
+    """Aides in labeling entities in a document that reach a certain similarity
+    threshold when embedded against a group of keywords
 
-    def __init__(self, keywords, threshold, entity_tag) -> None:
+    Example: 
+        correlator = TokenArrayCorrelator(kwds, 0.5, "CLIMATE")
+
+    Args:
+        keywords (str): A list of keywords in a subject area
+        threshold (float): Embedding-similarity threshold to tag entity
+        entity_tag (str): A name given to a section that will appear in Displacy
+    """
+
+    def __init__(self, keywords: List[str], threshold: float,
+                 entity_tag: str) -> None:
         self.threshold = threshold
         self.entity_tag = entity_tag
         self.correlator = KeywordCorrelator(keywords)
 
-    def __call__(self, doc, tokens: List[Token]):
+    def __call__(self, doc: Doc, tokens: List[Token]):
+        """Correlates and tags a section of a document with the loaded keywords
+
+        This function will embed the entire set of tokens (no need to be consecutive) 
+        as one string and find the similarity the list of embedded keywords. If 
+        the similarity is higher than a certain threshold, the subset starting from the
+        index of the first token to the index of the last token will be added to the 
+        document entities if it does not overlap with an existing entity. This 
+        entitly will be labeled with the self.entity_tag variable
+
+        This is especially useful if performing preprocessing on a document
+        where some tokens out of a given subset may be thrown out as
+        members of a list of stopwords, unwanted characters, or other reasons
+
+        Example: 
+            phrase_in_question = [doc[49], doc[53], doc[59]]
+            correlator(doc, phrase_in_question)
+            displacy.render(doc, style='ent')
+        
+        Args:
+            doc (Doc): The current working spacy document
+            tokens (List[Token]): A subset of tokens from the doc
+        """
         start = tokens[0].i
         end = tokens[-1].i
         text = [" ".join([str(t) for t in tokens])]
@@ -32,13 +66,40 @@ class TokenArrayCorrelator:
 
 
 class SpanCorrelator:
+    """A correlator that will mark relevant spans with a tag
 
-    def __init__(self, keywords, threshold, entity_tag):
+    This class aides in labeling spans if they are similar
+    enough to a list of keywords which are embedded on instatiation
+    of this class.
+
+    Example: 
+        correlator = SpanCorrelator(kwds, 0.5, "CLIMATE")
+
+    Args:
+        keywords (List[str]): list of subject keywords
+        threshold (float): correlation threshold for a span to be labeled
+        entity_tag (str): label for the span, will appear in displacy plot  
+    """
+
+    def __init__(self, keywords: List[str], threshold: float, entity_tag: str):
         self.threshold = threshold
         self.entity_tag = entity_tag
         self.correlator = KeywordCorrelator(keywords)
 
-    def __call__(self, doc, span: Span):
+    def __call__(self, doc: Doc, span: Span):
+        """Tags a span if over correlation thresh to initialized set of keywords
+
+        This method will embed a span against a set of initialized keywords,
+        and tag the span with a label if it meets a certain correlation threshold
+
+        Example:
+            correlator(doc, doc[49:54])
+
+        Args:
+            doc (Doc): A spacy document that is being analyzed
+            span (Span): A consecutive subset of the document
+        
+        """
         text = [span.text]
 
         if self.correlator(text)[0] > self.threshold:
@@ -63,6 +124,21 @@ def entity_correlation_tagger(doc, spans: List, threshold, corr_attr_key,
 
 
 class KeywordCorrelator:
+    """
+    A helper class to correlate strings with a given set of keywords
+
+    This class is initialized with a set of keywords which are embedded
+    in a tensorflow model loaded from the URL defined by MODEL_URL
+
+    Repeated calls can be made to the instance that embed a list of 
+    strings and return corresponding correlation coefficients
+
+    Example: 
+        climate_correlator = KeywordCorrelator(climate_kwds)
+
+    Args:
+        keywords (List[str]): list of keyword phrases to embed
+    """
 
     def __init__(self, keywords: List[str]) -> None:
         self.embed = EMBEDDER
@@ -70,12 +146,46 @@ class KeywordCorrelator:
         self.keyword_embeddings = self.embed(self.keywords)
 
     @classmethod
-    def add_span_subject_correlator(cls, tag_name, keywords):
+    def add_span_subject_correlator(cls, tag_name: str, keywords: List[str]):
+        """Special method to add a keyword correlator feature to any 
+        span selected from a document.
+
+        Once the span-subject-correlator is added to a spacy pipeline,
+        a subset of the document will have a method:
+
+        doc[x:y]._.<tag_name>
+
+        Which will return the correlation of the span to the list of 
+        embedded keywords provided to this function
+
+        Example:
+            KeywordCorrelator.add_span_subject_correlator("climate_corr", climate_kwds)
+
+        Args:
+            tag_name (str): desired name of callable extension
+            keywords (List[str]): List of keywords to correlate on extension
+        
+        """
         correlator = KeywordCorrelator(keywords)
         correlator_getter = lambda span: correlator([span.text])[0]
         Span.set_extension(tag_name, getter=correlator_getter, force=True)
 
     def __call__(self, span: List[str]) -> List[float]:
+        """Computes correlations of phrases to initialized set of keywords
+
+        This method will embed a list of phrases against a list of keywords
+        that were embedded on instantiation of this class
+
+        Args:
+            span (List[str]): A list of phrases to correlate against 
+                the already-initialized list of embedded keywords.
+
+        Return:
+            correlation_1d (List[float]): List of correlation coefficients
+                corresponding positionwise to each phrase that was passed
+                to this function on call
+        
+        """
         input_embeddings = self.embed(span)
         correlation_2d = np.inner(self.keyword_embeddings, input_embeddings)
         correlation_1d = np.max(correlation_2d, axis=0)
