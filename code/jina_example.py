@@ -52,7 +52,7 @@ def index():
 def query(top_k=5):
     flow = Flow().load_config("flows/flow.yml")
     with flow:
-        text = input("Please type a sentence: ")
+        text = input("\n\nPlease type a sentence: ")
         doc = Document(content=text)
 
         result = flow.post(
