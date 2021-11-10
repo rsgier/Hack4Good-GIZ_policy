@@ -45,6 +45,7 @@ def index():
             on="/index",
             inputs=input_generator(filepath),
             show_progress=True,
+            on_done=lambda resp: print(resp.docs[0].embedding),
         )
 
 
