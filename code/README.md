@@ -13,6 +13,7 @@ So far it was just implemented with the first 60 lines from the Climate Change W
 Before we can perform neural search the data input has to be indexed. That means each sentence is transformed into a vector (embedding) which represents the semantic meaning of a sentence in a vector space.
 
 Run:
+
 ```python jina_example.py -t index```
 
 This will create a new folder in the code folder called `workspace`. This is where the embeddings are stored.
