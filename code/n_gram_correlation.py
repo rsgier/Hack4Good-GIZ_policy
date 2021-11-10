@@ -7,8 +7,8 @@ from correlation import KeywordCorrelator
 
 class NGramCorrelateSpacy:
 
-    def __init__(self, model_url, keywords, n_gram_length, threshold) -> None:
-        self.correlator = KeywordCorrelator(model_url, keywords)
+    def __init__(self, keywords, n_gram_length, threshold) -> None:
+        self.correlator = KeywordCorrelator(keywords)
         self.n_gram_length = n_gram_length
         self.threshold = threshold
 
