@@ -13,7 +13,7 @@ class NGramCorrelateSpacy:
     def correlate_spans(self, doc: Doc, n_gram_size):
         n_gram_tuples = self.get_n_gram_tuples(n_gram_size, len(doc))
         span_candidates = [doc[t[0]:t[1]] for t in n_gram_tuples]
-        self.correlator(doc, span_candidates[::4])
+        self.correlator(doc, span_candidates)
 
     def get_n_gram_tuples(self, size, doc_len):
         return [(i, i + size) for i in range(doc_len - size + 1)]
