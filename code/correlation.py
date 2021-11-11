@@ -30,7 +30,7 @@ class TokenArrayCorrelator:
         self.entity_tag = entity_tag
         self.correlator = KeywordCorrelator(keywords)
 
-    def __call__(self, doc: Doc, tokens: List[Token]):
+    def __call__(self, doc: Doc, tokens: List[List[Token]]):
         """Correlates and tags a section of a document with the loaded keywords
 
         This function will embed the entire set of tokens (no need to be consecutive) 
@@ -51,18 +51,18 @@ class TokenArrayCorrelator:
         
         Args:
             doc (Doc): The current working spacy document
-            tokens (List[Token]): A subset of tokens from the doc
+            tokens (List[List[Token]]): A subset of passages (token elections) from the doc
         """
-        start = tokens[0].i
-        end = tokens[-1].i
-        text = [" ".join([str(t) for t in tokens])]
-
-        if self.correlator(text)[0] > self.threshold:
-            try:
-                doc.ents = list(
-                    doc.ents) + [Span(doc, start, end, self.entity_tag)]
-            except:
-                pass
+        passage_positions = [(passage[0].i, passage[-1].i) for passage in tokens]
+        joined_passages = [" ".join([str(t) for t in passage]) for passage in tokens]
+        scored_passages = self.correlator(joined_passages)
+        for score, position in zip(scored_passages, passage_positions):
+            if score > self.threshold:
+                try:
+                    doc.ents = list(
+                        doc.ents) + [Span(doc, position[0], position[1], self.entity_tag)]
+                except:
+                    pass
 
 
 class SpanCorrelator:
