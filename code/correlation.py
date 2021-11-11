@@ -86,7 +86,7 @@ class SpanCorrelator:
         self.entity_tag = entity_tag
         self.correlator = KeywordCorrelator(keywords)
 
-    def __call__(self, doc: Doc, span: Span):
+    def __call__(self, doc: Doc, spans: List[Span]):
         """Tags a span if over correlation thresh to initialized set of keywords
 
         This method will embed a span against a set of initialized keywords,
@@ -100,15 +100,17 @@ class SpanCorrelator:
             span (Span): A consecutive subset of the document
         
         """
-        text = [span.text]
+        text = [span.text for span in spans]
+        correlated = self.correlator(text)
 
-        if self.correlator(text)[0] > self.threshold:
-            try:
-                doc.ents = list(doc.ents) + [
-                    Span(doc, span.start, span.end, self.entity_tag)
-                ]
-            except:
-                pass
+        for span, score in zip(spans, correlated):
+            if score > self.threshold:
+                try:
+                    doc.ents = list(doc.ents) + [
+                        Span(doc, span.start, span.end, self.entity_tag)
+                    ]
+                except:
+                    pass
 
 
 def entity_correlation_tagger(doc, spans: List, threshold, corr_attr_key,
