@@ -1,5 +1,7 @@
 {
     "national adaption plan": [
+        "national adaption plan",
+        "adaption plan",
         "nap",
         "sector plan",
         "nccrp",
@@ -7,6 +9,7 @@
         "geographic vulnerability"
     ],
     "climate change": [
+        "climate change",
         "adaption program", 
         "adaption projects", 
         "resilience", 
@@ -20,15 +23,17 @@
         "land use scheme",
         "authorisation system",
         "spatial land use management act",
-        "spluma"
+        "spluma",
+        "paris agreement",
+        "climate agreement"
     ],
     "early warning": [
+        "early warning",
         "system",
         "vulnerability",
         "needs assessment",
-        "network",
         "weather services",
-        "earth observation",
+        "earth observation network",
         "academic community"
     ]
 }
