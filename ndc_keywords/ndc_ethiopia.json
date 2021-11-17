@@ -1,5 +1,7 @@
 {
     "Adaptation to climate change": [
+        "adaptation to climate change",
+        "climate change adaptation",
         "increase resilience",
         "reduce vulnerability",
         "livelihoods",
@@ -10,25 +12,30 @@
         "water scarcity",
         "agroforestry",
         "irrigation systems",
+        "irrigation system",
         "biodiversity",
         "geothermal",
         "ecosystem rehabilitation",
         "insurance systems",
+        "insurance system",
         "early warning systems",
+        "early warning system",
         "disaster risk management"
     ],
     "Fairness, equity, ambition": [
+        "fairness", 
+        "fair",
+        "equity", 
+        "equitable", 
+        "ambitious",
+        "ambition",
         "social services",
         "capacity building",
         "technology transfer",
         "policies",
-        "social environmental economic vulnerabilities"
-    ],
-    "fairness, equity, ambition": [
-        "social services",
-        "capacity building",
-        "technology transfer",
-        "policies",
-        "social environmental economic vulnerabilities"
+        "social environmental economic vulnerabilities",
+        "social vulnerabilities",
+        "environmental vulnerabilities",
+        "economic vulnerabilities"
     ]
 }
