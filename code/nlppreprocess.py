@@ -64,6 +64,17 @@ def preprocess_token(token: object) -> str:
     """
     return token.lemma_.strip().lower()
 
+def preprocess_token_no_lemma(token: object) -> str:
+    """ Computes the lowercase, stripped form of the input token.
+
+    Args:
+        token (object): input spacy token opject
+
+    Returns (str):
+        lowercase lemma form of the input token
+    """
+    return token.text.strip().lower()
+
 
 def preprocess_doc(doc_path: str) -> Tuple[object, List[object], List[object]]:
     """Applies NLP framework to a document.
@@ -106,6 +117,30 @@ def filter_modify_tokens(tokens: List[object]) -> List[object]:
     # filter tokens, and make lowercase and lemmatize:
     filtered_text_list = [
         preprocess_token(token) for token in tokens if is_token_allowed(token)
+    ]
+
+    filtered_text = ' '.join(filtered_text_list)
+    filtered_tokens = nlp(filtered_text)
+    return filtered_tokens
+
+def filter_tokens(tokens: List[object]) -> List[object]:
+    """ This function takes a collection of tokens from the nlp() function applied to text
+    and generates a list of filtered tokens that we then convert into a filtered text and
+    collection of filtered tokens. (But without lemmatization.)
+
+    Args:
+        tokens (List[object]): list of input tokens
+
+    Returns (List[object]):
+        list of filtered tokens
+    """
+
+    # TODO: still need to filter out super weird non words and may want to filter numbers and
+    # may want to find some important accronyms too (so maybe modify this function later)
+
+    # filter tokens, and make lowercase and lemmatize:
+    filtered_text_list = [
+        preprocess_token_no_lemma(token) for token in tokens if is_token_allowed(token)
     ]
 
     filtered_text = ' '.join(filtered_text_list)
