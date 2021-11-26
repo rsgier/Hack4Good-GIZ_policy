@@ -253,3 +253,34 @@ def make_ndc_idx_df(ndc_dict: Dict[str, List[str]],
         ndc_idx_df = pd.concat([ndc_idx_df, ndc_idx_df_to_add], axis=0)
 
     return ndc_idx_df
+
+def find_patterns_df(pattern_list: List[str],
+                     text: str,
+                     topic_name: str) -> pd.DataFrame:
+    """Searches for pattern keywords (e.g. SDG keywords) within a text
+     and creates a pandas dataframe with the word indices and number
+     of occurences of the keywords.
+
+    Args:
+        pattern_list (List[str]): list containing all the pattern keywords
+        text (str): input text
+        topic_name (str): topic name associated with the list of keywords
+
+    Returns:
+        (pd.DataFrame): A pd.DataFrame with columns with the topic names,
+        the pattern keywords, number of occurences of the keywords
+         and word indices of the keywords
+    """
+
+    pattern_locations = []
+    pattern_num = []
+    for pattern in pattern_list:
+        re.findall(pattern, text, flags=0)
+        locations = [m.start(0) for m in re.finditer(pattern, text)]
+        pattern_locations.append(locations)
+        pattern_num.append(int(len(locations)))
+
+    return pd.DataFrame({'topic': topic_name,
+                         'keywords': pattern_list,
+                         'keywords_num': pattern_num,
+                         'keyword_locations': pattern_locations})
