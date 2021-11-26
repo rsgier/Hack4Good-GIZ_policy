@@ -1,14 +1,17 @@
-# GIZ
+# Setup GIZ Project
 
-We will be using a virtual python environment for this project. 
+We will be using python 3.8.x and a virtual python environment for this project.
+All tools of the project work with python 3.8.x. Other python version might cause compatibility problems.
 
-To set up your virtual environment for the first time, run: `python -m venv venv`
-
-Then, run `venv/Scripts/Activate.ps1` (powershell) or `venv/Scripts/activate` (bash)
-
-When the environment name appears in your command line, it is active. Run `pip install -r requirements.txt` to install all reqired dependencies for development
-
-If you add any new dependencies, run `pip freeze > requirements.txt` and ensure that you commit the updated requirements file with your code
+To set up the project run the following commands:
+```
+git clone https://gitlab.com/analytics-club/hack4good/hack4good-fall-2021/giz-policy/giz-policy.git
+cd giz-policy
+python -m venv venv
+source venv/bin/activate
+python setup.py
+```
+This code block clones this repository, installs the virtual environment and installs all dependencies.
 
 ## Add your files
 
