@@ -181,3 +181,75 @@ def make_filtered_tokens_from_ndc(ndc_dict: Dict) -> Dict[str, List[str]]:
         ndc_dict_processed[topic] = unique_keywords
 
     return ndc_dict_processed
+
+def make_ndc_keyword_df_from_dict(ndc_dict: Dict[str, List[str]],
+                                  topic: str,
+                                  col_topic_name: str,
+                                  ) -> pd.DataFrame:
+    """Takes a NDC dictionary of the processed words, the name of the topic and the title for the
+    topic-column and creates a pandas dataframe.
+
+    Args:
+        ndc_dict (Dict[str, List[str]]): NDC dictionary of the processed words
+        topic (str): topic associated with the NDC keywords
+        col_topic_name (str): name of the column containing the topics
+
+    Returns:
+        ndc_df (pd.DataFrame): A pd.DataFrame with one column with the keywords
+        and one column with the associated topic
+    """
+
+    ndc_df = pd.DataFrame({'keyword': ndc_dict[topic],
+                           col_topic_name: topic})
+
+    return ndc_df
+
+
+def stack_ndc_keyword_dfs(ndc_dict: Dict[str, List[str]],
+                          col_topic_name: str) -> pd.DataFrame:
+    """Takes a NDC dictionary of the processed words, the title for the
+    topic-column and creates a pandas dataframe by concatenating dataframes
+    for all topics in the NDC dictionary.
+
+    Args:
+        ndc_dict (Dict[str, List[str]]): NDC dictionary of the processed words
+        col_topic_name (str): name of the column containing the topics
+
+    Returns:
+        ndc_df (pd.DataFrame): A pd.DataFrame with one column with the keywords
+        and one column with the associated topics
+    """
+
+    ndc_df = pd.DataFrame()
+
+    for topic in ndc_dict.keys():
+        ndc_df_add = make_ndc_keyword_df_from_dict(ndc_dict, topic, col_topic_name)
+        ndc_df = pd.concat([ndc_df, ndc_df_add], axis=0)
+
+    return ndc_df
+
+def make_ndc_idx_df(ndc_dict: Dict[str, List[str]],
+                    col_topic_name: str,
+                    tokens: List[object]) -> pd.DataFrame:
+    """Takes a NDC dictionary of the processed words, a collection of tokens from the nlp() function,
+    the title for the topic-column and creates a pandas dataframe containing the indices for each token
+    by concatenating dataframes for all topics in the NDC dictionary.
+
+    Args:
+        ndc_dict (Dict[str, List[str]]): NDC dictionary of the processed words
+        col_topic_name (str): name of the column containing the topics
+        tokens (List[object]): list of input tokens
+
+    Returns:
+        ndc_df (pd.DataFrame): A pd.DataFrame with one column with the topics
+        and one column with the word index for each token
+    """
+
+    ndc_idx_df = pd.DataFrame()
+
+    for topic in ndc_dict.keys():
+        ndc_idx_df_to_add = pd.DataFrame({col_topic_name: topic,
+                                          'word_index': [token.idx for token in tokens if token.text in ndc_dict[topic]]})
+        ndc_idx_df = pd.concat([ndc_idx_df, ndc_idx_df_to_add], axis=0)
+
+    return ndc_idx_df
