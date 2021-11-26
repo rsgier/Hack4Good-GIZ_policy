@@ -57,3 +57,81 @@ def plot_word_freq_barchart_ndc(topic_term_frequencies: Dict[str, int],
         plt.savefig((output_folder + 'bar_chart_%s.pdf' % (title)),
                     bbox_inches='tight')
     plt.show()
+
+def filter_idx_for_overlap(idxs: List[int],
+                           min_dist: int) -> List[int]:
+    """Takes a list with word indices and returns another list
+     only with word indices separated by at least a minimum distance.
+
+    Args:
+        idxs (List[int]): list with word indices
+        min_dist (int): minimum distance between word indices
+
+    Returns:
+        filtered_idxs (List[int]): list with word indices separated by at least min_dist
+    """
+
+    distance_btwn_idxs = [(idxs[i + 1] - idxs[i]) for i in range(0, len(idxs) - 1)]
+
+    filtered_idxs = []
+    for index, distance in enumerate(distance_btwn_idxs):
+        if distance >= min_dist:
+            filtered_idxs.append(idxs[index])
+        else:
+            pass
+
+    print("Total number of word indices: {}".format(len(idxs)), "\n",
+          "Number of word indices seperated by at least min_dist={}: {}"
+          .format(min_dist, len(filtered_idxs)))
+
+    return filtered_idxs
+
+
+def make_window_text(tokens: List[object],
+                     max_length: int) -> List[object]:
+    """Takes a collection of tokens from the nlp() function and removes
+    tokens with equal or more than max_length characters.
+
+    Args:
+        tokens (List[object]): list of input tokens
+        max_length: (int): max. allowed no. of characters for the tokens
+
+    Returns:
+        tokens (List[object]): list of tokens with less than max_length characters
+    """
+    filtered_for_length = [token.text.lower() for token in tokens if len(token) < max_length]
+    text_for_windows = ' '.join(filtered_for_length)
+    window_tokens = nlp(text_for_windows)
+
+    return window_tokens
+
+def return_window(ndc_word_index: int,
+                  tokens: List[object],
+                  size: int) -> Tuple[int, int, List[object]]:
+    """Gives the tokens within a window of user-specific size around a given word index
+
+    Args:
+        ndc_word_index (index): word index around which the window is defined
+        tokens: (List[object]): list of input tokens which are checked if inside the window
+        size: size of the token window around the word index (ndc_word_index +/- size)
+
+    Returns:
+        lower limit (int): lower limit index of the token window
+        upper limit (int): upper limit index of the token window
+        window_tokens (List[object]): list of tokens inside the token window
+    """
+
+    lower_limit = ndc_word_index - size
+    upper_limit = ndc_word_index + size
+    token_idxs = [token.idx for token in tokens]
+    window_token_list = []
+
+    for index, idx in enumerate(token_idxs):
+        if (idx >= lower_limit) and (idx <= upper_limit):
+            window_token_list.append(tokens[index])
+        else:
+            pass
+    text_for_windows = ' '.join(list(token.text for token in window_token_list))
+    window_tokens = nlp(text_for_windows)
+
+    return lower_limit, upper_limit, window_tokens
