@@ -1,6 +1,16 @@
 #graphing/visualization packages:
 from typing import Dict, List
 import matplotlib.pyplot as plt
+from typing import List, Tuple
+import spacy
+from spacy.matcher import PhraseMatcher
+from spacy.tokens import Span
+from spacy import displacy
+import pandas as pd
+
+
+nlp = spacy.load(
+    'en_core_web_sm')
 
 plt.style.use('ggplot')
 
@@ -135,3 +145,40 @@ def return_window(ndc_word_index: int,
     window_tokens = nlp(text_for_windows)
 
     return lower_limit, upper_limit, window_tokens
+
+def label_ndc_sdg_spans_in_windows(keyword_df: pd.DataFrame,
+                                   doc: List[object],
+                                   topic_column: str) -> Tuple[List[str], List[object]]:
+    """Takes a nlp-processes window text and labels the keywords from a pandas dataframe
+
+    Args:
+        keyword_df (pd.DataFrame): dataframe containing the SDG keywords to be labelled
+        doc: (List[object]): nlp-processed window text to be labelled
+        topic_column (str): topic name for the column
+
+    Returns:
+        entity_labels (List[str]): List containing the SDG names for the labels
+        doc (List[object]): Labelled nlp-processed window text
+    """
+
+    matcher = PhraseMatcher(nlp.vocab)
+
+    # iterate through NDC keys in NDC dictionary
+    # to create separate label categories for the matching
+    entity_labels = []
+    topics = list(keyword_df[topic_column].value_counts().index)
+    for topic in topics:
+        entity_labels.append(topic)
+        keywords = list(keyword_df[keyword_df[topic_column]==topic]['keyword'])
+        patterns = [nlp(i) for i in keywords]
+        matcher.add(topic, None, *patterns)
+
+    matches = matcher(doc)
+    for match_id, start, end in matches:
+        try:
+            span = Span(doc, start, end, label=match_id)
+            doc.ents = list(doc.ents) + [span]  # add span to doc.ents
+        except:
+            pass
+
+    return entity_labels, doc
