@@ -29,6 +29,7 @@ git push -uf origin main
 ***
 
 ## Tracing policy implementation of NDCs (Paris Agreement on climate change)
+The goal of this project is to develop an NLP solution that processes documents that might be of interest to evaluating progress towards contributions outlined in the Paris Agreement on climate change, or other policy frameworks. The solution uses a variety of NLP processing techniques, keyword searching, and sentence embedding through a pretrained neural network to create metrics which are tied together in a coherence score, used to indicate how strongly a document relates to the subjects imporntant to the policy framework in question. 
 
 ## Overview
 The root directory contains dependency files and a setup python executable to aid in setting up your coding environment. The following directories are present
