@@ -30,6 +30,13 @@ git push -uf origin main
 
 ## Tracing policy implementation of NDCs (Paris Agreement on climate change)
 
+## Overview
+The root directory contains dependency files and a setup python executable to aid in setting up your coding environment. The following directories are present
+
+- __code__: contains all python executables and jupyter notebooks which carry out computations for meeting project goals. All python executables contain documented, modularized functions. The jupyter notebooks serve to demonstrate the functionality of these executables.
+- __ndc_keywords__: contains `.json` files with keywords related to some of the NDCs for Ethiopia and South Africa. The notebook files in the code directory will load keywords from these files. 
+- __test_resources__: contains transcripts (OCR'd from PDF documents) of legislation and reports that are used in example analysis
+
 
 ## Project Description
 [Link](https://docs.google.com/document/d/1TQnZ45oP10e3H9UsYSj_V2Pc01tcDRCa)  
