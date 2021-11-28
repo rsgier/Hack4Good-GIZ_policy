@@ -8,7 +8,8 @@ import contractions
 import spacy
 from collections import OrderedDict
 from typing import List, Dict, Tuple
-
+import pandas as pd
+import re
 
 # for multi-language: spacy.load('xx_ent_wiki_sm')
 nlp = spacy.load(
@@ -280,7 +281,34 @@ def find_patterns_df(pattern_list: List[str],
         pattern_locations.append(locations)
         pattern_num.append(int(len(locations)))
 
-    return pd.DataFrame({'topic': topic_name,
-                         'keywords': pattern_list,
-                         'keywords_num': pattern_num,
-                         'keyword_locations': pattern_locations})
+    return pd.DataFrame({'sdg_topic': topic_name,
+                         'sdg_keywords': pattern_list,
+                         'sdg_keywords_num': pattern_num,
+                         'sdg_keyword_locations': pattern_locations})
+
+def make_sdg_df(sdg_list: List[str],
+                sdg_ontology: pd.DataFrame,
+                text: str) -> pd.DataFrame:
+    """Searches for pattern keywords (e.g. SDG keywords) within a text
+     for all topics and creates a pandas dataframe with the word indices and number
+     of occurences of the keywords.
+
+    Args:
+        sdg_list (List[str]): list containing all the SDG topics
+        sdg_ontology (pd.DataFrame): SDG Ontology dataframe
+        text (str): input text
+
+    Returns:
+        df_sdg (pd.DataFrame): A pd.DataFrame with columns with the topic names,
+        the pattern keywords, number of occurences of the keywords
+         and word indices of the keywords
+    """
+
+    df_sdg = pd.DataFrame()
+
+    for sdg in list(sdg_list):
+        sdg_keywords = list(sdg_ontology[sdg_ontology['clasification']==sdg]['keyword'])
+        df_sdg_to_add = find_patterns_df(sdg_keywords, text, topic_name=sdg)
+        df_sdg = pd.concat([df_sdg, df_sdg_to_add])
+
+    return df_sdg
