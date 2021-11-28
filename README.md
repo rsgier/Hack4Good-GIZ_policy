@@ -1,3 +1,13 @@
+# Tracing policy implementation of NDCs (Paris Agreement on climate change)
+The goal of this project is to develop an NLP solution that processes documents that might be of interest to evaluating progress towards contributions outlined in the Paris Agreement on climate change, or other policy frameworks. The solution uses a variety of NLP processing techniques, keyword searching, and sentence embedding through a pretrained neural network to create metrics which are tied together in a coherence score, used to indicate how strongly a document relates to the subjects imporntant to the policy framework in question.
+
+# Overview
+The root directory contains dependency files and a setup python executable to aid in setting up your coding environment. The following directories are present
+
+- __code__: contains all python executables and jupyter notebooks which carry out computations for meeting project goals. All python executables contain documented, modularized functions. The jupyter notebooks serve to demonstrate the functionality of these executables.
+- __ndc_keywords__: contains `.json` files with keywords related to some of the NDCs for Ethiopia and South Africa. The notebook files in the code directory will load keywords from these files. 
+- __test_resources__: contains transcripts (OCR'd from PDF documents) of legislation and reports that are used in example analysis
+
 # Setup GIZ Project
 
 We will be using python 3.8.x and a virtual python environment for this project.
@@ -13,41 +23,16 @@ python setup.py
 ```
 This code block clones this repository, installs the virtual environment and installs all dependencies.
 
-## Add your files
+# First Steps
 
-- [ ] [Create](https://gitlab.com/-/experiment/new_project_readme_content:c8025276be15008bbf49a9722415d683?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://gitlab.com/-/experiment/new_project_readme_content:c8025276be15008bbf49a9722415d683?https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://gitlab.com/-/experiment/new_project_readme_content:c8025276be15008bbf49a9722415d683?https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
+Now everything is ready for analyzing your array of documents. The working principle of our pipline is documented in our jupyter notebooks.
+You can launch them by typing
 ```
-cd existing_repo
-git remote add origin https://gitlab.com/analytics-club/hack4good/hack4good-fall-2021/giz-policy/giz-policy.git
-git branch -M main
-git push -uf origin main
+jupyter-lab
 ```
+and then just go into the `code` directory and choose the corresponding notebooks (all files ending with `.ipynb`).
+To execute a code block just press `Shift + Enter`. For more information on our functions you can either make a new block (`Ctrl + B`) and execute `help(function_you_are_interested_in)`. Or you can just directly look at the documention in our module files (all files ending with `.py`)
 
-
-***
-
-## Tracing policy implementation of NDCs (Paris Agreement on climate change)
-The goal of this project is to develop an NLP solution that processes documents that might be of interest to evaluating progress towards contributions outlined in the Paris Agreement on climate change, or other policy frameworks. The solution uses a variety of NLP processing techniques, keyword searching, and sentence embedding through a pretrained neural network to create metrics which are tied together in a coherence score, used to indicate how strongly a document relates to the subjects imporntant to the policy framework in question. 
-
-## Overview
-The root directory contains dependency files and a setup python executable to aid in setting up your coding environment. The following directories are present
-
-- __code__: contains all python executables and jupyter notebooks which carry out computations for meeting project goals. All python executables contain documented, modularized functions. The jupyter notebooks serve to demonstrate the functionality of these executables.
-- __ndc_keywords__: contains `.json` files with keywords related to some of the NDCs for Ethiopia and South Africa. The notebook files in the code directory will load keywords from these files. 
-- __test_resources__: contains transcripts (OCR'd from PDF documents) of legislation and reports that are used in example analysis
-
-
-## Project Description
-[Link](https://docs.google.com/document/d/1TQnZ45oP10e3H9UsYSj_V2Pc01tcDRCa)  
-
-
-## Important links
-[Google Drive](https://drive.google.com/drive/u/3/folders/10Yh1W-qwxJoWgeznRIGU5LQ7GQbf2ldK)  
-[Polybox](https://polybox.ethz.ch/index.php/f/2556775543)  
-[Gitlab (you're already there ;) )](https://gitlab.com/analytics-club/hack4good/hack4good-fall-2021/giz-policy)  
-[Welcome booklet](https://drive.google.com/file/d/1NZ00G48gG8IADXyNZE4_LfaIMTBI__jx/view?usp=sharing)  
 
 ## Team
 
@@ -60,7 +45,4 @@ The root directory contains dependency files and a setup python executable to ai
 - Raphael Sgier
 - Jonathan Doorn
 - Paul Türtscher
-
-**meetings:**
-- 04.10.2021 project outline meeting 
 
