@@ -12,6 +12,7 @@ The root directory contains dependency files and a setup python executable to ai
 
 - __ndc_keywords__: contains `.json` files with keywords related to some of the NDCs for Ethiopia and South Africa. The notebook files in the code directory will load keywords from these files. 
 - __test_resources__: contains transcripts (OCR'd from PDF documents) of legislation and reports that are used in example analysis
+- __additional_resources__: contains the modified version of an Ontology csv file from a resource that GIZ pointed us to for the topic keyword searching (Ontology_final_modified.csv). It contains keywords grouped by categories.
 
 # Setup GIZ Project
 
