@@ -10,9 +10,10 @@ The root directory contains dependency files and a setup python executable to ai
     - The __corpus__ level notebook demonstrates keyword search at the document level to compare across documents, either using the simple matching method to find NDC words, or the sentence embedding through a pretrained neural network can be used to find/expand the NDC word searches at the document level. 
     - The __document__ level notebook is a sort of in between, and represents a somewhat earlier stage of work but not as early as the __1stPhase__ notebook - these notebooks were included mostly for the purposes of facilitating seeing how the work evolved over the course of the project, and are not meant to be built upon necessarily.
 
+
 - __ndc_keywords__: contains `.json` files with keywords related to some of the NDCs for Ethiopia and South Africa. The notebook files in the code directory will load keywords from these files. 
 - __test_resources__: contains transcripts (OCR'd from PDF documents) of legislation and reports that are used in example analysis
-- __additional_resources__: contains the modified version of an Ontology csv file from a resource that GIZ pointed us to for the topic keyword searching (Ontology_final_modified.csv). It contains keywords grouped by categories.
+- __additional_resources__: contains the modified version of an Ontology csv file from a resource that GIZ pointed us to for the topic keyword searching (Ontology_final_modified.csv). It contains keywords grouped by categories. Some of the code is based specifically on the formatting of this file, so keep that in mind if modifying the functions for a different keyword file layout or type. 
 
 # Setup GIZ Project
 
